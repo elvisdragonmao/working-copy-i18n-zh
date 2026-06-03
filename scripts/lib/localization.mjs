@@ -161,6 +161,104 @@ export function formatVariableSignature(signature) {
   return signature.map(([key, count]) => `${key.replace(/^(format|variable):/, "")} x${count}`).join(", ");
 }
 
+export function decodeHtmlEntities(value) {
+  return String(value ?? "")
+    .replaceAll("&nbsp;", " ")
+    .replaceAll("&amp;", "&")
+    .replaceAll("&lt;", "<")
+    .replaceAll("&gt;", ">")
+    .replaceAll("&quot;", "\"")
+    .replaceAll("&#39;", "'")
+    .replace(/&#(\d+);/g, (_, codePoint) => String.fromCodePoint(Number(codePoint)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, codePoint) => String.fromCodePoint(Number.parseInt(codePoint, 16)));
+}
+
+export function stripHtml(value) {
+  return decodeHtmlEntities(String(value ?? "").replace(/<[^>]*>/g, "")).trim();
+}
+
+export function parseUsageHtml(text) {
+  const rows = [];
+  const rowRe = /<tr\b[^>]*>([\s\S]*?)<\/tr>/gi;
+  for (const rowMatch of String(text ?? "").matchAll(rowRe)) {
+    const cells = {};
+    const cellRe = /<td\b([^>]*)>([\s\S]*?)<\/td>/gi;
+    for (const cellMatch of rowMatch[1].matchAll(cellRe)) {
+      const [, attrs, rawValue] = cellMatch;
+      const classMatch = attrs.match(/\bclass="([^"]+)"/i);
+      if (!classMatch) {
+        continue;
+      }
+      for (const className of classMatch[1].split(/\s+/)) {
+        if (["en", "tw", "cn"].includes(className)) {
+          cells[className] = stripHtml(rawValue);
+        }
+      }
+    }
+    if (cells.en && (cells.tw || cells.cn)) {
+      rows.push({
+        english: cells.en,
+        zhTW: cells.tw ?? "",
+        zhCN: cells.cn ?? "",
+      });
+    }
+  }
+  return rows;
+}
+
+export function parsePo(text) {
+  const entries = [];
+  let entry = null;
+  let field = null;
+
+  const finishEntry = () => {
+    if (entry && entry.msgid && entry.msgstr) {
+      entries.push(entry);
+    }
+  };
+
+  for (const rawLine of String(text ?? "").split(/\r?\n/)) {
+    const line = rawLine.trimEnd();
+    if (!line || line.startsWith("#~")) {
+      continue;
+    }
+    if (line.startsWith("msgid ")) {
+      finishEntry();
+      entry = { msgid: parsePoString(line.slice(6)), msgstr: "" };
+      field = "msgid";
+    } else if (line.startsWith("msgstr ") || line.startsWith("msgstr[")) {
+      if (!entry) {
+        entry = { msgid: "", msgstr: "" };
+      }
+      entry.msgstr += parsePoString(line.slice(line.indexOf(" ") + 1));
+      field = "msgstr";
+    } else if (line.startsWith("\"") && entry && field) {
+      entry[field] += parsePoString(line);
+    }
+  }
+  finishEntry();
+
+  return entries;
+}
+
+export function parsePoString(value) {
+  try {
+    return JSON.parse(value);
+  } catch {
+    return value.replace(/^"/, "").replace(/"$/, "").replace(/\\"/g, "\"").replace(/\\n/g, "\n");
+  }
+}
+
+export function poEntriesToMap(entries) {
+  const map = new Map();
+  for (const entry of entries) {
+    if (entry.msgid && entry.msgstr && !map.has(entry.msgid)) {
+      map.set(entry.msgid, entry.msgstr);
+    }
+  }
+  return map;
+}
+
 export function validateLocalizationRows(rows) {
   const errors = [];
 
