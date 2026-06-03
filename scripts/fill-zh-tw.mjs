@@ -64,7 +64,7 @@ const PHRASE_REPLACEMENTS = [
   ["文本", "文字"],
   ["訊息框", "訊息方塊"],
   ["不可訪問", "無法存取"],
-  ["私鑰", "私密金鑰"],
+  ["私鑰", "密鑰"],
   ["公鑰", "公開金鑰"],
   ["主機金鑰", "主機金鑰"],
   ["密碼短語", "密碼片語"],
@@ -236,7 +236,7 @@ function cleanGeneratedTranslation(text) {
     .replaceAll("Git版本庫", "Git 版本庫")
     .replaceAll("SSH金鑰", "SSH 金鑰")
     .replaceAll("SSH公開金鑰", "SSH 公開金鑰")
-    .replaceAll("SSH私密金鑰", "SSH 私密金鑰")
+    .replaceAll("SSH密鑰", "SSH 密鑰")
     .replaceAll("URL Callbacks金鑰", "URL Callbacks 金鑰")
     .replaceAll("AppStore", "App Store")
     .replaceAll("WorkingCopy", "Working Copy");
