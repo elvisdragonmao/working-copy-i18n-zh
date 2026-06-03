@@ -250,12 +250,15 @@ function buildHtml(data) {
       background: var(--bg);
       color: var(--text);
       font: 14px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      overflow: hidden;
     }
 
     .app {
-      min-height: 100vh;
+      height: 100vh;
+      min-height: 0;
       display: grid;
       grid-template-rows: auto 1fr;
+      overflow: hidden;
     }
 
     header {
@@ -331,11 +334,13 @@ function buildHtml(data) {
       min-height: 0;
       display: grid;
       grid-template-columns: minmax(520px, 58vw) minmax(360px, 1fr);
+      overflow: hidden;
     }
 
     .table-pane,
     .detail-pane {
       min-height: 0;
+      height: 100%;
       overflow: auto;
     }
 
@@ -421,6 +426,8 @@ function buildHtml(data) {
     .detail-pane {
       background: var(--bg);
       padding: 18px;
+      position: sticky;
+      top: 0;
     }
 
     .detail {
