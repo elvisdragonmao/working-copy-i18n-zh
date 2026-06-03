@@ -150,9 +150,10 @@ function splitAlternatives(value) {
 }
 
 function findReferenceMatches(terms, row) {
+  const referenceText = row.english.replace(/\bWorking Copy\b/gi, "");
   const matches = [];
   for (const term of terms) {
-    if (!includesEnglishTerm(row.english, term.english)) {
+    if (!includesEnglishTerm(referenceText, term.english)) {
       continue;
     }
     const cnSame = term.zhCN.some((value) => row.zhCN.includes(value));
