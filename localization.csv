@@ -959,10 +959,10 @@ Edit Widget to pick Repository,placeholder shown when widget has no repository c
 Existing or new remote reference,section header for remote reference field in custom push,2.8,Eksisterende eller ny remote-reference,Vorhandene oder neue Remote-Referenz,现有或新的远程引用,現有或新的遠端引用
 Identity Details,back button title for identity detail screen,2.8,Identitetsdetaljer,Identitätsdetails,身份详情,身分詳情
 Identity Image Sources,section header for avatar image source toggles in settings,2.8,Kilder til identitetsbilleder,Quellen für Identitätsbilder,身份头像来源,身分頭像來源
-In-App purchase not allowed. Check Restrictions in General Settings.,error when device restrictions prevent in-app purchases,2.8,Køb i app er ikke tilladt. Kontrollér begrænsninger i Generelle indstillinger.,In-App-Kauf nicht erlaubt. Überprüfe die Einschränkungen in den allgemeinen Einstellungen.,不允许应用内购买。请检查通用设置中的限制。,不允許 App 內購買。請檢查通用設定中的限制。
+In-App purchase not allowed. Check Restrictions in General Settings.,error when device restrictions prevent in-app purchases,2.8,Køb i app er ikke tilladt. Kontrollér begrænsninger i Generelle indstillinger.,In-App-Kauf nicht erlaubt. Überprüfe die Einschränkungen in den allgemeinen Einstellungen.,不允许应用内购买。请检查通用设置中的限制。,不允許 App 內購買。請檢查一般設定中的限制。
 Merge with remote,empty state: combine changes downloaded from the server,2.8,Merge med remote,Merge mit Remote,与远程合并,與遠端合併
 New Remote,navigation title when adding a new remote to the repository,2.8,Ny remote,Neue Remote,新建远程,新建遠端
-No purchases restored. When using the TestFlight version you cannot restore purchases. Fortunately purchases made in the TestFlight version are not charged from your iTunes account.,shown after restore purchases in TestFlight beta build,2.8,Ingen køb gendannet. Når du bruger TestFlight-versionen kan du ikke gendanne køb. Heldigvis bliver køb foretaget i TestFlight-versionen ikke trukket fra din iTunes-konto.,Keine Käufe wiederhergestellt. Bei Verwendung der TestFlight-Version kannst du keine Käufe wiederherstellen. Glücklicherweise werden Käufe in der TestFlight-Version nicht von deinem iTunes-Konto abgebucht.,未恢复任何购买。使用 TestFlight 版本时无法恢复购买。幸运的是，在 TestFlight 版本中的购买不会从你的 iTunes 账户扣费。,未恢復任何購買。使用 TestFlight 版本時無法恢復購買。幸運的是，在 TestFlight 版本中的購買不會從你的 iTunes 帳戶扣費。
+No purchases restored. When using the TestFlight version you cannot restore purchases. Fortunately purchases made in the TestFlight version are not charged from your iTunes account.,shown after restore purchases in TestFlight beta build,2.8,Ingen køb gendannet. Når du bruger TestFlight-versionen kan du ikke gendanne køb. Heldigvis bliver køb foretaget i TestFlight-versionen ikke trukket fra din iTunes-konto.,Keine Käufe wiederhergestellt. Bei Verwendung der TestFlight-Version kannst du keine Käufe wiederherstellen. Glücklicherweise werden Käufe in der TestFlight-Version nicht von deinem iTunes-Konto abgebucht.,未恢复任何购买。使用 TestFlight 版本时无法恢复购买。不过好在 TestFlight 版本中的购买不会从你的 iTunes 账户扣费。,未恢復任何購買。使用 TestFlight 版本時無法恢復購買。不過好在 TestFlight 版本中的購買不會從你的 iTunes 帳戶扣費。
 No repository selected,empty state headline when no repository is selected in split view,2.8,Intet repository valgt,Kein Repository ausgewählt,未选择仓库,未選擇版本庫
 Open at remote,disabled menu command when no hosting provider URL is available,2.8,Åbn på remote,Auf Remote öffnen,在远程打开,在遠端開啟
 Personal access token,placeholder text in password field for GitHub authentication,2.8,Personal access token,Personal Access Token,个人访问令牌,個人存取權杖
@@ -981,7 +981,7 @@ Restore previous purchase,storyboard string for Restore previous purchase,2.8,Ge
 Retry,button to retry failed in-app purchase during migration,2.8,Prøv igen,Erneut versuchen,重试,重試
 Select Identity,placeholder when no identity is selected,2.8,Vælg identitet,Identität auswählen,选择身份,選擇身分
 Split,button title to switch to split view in conflict resolution,2.8,Opdel,Nebeneinander,分栏,分欄
-Transferring Unlock,navigation title while converting enterprise purchase to in-app purchase,2.8,Overfører Unlock,Freischaltung wird übertragen,正在传输解锁,正在傳輸解鎖
+Transferring Unlock,navigation title while converting enterprise purchase to in-app purchase,2.8,Overfører Unlock,Freischaltung wird übertragen,正在解锁,正在解鎖
 Transferring paid download to in-app purchase failed. Please try again.,error message when in-app purchase fails during enterprise migration,2.8,Overførsel af betalt download til køb i app mislykkedes. Prøv venligst igen.,Übertragung des bezahlten Downloads zum In-App-Kauf fehlgeschlagen. Bitte versuche es erneut.,将付费下载转换为应用内购买失败。请重试。,將付費下載轉換為 App 內購買失敗。請重試。
 Trying to restore purchase by validating app receipt. TestFlight apps can take longer doing this validation and has a higher failure rate.,status message shown in TestFlight builds during receipt-based purchase restoration,2.8,Forsøger at gendanne køb ved at validere app-kvittering. TestFlight-apps kan bruge længere tid på denne validering og har en højere fejlrate.,Kauf wird durch Validierung der App-Quittung wiederhergestellt. TestFlight-Apps können für diese Validierung länger brauchen und haben eine höhere Fehlerrate.,正在通过验证应用收据来恢复购买。TestFlight 应用执行此验证可能需要更长时间，且失败率更高。,正在通過驗證 App 收據來恢復購買。TestFlight App 執行此驗證可能需要更長時間，且失敗率更高。
 Trying to restore purchase through transactions. TestFlight apps can take longer and has a higher failure rate.,status message shown in TestFlight builds during transaction-based purchase restoration,2.8,Forsøger at gendanne køb gennem transaktioner. TestFlight-apps kan bruge længere tid og har en højere fejlrate.,Kauf wird durch Transaktionen wiederhergestellt. TestFlight-Apps können länger brauchen und haben eine höhere Fehlerrate.,正在通过交易记录恢复购买。TestFlight 应用可能需要更长时间，且失败率更高。,正在通過交易記錄恢復購買。TestFlight App 可能需要更長時間，且失敗率更高。
@@ -1005,8 +1005,8 @@ paid download %d months ago,label with %d = number of months since app was purch
 paid download %d%@ years ago,label with %d = number of years and %@ = half-year fraction since app was purchased,2.8,betalt download for %d%@ år siden,bezahlter Download vor %d%@ Jahren,%d%@ 年前付费下载,%d%@ 年前付費下載
 🤨,emoji shown when purchase is verified and data transfer is ready,2.8,🤨,🤨,🤨,🤨
 Clone,button to start downloading a copy of a remote repository,2.7,Clone,Clone,克隆,拓製
-Touch Debug Off,Accessibility label for touch debug button when disabled,2.7,Touch-fejlsøgning fra,Touch-Debug aus,触摸调试已关闭,觸控除錯已關閉
-Touch Debug On,Accessibility label for touch debug button when enabled,2.7,Touch-fejlsøgning til,Touch-Debug an,触摸调试已开启,觸控除錯已開啟
+Touch Debug Off,Accessibility label for touch debug button when disabled,2.7,Touch-fejlsøgning fra,Touch-Debug aus,触摸调试已关闭,觸控偵錯已關閉
+Touch Debug On,Accessibility label for touch debug button when enabled,2.7,Touch-fejlsøgning til,Touch-Debug an,触摸调试已开启,觸控偵錯已開啟
 You picked a %@ file where a %@ file was expected.,"warning about unexpected file type. first %@ is picked type, second %@ is expected type",2.6,Du valgte en %@-fil hvor en %@-fil var forventet.,"Du hast eine %@-Datei ausgewählt, wo eine %@-Datei erwartet wurde.",你选择了一个 %@ 文件，但期望的是 %@ 文件。,你選擇了一個 %@ 檔案，但期望的是 %@ 檔案。
 "
 
@@ -1016,9 +1016,9 @@ Overvej at bruge Personal access tokens konfigureret under Developer settings p�
 
 Erwäge die Verwendung von Personal access tokens, konfiguriert unter Developer settings auf GitHub.com","
 
-建议使用在 GitHub.com 的 Developer settings 中配置的 Personal access tokens","
+建议使用在 GitHub.com 中 Developer settings 配置的 Personal access tokens","
 
-建議使用在 GitHub.com 的 Developer settings 中設定的 Personal access tokens"
+建議使用在 GitHub.com 中 Developer settings 設定的 Personal access tokens"
 "
 
 Consider using a Personal access tokens configured at Developer settings on the GitHub website.",suggestion appended to OTP authentication error for GitHub Enterprise users,2.5,"
@@ -1027,9 +1027,9 @@ Overvej at bruge Personal access tokens konfigureret under Developer settings p�
 
 Erwäge die Verwendung von Personal access tokens, konfiguriert unter Developer settings auf der GitHub-Website.","
 
-建议使用在 GitHub 网站的 Developer settings 中配置的 Personal access tokens。","
+建议使用在 GitHub 网站中 Developer settings 配置的 Personal access tokens。","
 
-建議使用在 GitHub 網站的 Developer settings 中設定的 Personal access tokens。"
+建議使用在 GitHub 網站中 Developer settings 設定的 Personal access tokens。"
 "
 
 It looks like your have Fetch but not Push access to remote. Push has been disabled.",appended to error when push test fails but fetch succeeds,2.5,"
@@ -1121,8 +1121,8 @@ Fetch from ${repo} remote,,2.5,Fetch fra ${repo} remote,Vom ${repo}-Remote fetch
 Fetch from remote to %@,activity: download latest changes from server into repository (arg 1),2.5,Fetch fra remote til %@,Vom Remote nach %@ fetchen,从远程获取到 %@,從遠端抓取到 %@
 Force Push,destructive button to force push overwriting remote changes,2.5,Force Push,Force Push,强制推送,強制推送
 Forget,Swipe action to delete an authentication cookie,2.5,Glem,Vergessen,忘记,忘記
-Fork,cancel error action for forking a repository,2.5,Fork,Fork,复刻,復刻
-Fork & Push,action: fork the repo and then push to it,2.5,Fork & Push,Fork & Push,复刻并推送,復刻並推送
+Fork,cancel error action for forking a repository,2.5,Fork,Fork,复刻,Fork
+Fork & Push,action: fork the repo and then push to it,2.5,Fork & Push,Fork & Push,复刻并推送,Fork 並推送
 Forwarding to %@:%d failed,"error when SSH tunnel connection to remote host fails, %@ is host and %d is port",2.5,Videresendelse til %@:%d mislykkedes,Weiterleitung an %@:%d fehlgeschlagen,转发到 %@:%d 失败,轉發到 %@:%d 失敗
 GitHub OAuth state was changed.,error when OAuth state parameter does not match expected value,2.5,GitHub OAuth-tilstand blev ændret.,GitHub-OAuth-Zustand wurde geändert.,GitHub OAuth 状态已更改。,GitHub OAuth 狀態已變更。
 GitHub user %@ isn't registered as a student developer.,"error when student developer validation fails, %@ is the GitHub username",2.5,GitHub-bruger %@ er ikke registreret som studenterudvikler.,GitHub-Benutzer %@ ist nicht als Studierender registriert.,GitHub 用户 %@ 未注册为学生开发者。,GitHub 使用者 %@ 未註冊為學生開發者。
@@ -3043,7 +3043,7 @@ Files app Synchronisation,free feature: syncing repository files with the iOS Fi
 Folder is not allowed to contain slashes.,Shortcuts clone error when folder name contains slash characters,1.6,Mappenavn må ikke indeholde skråstreger.,Ordnername darf keine Schrägstriche enthalten.,文件夹名称不允许包含斜杠。,資料夾名稱不允許包含斜槓。
 Full merge required but only fast-forward is allowed.,error when merge cannot be fast-forwarded but repository settings only allow fast-forward,1.6,"Fuld merge påkrævet, men kun fast-forward er tilladt.","Vollständiger Merge erforderlich, aber nur Fast-Forward ist erlaubt.",需要完整合并，但仅允许快进。,需要完整合並，但僅允許快進。
 GPG key %@,"title for a GPG signing key, %@ is the key ID",1.6,GPG-nøgle %@,GPG-Schlüssel %@,GPG 密钥 %@,GPG 金鑰 %@
-GitHub cannot make pull request as it does not consider %@ a fork of %@.,"error when PR creation fails, first %@ is head repo URL, second %@ is base repo URL",1.6,"GitHub kan ikke oprette pull request, da det ikke betragter %@ som en fork af %@.","GitHub kann keinen Pull Request erstellen, da es %@ nicht als Fork von %@ betrachtet.",GitHub 无法创建拉取请求，因为它不认为 %@ 是 %@ 的复刻。,GitHub 無法建立Pull Request，因為它不認為 %@ 是 %@ 的復刻。
+GitHub cannot make pull request as it does not consider %@ a fork of %@.,"error when PR creation fails, first %@ is head repo URL, second %@ is base repo URL",1.6,"GitHub kan ikke oprette pull request, da det ikke betragter %@ som en fork af %@.","GitHub kann keinen Pull Request erstellen, da es %@ nicht als Fork von %@ betrachtet.",GitHub 无法创建拉取请求，因为它不认为 %@ 是 %@ 的复刻。,GitHub 無法建立Pull Request，因為它不認為 %@ 是 %@ 的 Fork。
 GitLab & Stash integration,free feature: integration with GitLab and Atlassian Stash hosting,1.6,GitLab & Stash-integration,GitLab- & Stash-Integration,GitLab 和 Stash 集成,GitLab 和 Stash 整合
 Gruvbox Dark,name of the Gruvbox Dark syntax highlighting color scheme,1.6,Gruvbox Dark,Gruvbox Dark,Gruvbox Dark,Gruvbox Dark
 Happy holidays from Working Copy,commit message used for holiday activity commits on GitHub,1.6,Glædelig jul fra Working Copy,Frohe Feiertage von Working Copy,Working Copy 祝你节日快乐,Working Copy 祝你節日快樂
@@ -3240,7 +3240,7 @@ Verwende die 'Wenn Datei existiert'-Option, um dieses Verhalten zu ändern.","�
 Remove Key from %@,button to delete signing key; %@ is the device model name like iPhone or iPad,1.6,Fjern nøgle fra %@,Schlüssel von %@ entfernen,从 %@ 移除密钥,從 %@ 移除金鑰
 Repository Name is not allowed to contain slashes.,Shortcuts clone error when repository name contains slash characters,1.6,Repository-navn må ikke indeholde skråstreger.,Repository-Name darf keine Schrägstriche enthalten.,仓库名称不允许包含斜杠。,版本庫名稱不允許包含斜槓。
 Repository created. It will be empty until you push.,success message after creating a new remote repository,1.6,Repository oprettet. Det vil være tomt indtil du pusher.,"Repository erstellt. Es ist leer, bis du pushst.",仓库已创建。在你推送之前它将是空的。,版本庫已建立。在你推送之前它將是空的。
-Repository forking not supported for this HostingProvider,error when the hosting provider does not support forking repositories,1.6,Fork af repository understøttes ikke for denne HostingProvider,Forken des Repositorys wird für diesen HostingProvider nicht unterstützt,此 HostingProvider 不支持复刻仓库,此 HostingProvider 不支援復刻版本庫
+Repository forking not supported for this HostingProvider,error when the hosting provider does not support forking repositories,1.6,Fork af repository understøttes ikke for denne HostingProvider,Forken des Repositorys wird für diesen HostingProvider nicht unterstützt,此 HostingProvider 不支持复刻仓库,此 HostingProvider 不支援 Fork 版本庫
 "Repository has %d modified files, but commit limit is %d.","error when commit exceeds file limit for whole repo, args: file count, limit",1.6,"Repository har %d ændrede filer, men commit-grænsen er %d.","Repository hat %d geänderte Dateien, aber das Commit-Limit ist %d.",仓库有 %d 个已修改文件，但提交限制为 %d。,版本庫有 %d 個已修改檔案，但提交限制為 %d。
 Repository name cannot contain .. as it will be used as a directory name.,error when repository name has parent directory traversal,1.6,Repository-navn kan ikke indeholde .. da det bruges som mappenavn.,"Repository-Name darf .. nicht enthalten, da er als Verzeichnisname verwendet wird.",仓库名称不能包含 ..，因为它将用作目录名。,版本庫名稱不能包含 ..，因為它將用作目錄名。
 Repository name cannot contain / : newline or control characters.,error when the forced repository name contains invalid characters,1.6,Repository-navn kan ikke indeholde / : linjeskift eller kontroltegn.,Repository-Name darf / : Zeilenumbrüche oder Steuerzeichen nicht enthalten.,仓库名称不能包含 /、: 、换行符或控制字符。,版本庫名稱不能包含 /、: 、換行符或控制字元。
@@ -4142,7 +4142,7 @@ Share Zip Archive,activity title for sharing a directory as a zip archive,1.0,De
 Show Details,context menu action to view SSH key details,1.0,Vis detaljer,Details anzeigen,显示详情,顯示詳情
 Stop WebDAV,activity title for stopping the WebDAV file server,1.0,Stop WebDAV,WebDAV stoppen,停止 WebDAV,停止 WebDAV
 Test Shortcut,debug-only action title for testing Shortcuts integration,1.0,Test genvej,Kurzbefehl testen,测试快捷指令,測試捷徑
-Toggle Debug Info,,1.0,Skift fejlsøgningsinfo,Debug-Info umschalten,切换调试信息,切換除錯資訊
+Toggle Debug Info,,1.0,Skift fejlsøgningsinfo,Debug-Info umschalten,切换调试信息,切換偵錯資訊
 Toggle Scheme,activity title for toggling between dark and light color schemes,1.0,Skift farveskema,Farbschema umschalten,切换配色方案,切換配色方案
 Truncate,button to truncate the TestFlight log,1.0,Afkort,Kürzen,截断,截斷
 "You can configure GitHub Enterprise servers, Beanstalk, Gitea, and GitLab.
