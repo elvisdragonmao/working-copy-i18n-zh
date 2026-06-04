@@ -139,7 +139,7 @@ Tippe, um mehr zu erfahren.","未恢复任何购买。
 轻触了解更多。","未恢復任何購買。
 
 點一下瞭解更多。"
-Pro Capability upgrade possible,settings detail text when user can upgrade their Pro unlock,4.9,Pro-opgradering mulig,Pro-Upgrade möglich,可升级專業版功能,可升級專業版功能
+Pro Capability upgrade possible,settings detail text when user can upgrade their Pro unlock,4.9,Pro-opgradering mulig,Pro-Upgrade möglich,可升级专业版功能,可升級專業版功能
 Repository name,placeholder in text field when renaming a repository,4.9,Repository-navn,Repository-Name,仓库名称,版本庫名稱
 "You have reached the maximum number of repositories.
 
@@ -573,10 +573,10 @@ ohne automatischen Kauf","一次性试用解锁 10 天
 无自动购买","一次性試用解鎖 10 天
 無自動購買"
 Organize repositories into folders with pro unlock.,upgrade prompt for organizing repositories into folders,4.0,Organiser repositories i mapper med pro-oplåsning.,Organisiere Repositories in Ordnern mit Pro-Freischaltung.,通过 Pro 解锁将仓库整理到文件夹中。,通過專業版解鎖將版本庫整理到資料夾中。
-Pro features not covered,section header for pro features added after the user's unlock expired,4.0,Pro-funktioner ikke dækket,Pro-Funktionen nicht abgedeckt,未涵盖的專業版功能,未涵蓋的專業版功能
+Pro features not covered,section header for pro features added after the user's unlock expired,4.0,Pro-funktioner ikke dækket,Pro-Funktionen nicht abgedeckt,未涵盖的专业版功能,未涵蓋的專業版功能
 Protect Working Copy with screen lock as part of pro unlock.,upgrade prompt for app screen lock,4.0,Beskyt Working Copy med skærmlås som del af pro-oplåsning.,Schütze Working Copy mit Bildschirmsperre als Teil der Pro-Freischaltung.,通过 Pro 解锁来使用屏幕锁定保护 Working Copy。,通過專業版解鎖來使用螢幕鎖定保護 Working Copy。
 Pull,keyboard shortcut menu item to download and integrate remote changes in one step,4.0,Pull,Pull,拉取,拉取
-Pull Request creation is a pro feature.,upgrade prompt,4.0,Oprettelse af pull request er en pro-funktion.,Pull-Request-Erstellung ist eine Pro-Funktion.,创建 Pull Request 是專業版功能。,建立 Pull Request 是專業版功能。
+Pull Request creation is a pro feature.,upgrade prompt,4.0,Oprettelse af pull request er en pro-funktion.,Pull-Request-Erstellung ist eine Pro-Funktion.,创建 Pull Request 是专业版功能。,建立 Pull Request 是專業版功能。
 Pull to fetch from remote.,pull-to-refresh hint when repository has one remote,4.0,Træk ned for at fetche fra remote.,"Herunterziehen, um vom Remote zu fetchen.",下拉以从远程获取。,下拉以從遠端抓取。
 Pull to fetch from remotes.,pull-to-refresh hint when repository has multiple remotes,4.0,Træk ned for at fetche fra remotes.,"Herunterziehen, um von Remotes zu fetchen.",下拉以从远程获取。,下拉以從遠端抓取。
 Purchase,,4.0,Køb,Kaufen,购买,購買
@@ -625,7 +625,7 @@ Das hilft, die App zu verbessern.","感谢你支持 Working Copy 的开发。
 The existing %@ has uncommitted changes that will be lost beyond recovery.,warning when overwriting a file with uncommitted changes. %@ is filename,4.0,"Den eksisterende %@ har ikke-committede ændringer, der vil gå uigenkaldeligt tabt.","Das vorhandene %@ hat nicht-committete Änderungen, die unwiderruflich verloren gehen.",现有的 %@ 有未提交的更改，这些更改将永久丢失且无法恢复。,現有的 %@ 有未提交的變更，這些變更將永久丟失且無法恢復。
 There are uncommitted changes that will be lost beyond recovery.,warning shown before deleting a file with uncommitted changes,4.0,Der er ikke-committede ændringer der vil gå uigenkaldeligt tabt.,"Es gibt nicht-committete Änderungen, die unwiderruflich verloren gehen.",有未提交的更改将永久丢失且无法恢复。,有未提交的變更將永久丟失且無法恢復。
 There is already a entry %@. Pick another name.,error when filename already exists in directory. %@ is the conflicting name,4.0,Der er allerede en post %@. Vælg et andet navn.,Es gibt bereits einen Eintrag %@. Wähle einen anderen Namen.,已存在条目 %@。请选择其他名称。,已存在項目 %@。請選擇其他名稱。
-To make Working Copy fully useful you can unlock the ability to push commits to remote servers and other pro features.,storyboard string for To make Working Copy fully useful you can unlock the ability to push commits to remote servers and other pro features.,4.0,For at gøre Working Copy fuldt brugbar kan du låse op for muligheden for at pushe commits til remote-servere og andre pro-funktioner.,"Um Working Copy vollständig zu nutzen, kannst du die Möglichkeit freischalten, Commits auf Remote-Server zu pushen und andere Pro-Funktionen zu nutzen.",要充分发挥 Working Copy 的功能，你可以解锁向远程服务器推送提交以及其他專業版功能。,要充分發揮 Working Copy 的功能，你可以解鎖向遠端伺服器推送提交以及其他專業版功能。
+To make Working Copy fully useful you can unlock the ability to push commits to remote servers and other pro features.,storyboard string for To make Working Copy fully useful you can unlock the ability to push commits to remote servers and other pro features.,4.0,For at gøre Working Copy fuldt brugbar kan du låse op for muligheden for at pushe commits til remote-servere og andre pro-funktioner.,"Um Working Copy vollständig zu nutzen, kannst du die Möglichkeit freischalten, Commits auf Remote-Server zu pushen und andere Pro-Funktionen zu nutzen.",要充分发挥 Working Copy 的功能，你可以解锁向远程服务器推送提交以及其他专业版功能。,要充分發揮 Working Copy 的功能，你可以解鎖向遠端伺服器推送提交以及其他專業版功能。
 Trial+Payment,,4.0,Prøveperiode+Betaling,Testphase+Zahlung,试用+付款,試用+付款
 Unable to lookup remote %@ in %@.,"error when remote cannot be found, first %@ is remote name, second %@ is repository name",4.0,Kan ikke finde remote %@ i %@.,Remote %@ kann nicht in %@ gefunden werden.,无法在 %2$@ 中查找远程 %1$@。,無法在 %2$@ 中查詢遠端 %1$@。
 Unlock,button to unlock the app with password,4.0,Unlock,Freischalten,解锁,解鎖
@@ -637,8 +637,8 @@ Unlock,storyboard string for Unlock,4.0,Lås op,Freischalten,解锁,解鎖
 ","解鎖
 "
 Unlock Private key,biometric/passcode prompt reason when exporting private SSH key,4.0,Lås privat nøgle op,Privaten Schlüssel entsperren,解锁私钥,解鎖密鑰
-Unlock Pro Capability,storyboard string for Unlock Pro Capability,4.0,Lås Pro-funktion op,Pro-Funktion freischalten,解锁專業版功能,解鎖專業版功能
-Unlock Pro Capability,storyboard string for Unlock Pro Capability,4.0,Lås Pro-funktion op,Pro-Funktion freischalten,解锁專業版功能,解鎖專業版功能
+Unlock Pro Capability,storyboard string for Unlock Pro Capability,4.0,Lås Pro-funktion op,Pro-Funktion freischalten,解锁专业版功能,解鎖專業版功能
+Unlock Pro Capability,storyboard string for Unlock Pro Capability,4.0,Lås Pro-funktion op,Pro-Funktion freischalten,解锁专业版功能,解鎖專業版功能
 Unlock Screen.,biometric authentication prompt reason,4.0,Lås skærmen op.,Bildschirm entsperren.,解锁屏幕。,解鎖螢幕。
 Unlock all features for %@ which is %d%% off.,"discount notification, %@ is localized price, %d is discount percentage",4.0,Lås alle funktioner op for %@ som er %d%% rabat.,"Alle Funktionen freischalten für %@, das sind %d%% Rabatt.",以 %@ 解锁所有功能，享受 %d%% 折扣。,以 %@ 解鎖所有功能，享受 %d%% 折扣。
 Unlock and Disable,button to unlock and permanently disable screen lock,4.0,Lås op og deaktiver,Entsperren und deaktivieren,解锁并停用,解鎖並停用
@@ -689,7 +689,7 @@ Bitte unterstütze die Entwicklung.","你已使用 Working Copy %d 年。
 You need to stage at least one file to commit. Tap box to the left of files to stage.,instruction when user tries to commit with no staged files,4.0,Du skal stage mindst én fil for at committe. Tryk på boksen til venstre for filer for at stage.,"Du musst mindestens eine Datei stagen, um zu committen. Tippe auf das Kästchen links neben den Dateien zum Stagen.",你需要至少暂存一个文件才能提交。轻触文件左侧的方框以暂存。,你需要至少暫存一個檔案才能提交。點一下檔案左側的方框以暫存。
 remote,generic fallback name for a remote when its name starts with @,4.0,remote,Remote,远程,遠端
 unlock,short log kind identifier for app unlock,4.0,lås op,entsperren,解锁,解鎖
-x-callback-url/%@ is only available if you have Pro Capability unlocked.,"error when callback requires Pro unlock, arg: command name",4.0,x-callback-url/%@ er kun tilgængelig hvis du har Pro-funktionalitet låst op.,"x-callback-url/%@ ist nur verfügbar, wenn du die Pro-Funktionalität freigeschaltet hast.",x-callback-url/%@ 仅在你解锁了專業版功能后可用。,x-callback-url/%@ 僅在你解鎖了專業版功能後可用。
+x-callback-url/%@ is only available if you have Pro Capability unlocked.,"error when callback requires Pro unlock, arg: command name",4.0,x-callback-url/%@ er kun tilgængelig hvis du har Pro-funktionalitet låst op.,"x-callback-url/%@ ist nur verfügbar, wenn du die Pro-Funktionalität freigeschaltet hast.",x-callback-url/%@ 仅在你解锁了专业版功能后可用。,x-callback-url/%@ 僅在你解鎖了專業版功能後可用。
 Amend Last Commit…,"menu item to modify the most recent commit, e.g. to fix a mistake",3.9,Amend sidste commit…,Letzten Commit amenden…,修补最近的提交…,修補最近的提交…
 Branches,"menu title for listing branches, which are parallel lines of development in a repository",3.9,Branches,Branches,分支,分支
 Check out branch,submenu title for switching to a different branch,3.9,Check out branch,Branch auschecken,检出分支,簽出分支
@@ -772,7 +772,7 @@ Restore access by logging into GitHub inside Working Copy with a student develop
 
 Gendan adgang ved at logge ind på GitHub i Working Copy med en student developer-konto og besøge workingcopy.app/education/","Du hast keinen Zugang mehr zu Pro-Funktionen über das GitHub Student Developer Pack, da %@ sich anstelle von %@ angemeldet hat.
 
-Stelle den Zugang wieder her, indem du dich in Working Copy bei GitHub mit einem Student-Developer-Konto anmeldest und workingcopy.app/education/ besuchst","由于 %@ 登录而非 %@，你不再通过 GitHub Student Developer Pack 访问專業版功能。
+Stelle den Zugang wieder her, indem du dich in Working Copy bei GitHub mit einem Student-Developer-Konto anmeldest und workingcopy.app/education/ besuchst","由于 %@ 登录而非 %@，你不再通过 GitHub Student Developer Pack 访问专业版功能。
 
 请在 Working Copy 中使用学生开发者账户登录 GitHub 并访问 workingcopy.app/education/ 以恢复访问权限","由於 %@ 登入而非 %@，你不再通過 GitHub Student Developer Pack 存取專業版功能。
 
@@ -783,7 +783,7 @@ Restore access by logging into GitHub inside Working Copy with a student develop
 
 Gendan adgang ved at logge ind på GitHub i Working Copy med en student developer-konto og besøge workingcopy.app/education/","Du hast keinen Zugang mehr zu Pro-Funktionen über das GitHub Student Developer Pack, da %@ sich abgemeldet hat.
 
-Stelle den Zugang wieder her, indem du dich in Working Copy bei GitHub mit einem Student-Developer-Konto anmeldest und workingcopy.app/education/ besuchst","由于 %@ 已退出登录，你不再通过 GitHub Student Developer Pack 访问專業版功能。
+Stelle den Zugang wieder her, indem du dich in Working Copy bei GitHub mit einem Student-Developer-Konto anmeldest und workingcopy.app/education/ besuchst","由于 %@ 已退出登录，你不再通过 GitHub Student Developer Pack 访问专业版功能。
 
 请在 Working Copy 中使用学生开发者账户登录 GitHub 并访问 workingcopy.app/education/ 以恢复访问权限","由於 %@ 已退出登入，你不再通過 GitHub Student Developer Pack 存取專業版功能。
 
@@ -994,13 +994,13 @@ It is ready to move your repositories and settings.","message after in-app purch
 
 Den er klar til at flytte dine repositories og indstillinger.","Working Copy hat alle Pro-Funktionen freigeschaltet, die vor %@ eingeführt wurden.
 
-Es ist bereit, deine Repositories und Einstellungen zu übertragen.","Working Copy 已解锁 %@ 之前推出的所有專業版功能。
+Es ist bereit, deine Repositories und Einstellungen zu übertragen.","Working Copy 已解锁 %@ 之前推出的所有专业版功能。
 
 它已准备好迁移你的仓库和设置。","Working Copy 已解鎖 %@ 之前推出的所有專業版功能。
 
 它已準備好遷移你的版本庫和設定。"
-Your %@ can be converted to a unlock of Pro features introduced up to and including %@.,"future migration status: first %@ = purchase description, second %@ = end month/year",2.8,Din %@ kan konverteres til en oplåsning af Pro-funktioner introduceret op til og med %@.,"Dein %@ kann in eine Freischaltung von Pro-Funktionen umgewandelt werden, die bis einschließlich %@ eingeführt wurden.",你的 %@ 可以转换为解锁截至 %@（含）推出的專業版功能。,你的 %@ 可以轉換為解鎖截至 %@（含）推出的專業版功能。
-Your %@ has been converted to a unlock of Pro features introduced up to and including %@.,"migration status: first %@ = purchase description, second %@ = end month/year",2.8,Din %@ er blevet konverteret til en oplåsning af Pro-funktioner introduceret op til og med %@.,"Dein %@ wurde in eine Freischaltung von Pro-Funktionen umgewandelt, die bis einschließlich %@ eingeführt wurden.",你的 %@ 已转换为解锁截至 %@（含）推出的專業版功能。,你的 %@ 已轉換為解鎖截至 %@（含）推出的專業版功能。
+Your %@ can be converted to a unlock of Pro features introduced up to and including %@.,"future migration status: first %@ = purchase description, second %@ = end month/year",2.8,Din %@ kan konverteres til en oplåsning af Pro-funktioner introduceret op til og med %@.,"Dein %@ kann in eine Freischaltung von Pro-Funktionen umgewandelt werden, die bis einschließlich %@ eingeführt wurden.",你的 %@ 可以转换为解锁截至 %@（含）推出的专业版功能。,你的 %@ 可以轉換為解鎖截至 %@（含）推出的專業版功能。
+Your %@ has been converted to a unlock of Pro features introduced up to and including %@.,"migration status: first %@ = purchase description, second %@ = end month/year",2.8,Din %@ er blevet konverteret til en oplåsning af Pro-funktioner introduceret op til og med %@.,"Dein %@ wurde in eine Freischaltung von Pro-Funktionen umgewandelt, die bis einschließlich %@ eingeführt wurden.",你的 %@ 已转换为解锁截至 %@（含）推出的专业版功能。,你的 %@ 已轉換為解鎖截至 %@（含）推出的專業版功能。
 paid download %d months ago,label with %d = number of months since app was purchased,2.8,betalt download for %d måneder siden,bezahlter Download vor %d Monaten,%d 个月前付费下载,%d 個月前付費下載
 paid download %d%@ years ago,label with %d = number of years and %@ = half-year fraction since app was purchased,2.8,betalt download for %d%@ år siden,bezahlter Download vor %d%@ Jahren,%d%@ 年前付费下载,%d%@ 年前付費下載
 🤨,emoji shown when purchase is verified and data transfer is ready,2.8,🤨,🤨,🤨,🤨
