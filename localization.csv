@@ -28,7 +28,7 @@ Pull from remote,Repositories,5.0,Pull fra remote,Pull vom Remote,从远程拉�
 Purchased,button title shown when pro unlock has already been purchased,5.0,Købt,Gekauft,已购买,已購買
 Resolve,toolbar item title for merge conflict resolution,5.0,Resolve,Beheben,解决,解決
 Revert,button to discard uncommitted file changes,5.0,Revert,Zurücksetzen,还原,還原
-Since 2014 Working Copy has pushed the limits of developer tools on iOS which is possible because the Pro Unlock pays my salary.,thank-you message shown when user has already purchased pro unlock,5.0,"Siden 2014 har Working Copy skubbet grænserne for udviklerværktøjer på iOS, hvilket er muligt fordi Pro-oplåsningen betaler min løn.","Seit 2014 hat Working Copy die Grenzen von Entwicklertools auf iOS verschoben, was möglich ist, weil die Pro-Freischaltung mein Gehalt bezahlt.",自 2014 年以来，Working Copy 一直在突破 iOS 开发者工具的极限；这之所以能持续下去，是因为 专业版解锁的收入支持了我的开发工作。,自 2014 年以來，Working Copy 一直突破 iOS 開發者工具的極限；這之所以可行，是因為專業版解鎖的收入支付了我的薪水。
+Since 2014 Working Copy has pushed the limits of developer tools on iOS which is possible because the Pro Unlock pays my salary.,thank-you message shown when user has already purchased pro unlock,5.0,"Siden 2014 har Working Copy skubbet grænserne for udviklerværktøjer på iOS, hvilket er muligt fordi Pro-oplåsningen betaler min løn.","Seit 2014 hat Working Copy die Grenzen von Entwicklertools auf iOS verschoben, was möglich ist, weil die Pro-Freischaltung mein Gehalt bezahlt.",自 2014 年以来，Working Copy 一直在突破 iOS 开发者工具的极限；这之所以可行，是因为专业版解锁的收入支付了我的薪水。,自 2014 年以來，Working Copy 一直突破 iOS 開發者工具的極限；這之所以可行，是因為專業版解鎖的收入支付了我的薪水。
 Starting trial will not grant any additional pro features.,message when user already has all pro features and trial would add nothing,5.0,Start af prøveperiode giver ikke yderligere pro-funktioner.,Das Starten der Testversion gewährt keine zusätzlichen Pro-Funktionen.,开始试用不会授予任何额外的专业版功能。,開始試用不會提供任何額外的專業版功能。
 Status,section header for repository status information,5.0,Status,Status,状态,狀態
 "Thank you for supporting this effort.
@@ -76,7 +76,7 @@ Siden 2014 har Working Copy skubbet grænserne for udviklerværktøjer på iOS h
 
 Seit 2014 hat Working Copy die Grenzen von Entwicklerwerkzeugen auf iOS verschoben, was möglich ist, weil die Pro-Freischaltung mein Gehalt bezahlt.","解锁可让你使用 Working Copy 中当前所有专业版功能以及未来一年内新增的功能。所有功能永久可用，而 12 个月后新增的专业版功能需要重新购买。
 
-自 2014 年以来，Working Copy 不断突破 iOS 开发者工具的极限，这离不开专业版解锁对我薪资的支持。","解鎖可讓你使用 Working Copy 中目前所有專業版功能以及未來一年內新增的功能。所有功能永久可用，而 12 個月後新增的專業版功能需要重新購買。
+自 2014 年以来，Working Copy 不断突破 iOS 开发者工具的极限，这之所以可行，是因为专业版解锁的收入支付了我的薪水。","解鎖可讓你使用 Working Copy 中目前所有專業版功能以及未來一年內新增的功能。所有功能永久可用，而 12 個月後新增的專業版功能需要重新購買。
 
 自 2014 年以來，Working Copy 不斷突破 iOS 開發者工具的極限，這之所以可行，是因為專業版解鎖的收入支付了我的薪水。"
 Upgrade Pro Capabilities,headline on unlock screen when an upgrade purchase is available,5.0,Opgrader Pro-funktioner,Pro-Funktionen upgraden,升级专业版功能,升級專業版功能
@@ -151,7 +151,7 @@ Pro-Freischaltung ist für unbegrenzte Repositories erforderlich.","你已达到
 
 需要专业版解锁才能使用不限数量的仓库。","你已達到版本庫數量上限。
 
-需要專業版解鎖才能使用無限數量的版本庫。"
+需要專業版解鎖才能使用不限數量的版本庫。"
 trial expired,trial status when trial period has ended,4.9,prøveperiode udløbet,Testphase abgelaufen,试用已过期,試用已過期
 trial never started,trial status when user has not started a trial,4.9,prøveperiode aldrig startet,Testphase nie gestartet,试用从未开始,試用從未開始
 AI Settings,Settings cell title for AI text completion and agent configuration,4.8,AI-indstillinger,AI-Einstellungen,AI 设置,AI 設定
@@ -181,7 +181,7 @@ No repositories,empty state headline when repository list is empty,4.8,Ingen rep
 Nothing to commit,shown when there are no changed files to commit,4.8,Intet at committe,Nichts zu committen,无内容可提交,無內容可提交
 Occasional announcements,Settings cell subtitle describing newsletter frequency,4.8,Lejlighedsvise meddelelser,Gelegentliche Ankündigungen,不定期公告,不定期公告
 Previous repositories,Settings cell title for restoring deleted repositories,4.8,Tidligere repositories,Frühere Repositories,先前的仓库,先前的版本庫
-Rate Working Copy,Settings cell title to open App Store review page,4.8,Bedøm Working Copy,Working Copy bewerten,评价 Working Copy,為 Working Copy 評分
+Rate Working Copy,Settings cell title to open App Store review page,4.8,Bedøm Working Copy,Working Copy bewerten,为 Working Copy 评分,為 Working Copy 評分
 Read about recent changes,Settings cell subtitle for release notes,4.8,Læs om seneste ændringer,Über aktuelle Änderungen lesen,了解近期更改,瞭解近期變更
 Reddit,Settings cell title linking to Reddit community,4.8,Reddit,Reddit,Reddit,Reddit
 Release Notes,Settings cell title for app changelog,4.8,Udgivelsesnoter,Versionshinweise,版本说明,版本資訊
@@ -229,7 +229,7 @@ Træk fra Playgrounds-mappen i Arkiver-appen for at konfigurere et linket reposi
 
 Ziehe aus dem Playgrounds-Ordner in der Dateien-App, um ein verknüpftes Repository zu konfigurieren, das Änderungen in der Playgrounds-App verfolgt.","%@ 已作为副本导入。
 
-从“文件”App 的 Playgrounds 文件夹中拖放，以配置一个链接仓库来跟踪 Playgrounds App中的更改。","%@ 已作為副本匯入。
+从“文件”App 的 Playgrounds 文件夹中拖放，以配置一个链接仓库来跟踪 Playgrounds App 中的更改。","%@ 已作為副本匯入。
 
 從「檔案」App 的 Playgrounds 資料夾中拖放，以設定一個連結版本庫來追蹤 Playgrounds App 中的變更。"
 Add folder,,4.6,Tilføj mappe,Ordner hinzufügen,添加文件夹,新增資料夾
@@ -315,7 +315,7 @@ New Text File,dialog title when creating a new text file,4.5,Ny tekstfil,Neue Te
 No branch,branch label when repository has no branches,4.5,Ingen branch,Kein Branch,没有分支,沒有分支
 No changes,repository status when working directory is clean,4.5,Ingen ændringer,Keine Änderungen,无更改,無變更
 Obsidian,third-party note-taking app name in onboarding,4.5,Obsidian,Obsidian,Obsidian,Obsidian
-Override,button to proceed despite file type mismatch,4.5,Tilsidesæt,Überschreiben,覆盖,覆蓋
+Override,button to proceed despite file type mismatch,4.5,Tilsidesæt,Überschreiben,仍要保存,仍要儲存
 Paste Directory,dialog title when pasting a directory from clipboard,4.5,Sæt mappe ind,Verzeichnis einsetzen,粘贴目录,貼上目錄
 Paste File,dialog title when pasting a file from clipboard,4.5,Sæt fil ind,Datei einsetzen,粘贴文件,貼上檔案
 Reject,Clone,4.5,Afvis,Ablehnen,拒绝,拒絕
@@ -358,7 +358,7 @@ App Integrations,Settings cell title for URL callback and app integration settin
 Authorizes secure shell transfers,Settings cell subtitle for SSH keys,4.4,Autoriserer sikre shell-overførsler,Autorisiert sichere Shell-Übertragungen,授权安全 Shell 传输,授權安全 Shell 傳輸
 Clone and reclaim changed files,settings action description,4.4,Clone og genskab ændrede filer,Repository und geänderte Dateien wiederherstellen,克隆并恢复已更改的文件,拓製並恢復已變更的檔案
 Color Scheme,Settings cell title for light/dark mode selection,4.4,Farveskema,Farbschema,配色方案,配色方案
-Completion and agent services,Settings cell subtitle describing AI settings when Repository Agent is available,4.4,Fuldførelses- og agenttjenester,Vervollständigungs- und Agentendienste,补全和智能体服务,補全和智慧代理服務
+Completion and agent services,Settings cell subtitle describing AI settings when Repository Agent is available,4.4,Fuldførelses- og agenttjenester,Vervollständigungs- und Agentendienste,补全和助理服务,補全和助理服務
 Destroy,destructive button to permanently delete a cloud server,4.4,Destruér,Zerstören,销毁,銷毀
 Face ID,label for Face ID unlock option in screen lock settings,4.4,Face ID,Face ID,Face ID,Face ID
 Holiday Activity,Settings cell title for GitHub contribution activity animation,4.4,Ferieaktivitet,Feiertagsaktivität,假日活动,假日活動
@@ -477,10 +477,10 @@ Dette kræver en ny pro-oplåsning.","
 
 Dies erfordert eine neue Pro-Freischaltung.","
 
-这需要新的 专业版解锁。","
+这需要新的专业版解锁。","
 
 這需要新的專業版解鎖。"
- Folders require the pro unlock ,folder picker placeholder when pro unlock is needed,4.0, Mapper kræver pro-oplåsning , Ordner erfordern die Pro-Freischaltung , 文件夹需要 专业版解锁 , 資料夾需要專業版解鎖 
+ Folders require the pro unlock ,folder picker placeholder when pro unlock is needed,4.0, Mapper kræver pro-oplåsning , Ordner erfordern die Pro-Freischaltung , 文件夹需要专业版解锁 ," 資料夾需要專業版解鎖 "
  locked,Appended to app name in support email subject when push is not unlocked,4.0, låst, gesperrt, 锁定, 鎖定
  trial,Appended to app name in support email subject during trial period,4.0, prøveperiode, Testversion, 试用, 試用
 "%@
@@ -540,15 +540,15 @@ All Pro features in Working Copy are available through the GitHub Student Develo
 Alternatively you can use the enterprise version that has the same features and includes the unlock.,storyboard string for Alternatively you can use the enterprise version that has the same features and includes the unlock.,4.0,"Alternativt kan du bruge enterprise-versionen, der har de samme funktioner og inkluderer oplåsningen.","Alternativ kannst du die Enterprise-Version verwenden, die die gleichen Funktionen hat und die Freischaltung enthält.",你也可以使用企业版，它拥有相同的功能并包含解锁功能。,你也可以使用企業版，它擁有相同的功能並包含解鎖功能。
 Amend latest commit with pro unlock.,upgrade prompt for modifying the most recent commit,4.0,Amend seneste commit med Pro-oplåsning.,Letzten Commit amenden mit Pro-Freischaltung.,通过专业版解锁修订最新提交。,透過專業版解鎖修訂最新提交。
 Available at purchase,section header for features included when the app was purchased,4.0,Tilgængelig ved køb,Verfügbar beim Kauf,购买时可用,購買時可用
-Change commit author with pro unlock.,upgrade prompt for changing commit author identity,4.0,Skift commit-forfatter med Pro-oplåsning.,Commit-Autor mit Pro-Freischaltung ändern.,通过 专业版解锁更改提交作者。,透過專業版解鎖變更提交作者。
+Change commit author with pro unlock.,upgrade prompt for changing commit author identity,4.0,Skift commit-forfatter med Pro-oplåsning.,Commit-Autor mit Pro-Freischaltung ändern.,通过专业版解锁更改提交作者。,透過專業版解鎖變更提交作者。
 Clone New…,menu item to download a copy of a remote repository to this device,4.0,Clone ny…,Neu clonen…,克隆新仓库…,拓製新版本庫…
 Commit,keyboard shortcut discoverability title,4.0,Commit,Commit,提交,提交
 Configure Submodules with pro unlock.,upgrade prompt for submodule configuration,4.0,Konfigurér submodules med pro-oplåsning.,Konfiguriere Submodules mit Pro-Freischaltung.,通过专业版解锁配置子模组。,透過專業版解鎖設定子模組。
 Covered by unlock,section header for pro features included in the user's unlock period,4.0,Dækket af oplåsning,Von Freischaltung abgedeckt,解锁已涵盖,解鎖涵蓋
 Create pulls request inside Working Copy.,upgrade prompt for creating pull requests,4.0,Opret pull requests i Working Copy.,Erstelle Pull Requests in Working Copy.,在 Working Copy 中创建拉取请求。,在 Working Copy 中建立 Pull Request。
-Customize text editor colors with pro unlock.,upgrade prompt for editor theme customization,4.0,Tilpas tekstredigeringsfarver med pro-oplåsning.,Passe Texteditor-Farben mit Pro-Freischaltung an.,通过 专业版解锁自定义文本编辑器颜色。,透過專業版解鎖自訂文字編輯器顏色。
-Customize the home screen icon with pro unlock.,upgrade prompt for alternate app icons,4.0,Tilpas hjemmeskærmsikonet med pro-oplåsning.,Passe das Startbildschirm-Symbol mit Pro-Freischaltung an.,通过 专业版解锁自定义主屏幕图标。,透過專業版解鎖自訂主畫面圖示。
-Edit commit history with pro unlock.,upgrade prompt for interactive rebase,4.0,Redigér commit-historik med pro-oplåsning.,Commit-Verlauf bearbeiten mit Pro-Freischaltung.,通过 专业版解锁编辑提交历史。,透過專業版解鎖編輯提交歷史。
+Customize text editor colors with pro unlock.,upgrade prompt for editor theme customization,4.0,Tilpas tekstredigeringsfarver med pro-oplåsning.,Passe Texteditor-Farben mit Pro-Freischaltung an.,通过专业版解锁自定义文本编辑器颜色。,透過專業版解鎖自訂文字編輯器顏色。
+Customize the home screen icon with pro unlock.,upgrade prompt for alternate app icons,4.0,Tilpas hjemmeskærmsikonet med pro-oplåsning.,Passe das Startbildschirm-Symbol mit Pro-Freischaltung an.,通过专业版解锁自定义主屏幕图标。,透過專業版解鎖自訂主畫面圖示。
+Edit commit history with pro unlock.,upgrade prompt for interactive rebase,4.0,Redigér commit-historik med pro-oplåsning.,Commit-Verlauf bearbeiten mit Pro-Freischaltung.,通过专业版解锁编辑提交历史。,透過專業版解鎖編輯提交歷史。
 Enter a filename that is not in use or tap here to overwrite %@,hint when entered filename conflicts with existing file. %@ is existing filename,4.0,Indtast et filnavn der ikke er i brug eller tryk her for at overskrive %@,"Gib einen Dateinamen ein, der nicht in Verwendung ist, oder tippe hier, um %@ zu überschreiben",输入一个未被使用的文件名，或轻触此处覆盖 %@,輸入一個未被使用的檔名，或點一下此處覆蓋 %@
 Fetch,keyboard shortcut menu item to download new data from a remote server without modifying local files,4.0,Fetch,Fetch,获取,抓取
 Generate commit messages with AI.,upgrade prompt for AI-generated commit messages,4.0,Generer commit-beskeder med AI.,Commit-Nachrichten mit AI generieren.,使用 AI 生成提交消息。,使用 AI 產生提交訊息。
@@ -559,8 +559,12 @@ Enter the System Settings app and check Screen Time ▸ Content & Privacy Restri
 
 Åbn appen Indstillinger og kontrollér Skærmtid ▸ Indholds- & privatlivsbegrænsninger ▸ iTunes- & App Store-køb.","In-App-Kauf nicht erlaubt.
 
-Öffne die Einstellungen-App und überprüfe Bildschirmzeit ▸ Inhalts- & Datenschutzbeschränkungen ▸ iTunes- & App Store-Käufe.",不允许 App 内购买。请打开“设置”App，检查屏幕使用时间 ▸ 内容与隐私限制 ▸ iTunes Store 与 App Store 购买项目。,不允許 App 內購買。請開啟「設定」App，檢查螢幕使用時間 ▸ 內容與隱私權限制 ▸ iTunes 與 App Store 購買。
-Manage repositories outside app with pro unlock.,upgrade prompt for external repositories,4.0,Administrér repositories uden for appen med pro-opgradering.,Repositories außerhalb der App verwalten mit Pro-Upgrade.,通过 专业版解锁在应用外管理仓库。,透過專業版解鎖在 App 外管理版本庫。
+Öffne die Einstellungen-App und überprüfe Bildschirmzeit ▸ Inhalts- & Datenschutzbeschränkungen ▸ iTunes- & App Store-Käufe.","不允许 App 内购买。
+
+请打开“设置”App，检查屏幕使用时间 ▸ 内容与隐私限制 ▸ iTunes Store 与 App Store 购买项目。","不允許 App 內購買。
+
+請開啟「設定」App，檢查螢幕使用時間 ▸ 內容與隱私權限制 ▸ iTunes 與 App Store 購買項目。"
+Manage repositories outside app with pro unlock.,upgrade prompt for external repositories,4.0,Administrér repositories uden for appen med pro-opgradering.,Repositories außerhalb der App verwalten mit Pro-Upgrade.,通过专业版解锁在应用外管理仓库。,透過專業版解鎖在 App 外管理版本庫。
 "One-time trial unlock for 10 days
 with no automatic purchase","storyboard string for One-time trial unlock for 10 days
 with no automatic purchase",4.0,"Engangs-prøveoplåsning i 10 dage
@@ -568,9 +572,9 @@ uden automatisk køb","Einmalige Testfreischaltung für 10 Tage
 ohne automatischen Kauf","一次性试用解锁 10 天
 无自动购买","一次性試用解鎖 10 天
 無自動購買"
-Organize repositories into folders with pro unlock.,upgrade prompt for organizing repositories into folders,4.0,Organiser repositories i mapper med pro-oplåsning.,Organisiere Repositories in Ordnern mit Pro-Freischaltung.,通过 专业版解锁将仓库整理到文件夹中。,透過專業版解鎖將版本庫整理到資料夾中。
+Organize repositories into folders with pro unlock.,upgrade prompt for organizing repositories into folders,4.0,Organiser repositories i mapper med pro-oplåsning.,Organisiere Repositories in Ordnern mit Pro-Freischaltung.,通过专业版解锁将仓库整理到文件夹中。,透過專業版解鎖將版本庫整理到資料夾中。
 Pro features not covered,section header for pro features added after the user's unlock expired,4.0,Pro-funktioner ikke dækket,Pro-Funktionen nicht abgedeckt,未涵盖的专业版功能,未涵蓋的專業版功能
-Protect Working Copy with screen lock as part of pro unlock.,upgrade prompt for app screen lock,4.0,Beskyt Working Copy med skærmlås som del af pro-oplåsning.,Schütze Working Copy mit Bildschirmsperre als Teil der Pro-Freischaltung.,通过 专业版解锁来使用屏幕锁定保护 Working Copy。,透過專業版解鎖使用螢幕鎖定保護 Working Copy。
+Protect Working Copy with screen lock as part of pro unlock.,upgrade prompt for app screen lock,4.0,Beskyt Working Copy med skærmlås som del af pro-oplåsning.,Schütze Working Copy mit Bildschirmsperre als Teil der Pro-Freischaltung.,通过专业版解锁来使用屏幕锁定保护 Working Copy。,透過專業版解鎖使用螢幕鎖定保護 Working Copy。
 Pull,keyboard shortcut menu item to download and integrate remote changes in one step,4.0,Pull,Pull,拉取,拉取
 Pull Request creation is a pro feature.,upgrade prompt,4.0,Oprettelse af pull request er en pro-funktion.,Pull-Request-Erstellung ist eine Pro-Funktion.,创建 Pull Request 是专业版功能。,建立 Pull Request 是專業版功能。
 Pull to fetch from remote.,pull-to-refresh hint when repository has one remote,4.0,Træk ned for at fetche fra remote.,"Herunterziehen, um vom Remote zu fetchen.",下拉以从远程获取。,下拉以從遠端抓取。
@@ -587,12 +591,12 @@ Denne handling kræver pro-oplåsning.","Pushe Commits vom lokalen Repository zu
 
 Diese Aktion erfordert die Pro-Freischaltung.","将提交从本地仓库推送到远程。
 
-此操作需要 专业版解锁。","將提交從本機版本庫推送到遠端。
+此操作需要专业版解锁。","將提交從本機版本庫推送到遠端。
 
 此操作需要專業版解鎖。"
-Push to remotes with pro unlock.,upgrade prompt for uploading commits to remote servers,4.0,Push til remotes med pro-oplåsning.,Pushe zu Remotes mit Pro-Freischaltung.,通过 专业版解锁来推送到远程。,透過專業版解鎖推送到遠端。
+Push to remotes with pro unlock.,upgrade prompt for uploading commits to remote servers,4.0,Push til remotes med pro-oplåsning.,Pushe zu Remotes mit Pro-Freischaltung.,通过专业版解锁来推送到远程。,透過專業版解鎖推送到遠端。
 Push to…,keyboard shortcut menu item to choose which remote server to upload changes to,4.0,Push til…,Push zu…,推送到…,推送到…
-Pushing from Shortcuts requires the Pro unlock.,upgrade prompt,4.0,Push fra Genveje kræver Pro-oplåsning.,Pushen über Kurzbefehle erfordert die Pro-Freischaltung.,从快捷指令推送需要 专业版解锁。,從捷徑推送需要專業版解鎖。
+Pushing from Shortcuts requires the Pro unlock.,upgrade prompt,4.0,Push fra Genveje kræver Pro-oplåsning.,Pushen über Kurzbefehle erfordert die Pro-Freischaltung.,从快捷指令推送需要专业版解锁。,從捷徑推送需要專業版解鎖。
 Redeem %d day trial,"button to start free trial, %d is the number of trial days",4.0,Indløs %d dages prøveperiode,%d-Tage-Testversion einlösen,兑换 %d 天试用,兌換 %d 天試用
 "Refusing to checkout file from commit, when current file has changes that can be lost. Either Revert or commit file.",error message when trying to checkout a file that has uncommitted changes,4.0,"Afviser at checke fil ud fra commit, når aktuel fil har ændringer der kan gå tabt. Enten reverte eller committe filen.","Auschecken einer Datei aus einem Commit abgelehnt, wenn die aktuelle Datei Änderungen hat, die verloren gehen können. Entweder reverten oder Datei committen.",当前文件包含可能会丢失的更改，因此拒绝从提交中检出文件。请还原或提交文件。,目前檔案包含可能會遺失的變更，因此拒絕從提交中簽出檔案。請還原或提交檔案。
 Rename,button to confirm renaming a repository,4.0,Omdøb,Umbenennen,重命名,重新命名
@@ -729,7 +733,7 @@ Search Files,menu command to search within repository files,3.8,Søg i filer,Dat
 Search Text…,menu command to open text search in editor,3.8,Søg tekst…,Text suchen…,搜索文本…,搜尋文字…
 Share…,menu command to share the selected file,3.8,Del…,Teilen…,共享…,分享…
 Show Preview,keyboard shortcut title to toggle file preview,3.8,Vis forhåndsvisning,Vorschau anzeigen,显示预览,顯示預覽
-Show in Files App,menu command to reveal the file in the iOS Files app,3.8,Vis i Arkiver-app,In Dateien-App anzeigen,在“文件”App中显示,在「檔案」App 中顯示
+Show in Files App,menu command to reveal the file in the iOS Files app,3.8,Vis i Arkiver-app,In Dateien-App anzeigen,在“文件”App 中显示,在「檔案」App 中顯示
 Smaller Text,menu command to decrease editor font size,3.8,Mindre tekst,Kleinerer Text,更小文字,更小文字
 Start Editing,menu command to enter file editing mode,3.8,Begynd redigering,Bearbeitung starten,开始编辑,開始編輯
 Stop Editing,menu command to exit file editing mode,3.8,Stop redigering,Bearbeitung beenden,停止编辑,停止編輯
@@ -748,7 +752,7 @@ Secure ShellFish Folder,context menu action to open server in Secure ShellFish f
 Secure ShellFish Terminal,context menu action to open server terminal in Secure ShellFish app,3.7,Secure ShellFish Terminal,Secure ShellFish Terminal,Secure ShellFish 终端,Secure ShellFish 終端
 Stage Selection,keyboard shortcut to add selected changes to the next commit,3.7,Stage markering,Auswahl stagen,暂存所选,暫存所選
 Toggle All,keyboard shortcut to stage or unstage all files,3.7,Skift alle,Alle umschalten,切换全部文件的暂存状态,切換全部檔案的暫存狀態
-Toggle File,keyboard shortcut to stage or unstage the selected file,3.7,Skift fil,Datei umschalten,切换文件暂存状态,切換檔案
+Toggle File,keyboard shortcut to stage or unstage the selected file,3.7,Skift fil,Datei umschalten,切换文件暂存状态,切換檔案的暫存狀態
 Toggle Push,keyboard shortcut to toggle pushing after commit,3.7,Skift push,Push umschalten,切换推送,切換推送
 Unstage,floating menu action to remove files from the staging area,3.7,Unstage,Unstagen,取消暂存,取消暫存
 Unstage Selection,keyboard shortcut to unstage selected files,3.7,Unstage markering,Auswahl unstagen,取消暂存所选,取消暫存所選
@@ -919,7 +923,7 @@ Tak!","In-App-Käufe aus der TestFlight-Version werden nicht von deinem iTunes-K
 
 Wenn du die Entwicklung von Working Copy unterstützen möchtest, musst du die App Store-Version verwenden.
 
-Vielen Dank!","TestFlight 版本的应用内购买不会从你的 iTunes 账户扣费，也不会在 App Store 版本中保留。
+Vielen Dank!","TestFlight 版本的 App 内购买不会从你的 iTunes 账户扣费，也不会在 App Store 版本中保留。
 
 如果你想支持 Working Copy 的开发，请使用 App Store 版本。
 
@@ -948,14 +952,14 @@ Wiederherstellung früherer Käufe wird in der TestFlight-App nicht unterstützt
 Active remote branches,section header for recently updated remote branches,2.8,Aktive remote branches,Aktive Remote-Branches,活跃的远程分支,活躍的遠端分支
 Alternative way to authorize http transfers,Settings cell subtitle for authentication cookies,2.8,Alternativ måde at autorisere http-overførsler,Alternativer Weg zur Autorisierung von HTTP-Übertragungen,授权 HTTP 传输的替代方式,授權 HTTP 傳輸的替代方式
 Authentication Cookies,Settings cell title for managing browser cookies used for HTTP auth,2.8,Autentificerings-cookies,Authentifizierungs-Cookies,认证 Cookie,認證 Cookie
-Checking existing in-app purchases...,status message during enterprise to regular migration,2.8,Kontrollerer eksisterende køb i appen...,Vorhandene In-App-Käufe werden geprüft...,正在检查现有的应用内购买…,正在檢查現有的 App 內購買…
+Checking existing in-app purchases...,status message during enterprise to regular migration,2.8,Kontrollerer eksisterende køb i appen...,Vorhandene In-App-Käufe werden geprüft...,正在检查现有的 App 内购买…,正在檢查現有的 App 內購買…
 Convert,button to start converting enterprise purchase to in-app purchase,2.8,Konvertér,Konvertieren,转换,轉換
 Create repositories by initializing new ones or by cloning from remotes.,empty state description explaining how to get started,2.8,Opret repositories ved at initialisere nye eller ved at clone fra remotes.,Erstelle Repositories durch Initialisierung neuer oder durch Clonen von Remotes.,通过初始化新仓库或从远程克隆来创建仓库。,透過初始化新版本庫或從遠端拓製來建立版本庫。
 Edit Widget to pick Repository,placeholder shown when widget has no repository configured,2.8,Rediger widget for at vælge repository,"Widget bearbeiten, um Repository auszuwählen",编辑小组件以选择仓库,編輯小工具以選擇版本庫
 Existing or new remote reference,section header for remote reference field in custom push,2.8,Eksisterende eller ny remote-reference,Vorhandene oder neue Remote-Referenz,现有或新的远程引用,現有或新的遠端引用
 Identity Details,back button title for identity detail screen,2.8,Identitetsdetaljer,Identitätsdetails,身份详情,身分詳細資訊
 Identity Image Sources,section header for avatar image source toggles in settings,2.8,Kilder til identitetsbilleder,Quellen für Identitätsbilder,身份头像来源,身分頭像來源
-In-App purchase not allowed. Check Restrictions in General Settings.,error when device restrictions prevent in-app purchases,2.8,Køb i app er ikke tilladt. Kontrollér begrænsninger i Generelle indstillinger.,In-App-Kauf nicht erlaubt. Überprüfe die Einschränkungen in den allgemeinen Einstellungen.,不允许应用内购买。请检查通用设置中的限制。,不允許 App 內購買。請檢查一般設定中的限制。
+In-App purchase not allowed. Check Restrictions in General Settings.,error when device restrictions prevent in-app purchases,2.8,Køb i app er ikke tilladt. Kontrollér begrænsninger i Generelle indstillinger.,In-App-Kauf nicht erlaubt. Überprüfe die Einschränkungen in den allgemeinen Einstellungen.,不允许 App 内购买。请检查“通用”设置中的“访问限制”。,不允許 App 內購買。請檢查「一般」設定中的「取用限制」。
 Merge with remote,empty state: combine changes downloaded from the server,2.8,Merge med remote,Merge mit Remote,与远程合并,與遠端合併
 New Remote,navigation title when adding a new remote to the repository,2.8,Ny remote,Neue Remote,新建远程,新建遠端
 No purchases restored. When using the TestFlight version you cannot restore purchases. Fortunately purchases made in the TestFlight version are not charged from your iTunes account.,shown after restore purchases in TestFlight beta build,2.8,Ingen køb gendannet. Når du bruger TestFlight-versionen kan du ikke gendanne køb. Heldigvis bliver køb foretaget i TestFlight-versionen ikke trukket fra din iTunes-konto.,Keine Käufe wiederhergestellt. Bei Verwendung der TestFlight-Version kannst du keine Käufe wiederherstellen. Glücklicherweise werden Käufe in der TestFlight-Version nicht von deinem iTunes-Konto abgebucht.,未恢复任何购买。使用 TestFlight 版本时无法恢复购买。不过好在 TestFlight 版本中的购买不会从你的 iTunes 账户扣费。,未恢復任何購買。使用 TestFlight 版本時無法恢復購買。不過好在 TestFlight 版本中的購買不會從你的 iTunes 帳戶扣費。
@@ -978,10 +982,10 @@ Retry,button to retry failed in-app purchase during migration,2.8,Prøv igen,Ern
 Select Identity,placeholder when no identity is selected,2.8,Vælg identitet,Identität auswählen,选择身份,選擇身分
 Split,button title to switch to split view in conflict resolution,2.8,Opdel,Nebeneinander,分栏,分欄
 Transferring Unlock,navigation title while converting enterprise purchase to in-app purchase,2.8,Overfører Unlock,Freischaltung wird übertragen,正在转移解锁权益,正在轉移解鎖權益
-Transferring paid download to in-app purchase failed. Please try again.,error message when in-app purchase fails during enterprise migration,2.8,Overførsel af betalt download til køb i app mislykkedes. Prøv venligst igen.,Übertragung des bezahlten Downloads zum In-App-Kauf fehlgeschlagen. Bitte versuche es erneut.,将付费下载转换为应用内购买失败。请重试。,將付費下載轉換為 App 內購買失敗。請重試。
+Transferring paid download to in-app purchase failed. Please try again.,error message when in-app purchase fails during enterprise migration,2.8,Overførsel af betalt download til køb i app mislykkedes. Prøv venligst igen.,Übertragung des bezahlten Downloads zum In-App-Kauf fehlgeschlagen. Bitte versuche es erneut.,将付费下载转换为 App 内购买失败。请重试。,將付費下載轉換為 App 內購買失敗。請重試。
 Trying to restore purchase by validating app receipt. TestFlight apps can take longer doing this validation and has a higher failure rate.,status message shown in TestFlight builds during receipt-based purchase restoration,2.8,Forsøger at gendanne køb ved at validere app-kvittering. TestFlight-apps kan bruge længere tid på denne validering og har en højere fejlrate.,Kauf wird durch Validierung der App-Quittung wiederhergestellt. TestFlight-Apps können für diese Validierung länger brauchen und haben eine höhere Fehlerrate.,正在通过验证应用收据来恢复购买。TestFlight 应用执行此验证可能需要更长时间，且失败率更高。,正在透過驗證 App 收據來恢復購買。TestFlight App 執行此驗證可能需要更長時間，且失敗率更高。
 Trying to restore purchase through transactions. TestFlight apps can take longer and has a higher failure rate.,status message shown in TestFlight builds during transaction-based purchase restoration,2.8,Forsøger at gendanne køb gennem transaktioner. TestFlight-apps kan bruge længere tid og har en højere fejlrate.,Kauf wird durch Transaktionen wiederhergestellt. TestFlight-Apps können länger brauchen und haben eine höhere Fehlerrate.,正在通过交易记录恢复购买。TestFlight 应用可能需要更长时间，且失败率更高。,正在透過交易記錄恢復購買。TestFlight App 可能需要更長時間，且失敗率更高。
-Unable to check existing in-app purchases. Please Retry.,error when App Store receipt validation fails,2.8,Kan ikke tjekke eksisterende køb i app. Prøv venligst igen.,Bestehende In-App-Käufe können nicht überprüft werden. Bitte erneut versuchen.,无法检查现有的应用内购买。请重试。,無法檢查現有的 App 內購買。請重試。
+Unable to check existing in-app purchases. Please Retry.,error when App Store receipt validation fails,2.8,Kan ikke tjekke eksisterende køb i app. Prøv venligst igen.,Bestehende In-App-Käufe können nicht überprüft werden. Bitte erneut versuchen.,无法检查现有的 App 内购买。请重试。,無法檢查現有的 App 內購買。請重試。
 Unable to determine version of app at purchase time.,error when original app version cannot be read from receipt,2.8,Kan ikke bestemme appversion på købstidspunktet.,App-Version zum Kaufzeitpunkt kann nicht ermittelt werden.,无法确定购买时的应用版本。,無法確定購買時的 App 版本。
 Username,placeholder for the username field in authentication dialog,2.8,Brugernavn,Benutzername,用户名,使用者名稱
 "Working Copy has unlocked all pro features introduced before %@.
@@ -995,10 +999,10 @@ Es ist bereit, deine Repositories und Einstellungen zu übertragen.","Working Co
 它已准备好迁移你的仓库和设置。","Working Copy 已解鎖 %@ 之前推出的所有專業版功能。
 
 它已準備好遷移你的版本庫和設定。"
-Your %@ can be converted to a unlock of Pro features introduced up to and including %@.,"future migration status: first %@ = purchase description, second %@ = end month/year",2.8,Din %@ kan konverteres til en oplåsning af Pro-funktioner introduceret op til og med %@.,"Dein %@ kann in eine Freischaltung von Pro-Funktionen umgewandelt werden, die bis einschließlich %@ eingeführt wurden.",你的 %@ 可以转换为解锁截至 %@（含）推出的专业版功能。,你的 %@ 可以轉換為解鎖截至 %@（含）推出的專業版功能。
-Your %@ has been converted to a unlock of Pro features introduced up to and including %@.,"migration status: first %@ = purchase description, second %@ = end month/year",2.8,Din %@ er blevet konverteret til en oplåsning af Pro-funktioner introduceret op til og med %@.,"Dein %@ wurde in eine Freischaltung von Pro-Funktionen umgewandelt, die bis einschließlich %@ eingeführt wurden.",你的 %@ 已转换为解锁截至 %@（含）推出的专业版功能。,你的 %@ 已轉換為解鎖截至 %@（含）推出的專業版功能。
-paid download %d months ago,label with %d = number of months since app was purchased,2.8,betalt download for %d måneder siden,bezahlter Download vor %d Monaten,%d 个月前付费下载,%d 個月前付費下載
-paid download %d%@ years ago,label with %d = number of years and %@ = half-year fraction since app was purchased,2.8,betalt download for %d%@ år siden,bezahlter Download vor %d%@ Jahren,%d%@ 年前付费下载,%d%@ 年前付費下載
+Your %@ can be converted to a unlock of Pro features introduced up to and including %@.,"future migration status: first %@ = purchase description, second %@ = end month/year",2.8,Din %@ kan konverteres til en oplåsning af Pro-funktioner introduceret op til og med %@.,"Dein %@ kann in eine Freischaltung von Pro-Funktionen umgewandelt werden, die bis einschließlich %@ eingeführt wurden.",你的 %@ 可以转换为一项解锁权益，适用于截至 %@（含）推出的专业版功能。,你的 %@ 可以轉換為一項解鎖權益，適用於截至 %@（含）推出的專業版功能。
+Your %@ has been converted to a unlock of Pro features introduced up to and including %@.,"migration status: first %@ = purchase description, second %@ = end month/year",2.8,Din %@ er blevet konverteret til en oplåsning af Pro-funktioner introduceret op til og med %@.,"Dein %@ wurde in eine Freischaltung von Pro-Funktionen umgewandelt, die bis einschließlich %@ eingeführt wurden.",你的 %@ 已转换为一项解锁权益，适用于截至 %@（含）推出的专业版功能。,你的 %@ 已轉換為一項解鎖權益，適用於截至 %@（含）推出的專業版功能。
+paid download %d months ago,label with %d = number of months since app was purchased,2.8,betalt download for %d måneder siden,bezahlter Download vor %d Monaten,%d 个月前的付费下载,%d 個月前的付費下載
+paid download %d%@ years ago,label with %d = number of years and %@ = half-year fraction since app was purchased,2.8,betalt download for %d%@ år siden,bezahlter Download vor %d%@ Jahren,%d%@ 年前的付费下载,%d%@ 年前的付費下載
 🤨,emoji shown when purchase is verified and data transfer is ready,2.8,🤨,🤨,🤨,🤨
 Clone,button to start downloading a copy of a remote repository,2.7,Clone,Clone,克隆,拓製
 Touch Debug Off,Accessibility label for touch debug button when disabled,2.7,Touch-fejlsøgning fra,Touch-Debug aus,触摸调试已关闭,觸控偵錯已關閉
@@ -1010,14 +1014,22 @@ Consider using a Personal access tokens configured at Developer settings on GitH
 
 Overvej at bruge Personal access tokens konfigureret under Developer settings på GitHub.com","
 
-Erwäge die Verwendung von Personal access tokens, konfiguriert unter Developer settings auf GitHub.com",建议使用在 GitHub.com 的 Developer settings 中配置的个人访问令牌,建議使用在 GitHub.com 的 Developer settings 中設定的個人存取權杖
+Erwäge die Verwendung von Personal access tokens, konfiguriert unter Developer settings auf GitHub.com","
+
+建议使用在 GitHub.com 的 Developer settings 中配置的个人访问令牌","
+
+建議使用在 GitHub.com 的 Developer settings 中設定的個人存取權杖"
 "
 
 Consider using a Personal access tokens configured at Developer settings on the GitHub website.",suggestion appended to OTP authentication error for GitHub Enterprise users,2.5,"
 
 Overvej at bruge Personal access tokens konfigureret under Developer settings på GitHub-websiden.","
 
-Erwäge die Verwendung von Personal access tokens, konfiguriert unter Developer settings auf der GitHub-Website.",建议使用在 GitHub 网站的 Developer settings 中配置的个人访问令牌。,建議使用在 GitHub 網站的 Developer settings 中設定的個人存取權杖。
+Erwäge die Verwendung von Personal access tokens, konfiguriert unter Developer settings auf der GitHub-Website.","
+
+建议使用在 GitHub 网站的 Developer settings 中配置的个人访问令牌。","
+
+建議使用在 GitHub 網站的 Developer settings 中設定的個人存取權杖。"
 "
 
 It looks like your have Fetch but not Push access to remote. Push has been disabled.",appended to error when push test fails but fetch succeeds,2.5,"
@@ -1090,7 +1102,7 @@ Default,badge label on the default commit identity in the list,2.5,Standard,Stan
 Delete Identity,storyboard string for Delete Identity,2.5,Slet identitet,Identität löschen,删除身份,刪除身分
 Delete Remote,button to remove a configured remote server,2.5,Slet remote,Remote löschen,删除远程,刪除遠端
 Differences from %@ have been merged in with conflicts. Tap to Resolve.,"status, arg: branch name",2.5,Forskelle fra %@ er merget ind med konflikter. Tryk for at løse.,Unterschiede von %@ wurden mit Konflikten gemergt. Tippe zum Lösen.,来自 %@ 的差异已合并但存在冲突。轻触以解决。,來自 %@ 的差異已合併但存在衝突。點一下以解決。
-Disconnected while trying to authentiate. Server might be reacting to many failed attempts.,error when server drops SSH connection during authentication,2.5,Afbrudt under godkendelsesforsøg. Serveren reagerer muligvis på mange fejlslagne forsøg.,Verbindung während der Authentifizierung getrennt. Der Server reagiert möglicherweise auf viele fehlgeschlagene Versuche.,认证过程中连接断开。服务器可能因多次失败尝试而断开连接。,認證過程中連線斷開。伺服器可能正在對多次失敗的嘗試做出反應。
+Disconnected while trying to authentiate. Server might be reacting to many failed attempts.,error when server drops SSH connection during authentication,2.5,Afbrudt under godkendelsesforsøg. Serveren reagerer muligvis på mange fejlslagne forsøg.,Verbindung während der Authentifizierung getrennt. Der Server reagiert möglicherweise auf viele fehlgeschlagene Versuche.,认证过程中连接断开。服务器可能因多次失败尝试而断开连接。,認證過程中連線中斷。伺服器可能因多次失敗嘗試而中斷連線。
 Diverged from %@,"branch tracking: local and remote have diverged, arg: remote branch name",2.5,Divergeret fra %@,Divergiert von %@,与 %@ 产生分歧,與 %@ 產生分歧
 Edit,button to edit a commit identity entry,2.5,Rediger,Bearbeiten,编辑,編輯
 Ensure servers are legitimate.,subtitle explaining that host keys verify server identity,2.5,Bekræft at servere er ægte.,"Stelle sicher, dass Server echt sind.",确保服务器身份可信。,確保伺服器身分可信。
@@ -1155,9 +1167,9 @@ Missing remote %@,"error when specified remote not found, arg: remote name or UR
 Missing remote '%@' for repository.,"error when named remote not found, arg: remote name",2.5,Manglende remote '%@' for repository.,Fehlendes Remote '%@' für Repository.,仓库缺少远程“%@”。,版本庫缺少遠端「%@」。
 Missing remote for repository.,error when repository has no remote configured,2.5,Manglende remote for repository.,Fehlendes Remote für Repository.,仓库缺少远程。,版本庫缺少遠端。
 Missing remote in WidgetFetchIntent,error when widget fetch intent has no remote specified,2.5,Manglende remote i WidgetFetchIntent,Fehlendes Remote in WidgetFetchIntent,WidgetFetchIntent 中缺少远程,WidgetFetchIntent 中缺少遠端
-Missing remote parameter to clone.,error when clone callback lacks remote URL parameter,2.5,Manglende remote-parameter til clone.,Fehlender Remote-Parameter zum Clonen.,缺少用于克隆的远程参数。,缺少用於拓製的遠端參數。
+Missing remote parameter to clone.,error when clone callback lacks remote URL parameter,2.5,Manglende remote-parameter til clone.,Fehlender Remote-Parameter zum Clonen.,缺少用于克隆的 remote 参数。,缺少用於拓製的 remote 參數。
 Missing remote with url %@,"error when remote cannot be found after adding it, %@ is the remote URL",2.5,Manglende remote med url %@,Fehlendes Remote mit URL %@,缺少 URL 为 %@ 的远程,缺少 URL 為 %@ 的遠端
-Missing repo parameter,error when write callback has no repository specified,2.5,Manglende repo-parameter,Fehlender Repo-Parameter,缺少仓库参数,缺少版本庫參數
+Missing repo parameter,error when write callback has no repository specified,2.5,Manglende repo-parameter,Fehlender Repo-Parameter,缺少 repo 参数,缺少 repo 參數
 Missing repository in WidgetFetchIntent,error when widget fetch intent has no repository specified,2.5,Manglende repository i WidgetFetchIntent,Fehlendes Repository in WidgetFetchIntent,WidgetFetchIntent 中缺少仓库,WidgetFetchIntent 中缺少版本庫
 Missing repository to open pull request in.,error when no repository is available to open a pull request,2.5,Manglende repository at åbne pull request i.,"Fehlendes Repository, um einen Pull Request zu öffnen.",缺少用于打开拉取请求的仓库。,缺少用於開啟 Pull Request 的版本庫。
 Mount,file sharing mode: mount remote directory,2.5,Monter,Einbinden,挂载,掛載
@@ -1169,7 +1181,7 @@ No repository context,error when LFS filter has no associated repository,2.5,Ing
 No repository found where name or remote-url matches repo=%@,"error when repo parameter finds no match, arg: repo parameter value",2.5,Intet repository fundet hvor navn eller remote-url matcher repo=%@,"Kein Repository gefunden, bei dem Name oder Remote-URL übereinstimmt: repo=%@",未找到名称或远程 URL 匹配 repo=%@ 的仓库,未找到名稱或遠端 URL 相符 repo=%@ 的版本庫
 No repository found. Check URL or try as another user.,"error when cloning returns HTTP 404, suggesting the URL is wrong or user lacks access",2.5,Intet repository fundet. Tjek URL eller prøv som en anden bruger.,Kein Repository gefunden. Überprüfe die URL oder versuche es als anderer Benutzer.,未找到仓库。请检查 URL 或尝试使用其他用户。,未找到版本庫。請檢查 URL 或嘗試使用其他使用者。
 No repository found. Check URL.,"error shown when remote server closes connection early, likely a wrong URL",2.5,Intet repository fundet. Tjek URL.,Kein Repository gefunden. Überprüfe die URL.,未找到仓库。请检查 URL。,未找到版本庫。請檢查 URL。
-No repository matching repo paramter,error when repo parameter does not match any repository,2.5,Intet repository matcher repo-parameter,Kein Repository passt zum repo-Parameter,没有匹配仓库参数的仓库,沒有相符版本庫參數的版本庫
+No repository matching repo paramter,error when repo parameter does not match any repository,2.5,Intet repository matcher repo-parameter,Kein Repository passt zum repo-Parameter,没有匹配 repo 参数的仓库,沒有符合 repo 參數的版本庫
 No repository selected,storyboard string for No repository selected,2.5,Intet repository valgt,Kein Repository ausgewählt,未选择仓库,未選擇版本庫
 No way to authenticate,error when no credentials are available and hostname is unknown,2.5,Ingen måde at godkende på,Keine Möglichkeit zur Authentifizierung,无法进行认证,無法進行認證
 No way to authenticate with %@,"error when no credentials are available, %@ is hostname",2.5,Ingen måde at godkende med %@,Keine Möglichkeit zur Authentifizierung mit %@,无法通过 %@ 进行认证,無法透過 %@ 進行認證
@@ -1311,7 +1323,7 @@ You need to commit changes before switching branches.,error when checkout blocke
 You need to restart Merge after setting identity information.,message shown after user configures git identity during merge,2.5,Du skal genstarte Merge efter indstilling af identitetsoplysninger.,Du musst Merge nach dem Festlegen der Identitätsinformationen neu starten.,你需要在设置身份信息后重新开始合并操作。,你需要在設定身分資訊後重新開始合併操作。
 You need to restart push after setting identity information.,message shown after user configures Git identity before push,2.5,Du skal genstarte push efter indstilling af identitetsoplysninger.,Du musst den Push nach dem Festlegen der Identitätsinformationen neu starten.,你需要在设置身份信息后重新开始推送操作。,你需要在設定身分資訊後重新開始推送操作。
 You need to set the Identity for Repository or pick a default Identity.,error when git user.name is not configured for committing,2.5,Du skal angive identiteten for repositoriet eller vælge en standardidentitet.,Du musst die Identität für das Repository festlegen oder eine Standardidentität auswählen.,你需要为仓库设置身份或选择默认身份。,你需要為版本庫設定身分或選擇預設身分。
-You will be %@ commits from %@ to %@ in repository at %@.,"push summary, args: operation type, source ref, destination ref, remote name",2.5,Du vil %@ commits fra %@ til %@ i repository på %@.,Du wirst %1$@ Commits von %2$@ nach %3$@ im Repository bei %4$@ sein.,即将进行：%1$@。提交范围：%2$@ 到 %3$@。仓库：%4$@。,即將進行：%1$@。提交範圍：%2$@ 到 %3$@。版本庫：%4$@。
+You will be %@ commits from %@ to %@ in repository at %@.,"push summary, args: operation type, source ref, destination ref, remote name",2.5,Du vil %@ commits fra %@ til %@ i repository på %@.,Du wirst %1$@ Commits von %2$@ nach %3$@ im Repository bei %4$@ sein.,即将进行：%1$@。来源引用：%2$@。目标引用：%3$@。远程：%4$@。,即將進行：%1$@。來源引用：%2$@。目標引用：%3$@。遠端：%4$@。
 Your identify information is stored in all commits. When commits are pushed to a public repository the email address is made public as well.,footer explaining that identity info is included in commits,2.5,Dine identitetsoplysninger gemmes i alle commits. Når commits pushes til et offentligt repository bliver e-mailadressen også offentlig.,"Deine Identitätsinformationen werden in allen Commits gespeichert. Wenn Commits zu einem öffentlichen Repository gepusht werden, wird die E-Mail-Adresse ebenfalls öffentlich.",你的身份信息存储在所有提交中。当提交被推送到公开仓库时，电子邮件地址也会被公开。,你的身分資訊儲存在所有提交中。當提交被推送到公開版本庫時，電子郵件地址也會被公開。
 ahead by %d commits,remote tracking status: local branch is %d commits ahead of remote,2.5,foran med %d commits,%d Commits voraus,领先 %d 个提交,領先 %d 個提交
 ahead by 1 commit,remote tracking status: local branch is 1 commit ahead of remote,2.5,foran med 1 commit,1 Commit voraus,领先 1 个提交,領先 1 個提交
@@ -1354,8 +1366,8 @@ Droplet name,placeholder for server name text field,2.4,Droplet-navn,Droplet-Nam
 Enter passphrase,placeholder in passphrase text field during key generation,2.4,Indtast adgangskode,Passphrase eingeben,输入密码短语,輸入密碼短語
 Entries to delete,Placeholder in text field where user types entry count to confirm deletion,2.4,Poster at slette,Zu löschende Einträge,要删除的条目,要刪除的項目
 Features,navigation bar title for the feature list screen,2.4,Funktioner,Funktionen,功能,功能
-Graph,back button title for returning to the commit graph view,2.4,Graf,Graph,图表,圖表
-Header-Name: value,Placeholder for header field when adding extra header,2.4,Header-navn: værdi,Header-Name: Wert,Header-Name: value,Header-Name: value
+Graph,back button title for returning to the commit graph view,2.4,Graf,Graph,提交图,提交圖
+Header-Name: value,Placeholder for header field when adding extra header,2.4,Header-navn: værdi,Header-Name: Wert,标头名称: 值,標頭名稱: 值
 Hosting Provider,default navigation title when provider has no name,2.4,Hosting-udbyder,Hosting-Anbieter,托管服务商,代管服務商
 Image,segmented control option for inserting an image reference,2.4,Billede,Bild,图像,影像
 Javascript to evaluate,placeholder text in console input field for evaluating JavaScript,2.4,Javascript til evaluering,Auszuwertendes Javascript,要执行的 JavaScript,要執行的 JavaScript
@@ -1503,7 +1515,7 @@ Connections to port %d on %@ are forwarded to %@:%d on %@.,"reverse port forward
 Copy In,short sync strategy label when remote file overwrites local,2.1,Kopiér ind,Hineinkopieren,复制入,複製入
 Copy Out,short sync strategy label when local file overwrites remote,2.1,Kopiér ud,Herauskopieren,复制出,複製出
 Creating %@,"status text while creating a remote directory, %@ is directory path",2.1,Opretter %@,Erstelle %@,正在创建 %@,正在建立 %@
-Delete In,short sync strategy label when remote file is deleted,2.1,Slet ind,Lösche ein,删除入,刪除入
+Delete In,short sync strategy label when remote file is deleted,2.1,Slet ind,Lösche ein,向内删除,向內刪除
 Deleted from %@ to match %@.,"sync action when remote file is deleted, args: remote name, local name",2.1,Slettet fra %@ for at matche %@.,Gelöscht von %@ um %@ anzugleichen.,已从 %@ 中删除，以匹配 %@。,已從 %@ 中刪除，以符合 %@。
 Downloading %@,"status text while downloading a file from remote server, %@ is filename",2.1,Henter %@,Lade %@ herunter,正在下载 %@,正在下載 %@
 "Editorial error:
@@ -1559,7 +1571,7 @@ Zusätzliche Header werden bei HTTP-Anfragen an passende Hostnamen gesendet.","�
 
 额外的标头会随 HTTP 请求发送到匹配的主机名。","一些 Git 服務（如 Google Cloud Source Repositories）使用 cookies 進行身分驗證。Working Copy 要求每個 cookie 為一行，使用 Netscape cookie.txt 格式，該格式也被 .gitcookies 和 wget 使用。
 
-額外的 標頭 會隨 HTTP 請求傳送到相符的主機名稱。"
+額外的標頭會隨 HTTP 請求傳送到相符的主機名稱。"
 Stash,toolbar button: temporarily shelve uncommitted changes,2.1,Stash,Stash,储藏,貯存
 Sync,action title for bidirectional sync that downloads and uploads changes,2.1,Sync,Sync,同步,同步
 Synchronize,button to fetch and push in one operation,2.1,Synkronisér,Synchronisieren,同步,同步
@@ -1669,12 +1681,12 @@ no conflicts,merge result: zero conflicts detected,2.1,ingen konflikter,keine Ko
 %@ and %@,"combines file count and directory count, e.g. '3 files and 2 directories'",2.0,%@ og %@,%@ und %@,%@ 和 %@,%@ 和 %@
 %@ and others,"describes multiple commit authors, %@ is the most frequent author name",2.0,%@ og andre,%@ und andere,%@ 及其他人,%@ 及其他人
 %@ branch%@,"backup entry detail, args: branch name, modification date suffix",2.0,%@ branch%@,%@ Branch%@,%@ 分支%@,%@ 分支%@
-%@ in %ld commits,"appends commit count to change description, %@ is file change summary, %ld is number of commits",2.0,%@ i %ld commits,%@ in %ld Commits,%@ 在 %ld 个提交中,%@ 在 %ld 個提交中
+%@ in %ld commits,"appends commit count to change description, %@ is file change summary, %ld is number of commits",2.0,%@ i %ld commits,%@ in %ld Commits,%@，涉及 %ld 个提交,%@，涉及 %ld 個提交
 %@ is only available for iPad.,"message when app requires iPad, arg: app name",2.0,%@ er kun tilgængelig for iPad.,%@ ist nur für iPad verfügbar.,%@ 仅适用于 iPad。,%@ 僅適用於 iPad。
 %@ is the current repository for this log.,"info message when tapped repo is already selected, arg: repository name",2.0,%@ er det aktuelle repository for denne log.,%@ ist das aktuelle Repository für dieses Log.,%@ 是此日志的当前仓库。,%@ 是此日誌的目前版本庫。
-%@ is working but no repositories found in %@.,"message when SSH server works but path has no repos, %1$@ is provider title, %2$@ is path",2.0,"%@ virker, men ingen repositories fundet i %@.","%@ funktioniert, aber keine Repositories in %@ gefunden.",%@ 正常工作，但在 %@ 中未找到仓库。,%@ 正常工作，但在 %@ 中未找到版本庫。
-%@ is working but no repositories found.,"message when SSH server works but no repos found, %@ is provider title",2.0,"%@ virker, men ingen repositories fundet.","%@ funktioniert, aber keine Repositories gefunden.",%@ 正常工作，但未找到仓库。,%@ 正常工作，但未找到版本庫。
-"%@ is working but no repositories found. If you want repositories created in a specific directory, you need to adjust the Server field.","message when SSH server works but no repos found and creation is supported, %@ is provider title",2.0,"%@ virker, men ingen repositories fundet. Hvis du vil have repositories oprettet i en bestemt mappe, skal du justere Server-feltet.","%@ funktioniert, aber keine Repositories gefunden. Wenn du Repositories in einem bestimmten Verzeichnis erstellen möchtest, musst du das Server-Feld anpassen.",%@ 正常工作，但未找到仓库。如果你想在特定目录中创建仓库，需要调整服务器字段。,%@ 正常工作，但未找到版本庫。如果你想在特定目錄中建立版本庫，需要調整伺服器欄位。
+%@ is working but no repositories found in %@.,"message when SSH server works but path has no repos, %1$@ is provider title, %2$@ is path",2.0,"%@ virker, men ingen repositories fundet i %@.","%@ funktioniert, aber keine Repositories in %@ gefunden.",%@ 正常工作，但在 %@ 中未找到仓库。,%@ 正常運作，但在 %@ 中未找到版本庫。
+%@ is working but no repositories found.,"message when SSH server works but no repos found, %@ is provider title",2.0,"%@ virker, men ingen repositories fundet.","%@ funktioniert, aber keine Repositories gefunden.",%@ 正常工作，但未找到仓库。,%@ 正常運作，但未找到版本庫。
+"%@ is working but no repositories found. If you want repositories created in a specific directory, you need to adjust the Server field.","message when SSH server works but no repos found and creation is supported, %@ is provider title",2.0,"%@ virker, men ingen repositories fundet. Hvis du vil have repositories oprettet i en bestemt mappe, skal du justere Server-feltet.","%@ funktioniert, aber keine Repositories gefunden. Wenn du Repositories in einem bestimmten Verzeichnis erstellen möchtest, musst du das Server-Feld anpassen.",%@ 正常工作，但未找到仓库。如果你想在特定目录中创建仓库，需要调整服务器字段。,%@ 正常運作，但未找到版本庫。如果你想在特定目錄中建立版本庫，需要調整伺服器欄位。
 %@ line %ld.,"log file reference, args: filename, line number",2.0,%@ linje %ld.,%@ Zeile %ld.,%@ 第 %ld 行。,%@ 第 %ld 行。
 %@ on %@ is mounted on %@.,"mount mode explanation, %1$@ is directory name, %2$@ is device name, %3$@ is server hostname",2.0,%@ på %@ er monteret på %@.,%@ auf %@ ist auf %@ gemountet.,%@ 在 %@ 上已挂载到 %@。,%@ 在 %@ 上已掛載到 %@。
 %@ syncing,"navigation title for sync screen, %@ is the sync target name",2.0,%@ synkroniserer,%@ synchronisiert,%@ 同步中,%@ 同步中
@@ -1717,7 +1729,7 @@ Accept key,button to trust and store an SSH host key,2.0,Acceptér nøgle,Schlü
 Action was cancelled.,Siri shortcut result when user cancels the action,2.0,Handlingen blev annulleret.,Aktion wurde abgebrochen.,操作已取消。,操作已取消。
 Add Contact,action to add the commit author as a contact in the Contacts app,2.0,Tilføj kontakt,Kontakt hinzufügen,添加联系人,新增聯絡人
 Add Extra Header,Button to add a new custom HTTP header,2.0,Tilføj ekstra header,Zusätzlichen Header hinzufügen,添加额外标头,新增額外標頭
-Add Submodule,navigation title for add submodule screen,2.0,Tilføj submodule,Submodule hinzufügen,添加子模块,新增子模組
+Add Submodule,navigation title for add submodule screen,2.0,Tilføj submodule,Submodule hinzufügen,添加子模组,新增子模組
 Advanced code editor for iOS with ideal document-picker support.,short description of the Textastic app integration,2.0,Avanceret kodeeditor til iOS med ideel dokumentvælger-understøttelse.,Fortgeschrittener Code-Editor für iOS mit idealer Dokumentenauswahl-Unterstützung.,适用于 iOS 的高级代码编辑器，具有理想的文档选择器支持。,適用於 iOS 的高階程式碼編輯器，具有理想的文件選擇器支援。
 All Branches,menu option to show commits from all branches in the graph,2.0,Alle branches,Alle Branches,所有分支,所有分支
 All cookies %@ already known.,Message when all parsed cookies are duplicates; %@ is the source location,2.0,Alle cookies %@ allerede kendte.,Alle Cookies %@ bereits bekannt.,%@ 的所有 Cookie 均已存在。,%@ 的所有 Cookie 均已存在。
@@ -1786,7 +1798,7 @@ Button,storyboard string for Button,2.0,Knap,Schaltfläche,按钮,按鈕
 Buy,storyboard string for Buy,2.0,Køb,Kaufen,购买,購買
 Cached:,,2.0,Cached:,Zwischengespeichert:,已缓存：,已快取：
 Calculating status...,shown while repository file status is being computed,2.0,Beregner status...,Status wird berechnet...,正在计算状态…,正在計算狀態…
-Callback examples,storyboard string for Callback examples,2.0,Callback-eksempler,Callback-Beispiele,Callback 示例,Callback 示例
+Callback examples,storyboard string for Callback examples,2.0,Callback-eksempler,Callback-Beispiele,回调示例,回呼範例
 Cancel Create,storyboard string for Cancel Create,2.0,Annuller oprettelse,Erstellen abbrechen,取消创建,取消建立
 Cancel Create,storyboard string for Cancel Create,2.0,Annuller oprettelse,Erstellen abbrechen,取消创建,取消建立
 Change Password,storyboard string for Change Password,2.0,Skift adgangskode,Passwort ändern,更改密码,變更密碼
@@ -1834,7 +1846,7 @@ Commit Repository,,2.0,Commit Repository,Commit Repository,提交仓库,提交�
 Commit as HEAD,action title to make this commit the current active commit in the repository,2.0,Commit som HEAD,Commit als HEAD,将此提交设为 HEAD,將此提交設為 HEAD
 Commit changes,button to save current changes as a new commit,2.0,Commit ændringer,Änderungen committen,提交更改,提交變更
 Commit changes,button to save current changes as a new commit,2.0,Commit ændringer,Änderungen committen,提交更改,提交變更
-Commit from Files app,saving changes to the repository from the iOS Files app,2.0,Commit fra Arkiver-app,Commit aus Dateien-App,从“文件”App提交,從「檔案」App 提交
+Commit from Files app,saving changes to the repository from the iOS Files app,2.0,Commit fra Arkiver-app,Commit aus Dateien-App,从“文件”App 提交,從「檔案」App 提交
 Commit graph,visual diagram showing branch and merge history,2.0,Commit-graf,Commit-Graph,提交图,提交圖
 Commit message suggestions require accepting terms before first use.,informational text shown when terms have not been accepted for commit message suggestions,2.0,Forslag til commit-beskeder kræver accept af vilkår før første brug.,Commit-Nachricht-Vorschläge erfordern das Akzeptieren der Nutzungsbedingungen vor der ersten Verwendung.,提交消息建议需要在首次使用前接受条款。,提交訊息建議需要在首次使用前接受條款。
 Commit options,,2.0,Commit-indstillinger,Commit-Optionen,提交选项,提交選項
@@ -1878,7 +1890,9 @@ Confirm Create,storyboard string for Confirm Create,2.0,Bekræft oprettelse,Erst
 "Connections to the local port on %@ are forwarded to the host from %@.
 ","port forwarding explanation, %1$@ is device name, %2$@ is server hostname",2.0,"Forbindelser til den lokale port på %@ videresendes til værten fra %@.
 ","Verbindungen zum lokalen Port auf %@ werden an den Host von %@ weitergeleitet.
-",到 %@ 上本地端口的连接会从 %@ 转发到主机。,到 %@ 上本機埠的連線會從 %@ 轉發到主機。
+","到 %@ 上本地端口的连接会从 %@ 转发到主机。
+","到 %@ 上本機埠的連線會從 %@ 轉發到主機。
+"
 Console,toggle to show or hide the JavaScript console in preview,2.0,Konsol,Konsole,控制台,控制台
 Courier,font name for code editor,2.0,Courier,Courier,Courier,Courier
 Courier New,font name for code editor,2.0,Courier New,Courier New,Courier New,Courier New
@@ -1946,7 +1960,7 @@ Documentation,storyboard string for Documentation,2.0,Dokumentation,Dokumentatio
 Don't Use Clipboard,choice to not copy result to the system clipboard,2.0,Brug ikke udklipsholder,Zwischenablage nicht verwenden,不使用剪贴板,不使用剪貼簿
 Don't enter sub-directories.,detail for depth 0 in status listing,2.0,Gå ikke ind i undermapper.,Nicht in Unterverzeichnisse wechseln.,不进入子目录。,不進入子目錄。
 Dots,app icon style name,2.0,Prikker,Punkte,圆点,圓點
-Double-Tap to Toggle,,2.0,Dobbelttryk for at skifte,Doppeltippen zum Umschalten,双击以切换,雙擊以切換
+Double-Tap to Toggle,,2.0,Dobbelttryk for at skifte,Doppeltippen zum Umschalten,轻触两下以切换,點兩下以切換
 Double-tap mode button to quickly switch between Preview and Editing.,,2.0,Dobbelttryk på tilstandsknappen for hurtigt at skifte mellem forhåndsvisning og redigering.,"Doppeltippe auf die Modustaste, um schnell zwischen Vorschau und Bearbeitung zu wechseln.",轻触模式按钮两下，可在预览和编辑之间快速切换。,點兩下模式按鈕，可在預覽和編輯之間快速切換。
 Download Ollama from ,,2.0,Hent Ollama fra ,Ollama herunterladen von ,从以下位置下载 Ollama ,從以下位置下載 Ollama 
 Drop,undo action name for drag-and-drop text insertion,2.0,Drop,Drop,放置,放置
@@ -2280,7 +2294,7 @@ Push Repository,,2.0,Push repository,Push Repository,推送仓库,推送版本�
 Push all,,2.0,Push alle,Alle pushen,全部推送,全部推送
 README.txt,storyboard string for README.txt,2.0,README.txt,README.txt,README.txt,README.txt
 Rainbow,app icon style name,2.0,Regnbue,Regenbogen,彩虹,彩虹
-Rate Working Copy,storyboard string for Rate Working Copy,2.0,Bedøm Working Copy,Working Copy bewerten,评价 Working Copy,為 Working Copy 評分
+Rate Working Copy,storyboard string for Rate Working Copy,2.0,Bedøm Working Copy,Working Copy bewerten,为 Working Copy 评分,為 Working Copy 評分
 Read as binary file.,detail for base64 read type,2.0,Læs som binær fil.,Als Binärdatei lesen.,以二进制文件读取。,以二進位檔案讀取。
 Read text or binary depending on file.,detail for auto read type,2.0,Læs tekst eller binært afhængigt af fil.,"Text oder Binär lesen, abhängig von der Datei.",根据文件类型读取文本或二进制。,根據檔案型別讀取文字或二進位。
 Read universal link of file. Useful when picking files.,detail for URL read type,2.0,Læs universelt link for fil. Nyttigt når man vælger filer.,Universellen Link der Datei lesen. Nützlich beim Auswählen von Dateien.,读取文件的通用链接。在选择文件时很有用。,讀取檔案的通用連結。在選擇檔案時很有用。
@@ -2377,7 +2391,7 @@ Search/Replace All,feature name for searching and replacing text across files,2.
 Secure Shell,log entry title for SSH connection,2.0,Secure Shell,Secure Shell,Secure Shell,Secure Shell
 Secure ShellFish,storyboard string for Secure ShellFish,2.0,Secure ShellFish,Secure ShellFish,Secure ShellFish,Secure ShellFish
 Server,storyboard string for Server,2.0,Server,Server,服务器,伺服器
-Server Persistence,storyboard string for Server Persistence,2.0,Server-persistens,Server-Persistenz,服务器持久化,伺服器持久化
+Server Persistence,storyboard string for Server Persistence,2.0,Server-persistens,Server-Persistenz,服务器持续运行,伺服器持續執行
 Service,,2.0,Tjeneste,Dienst,服务,服務
 Share Zip,name of the shortcut that shares repository as a zip file,2.0,Del zip,Zip teilen,共享 Zip,分享 Zip
 Short name,storyboard string for Short name,2.0,Kort navn,Kurzname,简称,簡稱
@@ -2388,7 +2402,7 @@ Show Outline,,2.0,Vis oversigt,Gliederung anzeigen,显示大纲,顯示大綱
 Show Whitespace,toggle to render invisible characters like spaces and tabs,2.0,Vis blanktegn,Leerzeichen anzeigen,显示空白字符,顯示空白字元
 Show all branches,button to navigate to full branch list,2.0,Vis alle branches,Alle Branches anzeigen,显示所有分支,顯示所有分支
 Show when updated,storyboard string for Show when updated,2.0,Vis ved opdatering,Bei Aktualisierung anzeigen,更新时显示,更新時顯示
-Shown %@ at callback time.,"detail text for $current choice: arg is noun like file, branch, or repository",2.0,Viste %@ ved callback-tidspunkt.,Angezeigt: %@ zum Callback-Zeitpunkt.,在回调时显示 %@。,在回呼時顯示 %@。
+Shown %@ at callback time.,"detail text for $current choice: arg is noun like file, branch, or repository",2.0,Viste %@ ved callback-tidspunkt.,Angezeigt: %@ zum Callback-Zeitpunkt.,回调时显示的 %@。,回呼時顯示的 %@。
 Sign In,button to sign into hosting provider,2.0,Log ind,Anmelden,登录,登入
 Sign In,storyboard string for Sign In,2.0,Log ind,Anmelden,登录,登入
 Sign In,storyboard string for Sign In,2.0,Log ind,Anmelden,登录,登入
@@ -2424,7 +2438,7 @@ Starting,cloud server status when booting up,2.0,Starter,Startet,正在启动,�
 Stop Syncing,destructive button title to stop and remove sync,2.0,Stop synkronisering,Synchronisierung beenden,停止同步,停止同步
 Stopped,cloud server status when powered off,2.0,Stoppet,Gestoppt,已停止,已停止
 Stopping,cloud server status when shutting down,2.0,Stopper,Wird gestoppt,正在停止,正在停止
-Submodules,back button title for submodule list screen,2.0,Submodules,Submodules,子模块,子模組
+Submodules,back button title for submodule list screen,2.0,Submodules,Submodules,子模组,子模組
 Subtitle,storyboard string for Subtitle,2.0,Undertitel,Untertitel,副标题,副標題
 Subtitle,storyboard string for Subtitle,2.0,Undertitel,Untertitel,副标题,副標題
 Subtitle,storyboard string for Subtitle,2.0,Undertitel,Untertitel,副标题,副標題
@@ -2466,7 +2480,7 @@ Anders Borum","感谢你，
 Anders Borum","感謝你，
 Anders Borum"
 The application used for links in commit messages and to show web pages for repositories and commits.,footer explaining what the default browser setting controls,2.0,Programmet der bruges til links i commit-beskeder og til at vise websider for repositories og commits.,"Die Anwendung, die für Links in Commit-Nachrichten und zum Anzeigen von Webseiten für Repositories und Commits verwendet wird.",用于打开提交消息中链接以及显示仓库和提交网页的应用程序。,用於開啟提交訊息中連結以及顯示版本庫和提交網頁的應用程式。
-Their,storyboard string for Their,2.0,Deres,Deren,他们的,他們的
+Their,storyboard string for Their,2.0,Deres,Deren,对方,對方
 There is no file sharing between %@ and %@.,"file sharing disabled explanation, %1$@ is device name, %2$@ is server hostname",2.0,Der er ingen fildeling mellem %@ og %@.,Es gibt keine Dateifreigabe zwischen %@ und %@.,%@ 和 %@ 之间没有文件共享。,%@ 和 %@ 之間沒有檔案共享。
 Thinking...,,2.0,Tænker…,Denke nach …,思考中…,思考中…
 Tips & Community,storyboard string for Tips & Community,2.0,Tips & fællesskab,Tipps & Community,技巧与社区,技巧與社群
@@ -2672,7 +2686,7 @@ hash,storyboard string for hash,2.0,hash,Hash,哈希,雜湊
 head,storyboard string for head,2.0,HEAD,HEAD,HEAD,HEAD
 highlight.js,storyboard string for highlight.js,2.0,highlight.js,highlight.js,highlight.js,highlight.js
 hosting,short log kind identifier for hosting provider API,2.0,hosting,Hosting,托管,託管
-hostname or IP address,,2.0,hostname eller IP-adresse,Hostname oder IP-Adresse,主机名或 IP 地址,主機名稱或 IP 地址
+hostname or IP address,,2.0,hostname eller IP-adresse,Hostname oder IP-Adresse,主机名或 IP 地址,主機名稱或 IP 位址
 http,storyboard string for http,2.0,http,http,http,http
 http://ollama.local:11434/api/chat,,2.0,http://ollama.local:11434/api/chat,http://ollama.local:11434/api/chat,http://ollama.local:11434/api/chat,http://ollama.local:11434/api/chat
 https,storyboard string for https,2.0,https,https,https,https
@@ -2725,7 +2739,7 @@ origin:master,storyboard string for origin:master,2.0,origin:master,origin:maste
 paid download,label for a recent paid download of the app,2.0,betalt download,bezahlter Download,付费下载,付費下載
 part of name or url,storyboard string for part of name or url,2.0,del af navn eller url,Teil des Namens oder der URL,名称或 URL 的部分内容,名稱或 URL 的部分內容
 partial,,2.0,delvis,teilweise,部分,部分
-pick directory containing submodule,placeholder for directory text field when editing,2.0,vælg mappe der indeholder submodule,Verzeichnis mit Submodule wählen,选择包含子模块的目录,選擇包含子模組的目錄
+pick directory containing submodule,placeholder for directory text field when editing,2.0,vælg mappe der indeholder submodule,Verzeichnis mit Submodule wählen,选择包含子模组的目录,選擇包含子模組的目錄
 plain text,content mode label for plain text files,2.0,ren tekst,Klartext,纯文本,純文字
 pull,short log kind identifier for git pull,2.0,pull,Pull,拉取,拉取
 pull request title,storyboard string for pull request title,2.0,pull request-titel,Pull-Request-Titel,Pull Request 标题,Pull Request 標題
@@ -2757,7 +2771,7 @@ tap to set,storyboard string for tap to set,2.0,tryk for at indstille,tippen zum
 text,content type label for text files in editor jump list,2.0,tekst,Text,文本,文字
 total,,2.0,total,gesamt,总计,總計
 travis,short log kind identifier for Travis CI,2.0,travis,travis,travis,travis
-unborn HEAD,branch detail: HEAD points to a branch with no commits yet,2.0,unborn HEAD,unborn HEAD,unborn HEAD,unborn HEAD
+unborn HEAD,branch detail: HEAD points to a branch with no commits yet,2.0,unborn HEAD,unborn HEAD,未诞生的 HEAD,未誕生的 HEAD
 upstream:master,storyboard string for upstream:master,2.0,upstream:master,upstream:master,upstream:master,upstream:master
 used to work with zip files,storyboard string for used to work with zip files,2.0,bruges til at arbejde med zip-filer,zum Arbeiten mit Zip-Dateien,用于处理 zip 文件,用於處理 zip 檔案
 user settings,linkable substring within the access token configuration footer,2.0,brugerindstillinger,Benutzereinstellungen,用户设置,使用者設定
@@ -2837,9 +2851,9 @@ Tippe, um '%@' als Branch-Name zu verwenden.","
 %@ on %@ is synced to %@.,"sync mode explanation, %1$@ is directory name, %2$@ is device name, %3$@ is server hostname",1.6,%@ på %@ er synkroniseret til %@.,%@ auf %@ ist mit %@ synchronisiert.,%@ 在 %@ 上已同步到 %@。,%@ 在 %@ 上已同步到 %@。
 %@ requires %d numbers: %@,"SVG path parsing error: args are instruction name, required count, and context string",1.6,%@ kræver %d tal: %@,%@ erfordert %d Zahlen: %@,%@ 需要 %d 个数字：%@,%@ 需要 %d 個數字：%@
 %@ to %@,"push result clause adding target, %1$@ is 'transmitted X' clause, %2$@ is branch name",1.6,%@ til %@,%@ nach %@,%@ 到 %@,%@ 到 %@
-%@ updated %@.,"fetch/pull result, args: 'Fetch'/'Pull', branch name",1.6,%@ opdaterede %@.,%@ hat %@ aktualisiert.,%@ 更新了 %@。,%@ 更新了 %@。
-%@ updated %ld and created %ld new branches.,"fetch result with both updates and creations, %1$@ is 'Fetch'/'Pull', %2$ld is updated count, %3$ld is created count",1.6,%@ opdaterede %ld og oprettede %ld nye branches.,%@ hat %ld aktualisiert und %ld neue Branches erstellt.,%@ 更新了 %ld 个并创建了 %ld 个新分支。,%@ 更新了 %ld 個並建立了 %ld 個新分支。
-%@ updated %ld branches.,"fetch/pull result, args: 'Fetch'/'Pull', number of branches",1.6,%@ opdaterede %ld branches.,%@ hat %ld Branches aktualisiert.,%@ 更新了 %ld 个分支。,%@ 更新了 %ld 個分支。
+%@ updated %@.,"fetch/pull result, args: 'Fetch'/'Pull', branch name",1.6,%@ opdaterede %@.,%@ hat %@ aktualisiert.,%@更新了 %@。,%@更新了 %@。
+%@ updated %ld and created %ld new branches.,"fetch result with both updates and creations, %1$@ is 'Fetch'/'Pull', %2$ld is updated count, %3$ld is created count",1.6,%@ opdaterede %ld og oprettede %ld nye branches.,%@ hat %ld aktualisiert und %ld neue Branches erstellt.,%@更新了 %ld 个并创建了 %ld 个新分支。,%@更新了 %ld 個並建立了 %ld 個新分支。
+%@ updated %ld branches.,"fetch/pull result, args: 'Fetch'/'Pull', number of branches",1.6,%@ opdaterede %ld branches.,%@ hat %ld Branches aktualisiert.,%@更新了 %ld 个分支。,%@更新了 %ld 個分支。
 %@ will be removed for everyone and %@ not merged to '%@' will be lost.,"warning for deleting remote branch with 1 unmerged commit, first %@ is branch name, second %@ is commit description, third %@ is closest branch",1.6,"%@ vil blive fjernet for alle, og %@ ikke merged til '%@' vil gå tabt.","%@ wird für alle entfernt, und %@, die nicht zu '%@' gemergt wurden, gehen verloren.",%1$@ 将从远程移除，所有人都会受影响；未合并到“%3$@”的 %2$@ 将丢失。,%1$@ 將從遠端移除，所有人都會受影響；未合併到「%3$@」的 %2$@ 將遺失。
 %@ will be removed for everyone and all commits will be lost.,"warning when deleting remote branch not merged anywhere, %@ is branch name",1.6,"%@ vil blive fjernet for alle, og alle commits vil gå tabt.","%@ wird für alle entfernt, und alle Commits gehen verloren.",%@ 将从远程移除，所有人都会受影响；所有提交都将丢失。,%@ 將從遠端移除，所有人都會受影響；所有提交都將遺失。
 %@ would be removed for everyone and %@ not merged to '%@' would be lost.,"conditional warning for deleting remote branch with 1 unmerged commit, first %@ is branch name, second %@ is commit description, third %@ is closest branch",1.6,"%@ ville blive fjernet for alle, og %@ ikke merged til '%@' ville gå tabt.","%@ würde für alle entfernt, und %@, die nicht zu '%@' gemergt wurden, würden verloren gehen.",如果删除，%1$@ 会从远程移除，所有人都会受影响；未合并到“%3$@”的 %2$@ 会丢失。,若刪除，%1$@ 會從遠端移除，所有人都會受影響；未合併到「%3$@」的 %2$@ 會遺失。
@@ -2910,8 +2924,8 @@ Cherry Picking,free feature: applying individual commits from one branch to anot
 Cherrypick,action to apply changes from this commit onto the current branch,1.6,Cherrypick,Cherrypick,拣选,揀選
 Cherrypick,storyboard string for Cherrypick,1.6,Cherrypick,Cherrypick,拣选,揀選
 Christmas Tree commit activity from Working Copy.,description for the holiday activity repository created on GitHub,1.6,Juletræ commit-aktivitet fra Working Copy.,Weihnachtsbaum-Commit-Aktivität von Working Copy.,来自 Working Copy 的圣诞树提交活动。,來自 Working Copy 的聖誕樹提交活動。
-Clone Submodule,button to download a git submodule,1.6,Klon submodul,Submodul clonen,克隆子模块,拓製子模組
-Clone Submodule,button to download a git submodule,1.6,Klon submodul,Submodul clonen,克隆子模块,拓製子模組
+Clone Submodule,button to download a git submodule,1.6,Klon submodul,Submodul clonen,克隆子模组,拓製子模組
+Clone Submodule,button to download a git submodule,1.6,Klon submodul,Submodul clonen,克隆子模组,拓製子模組
 Cloned %@,"success message, arg: date",1.6,Clonet %@,Geklont %@,已克隆 %@,已拓製 %@
 Color Scheme,storyboard string for Color Scheme,1.6,Farveskema,Farbschema,配色方案,配色方案
 Color scheme override,feature name for overriding the app color scheme,1.6,Tilsidesæt farveskema,Farbschema überschreiben,配色方案覆盖,配色方案覆蓋
@@ -2920,7 +2934,7 @@ Command execution failed,error when starting git-lfs-transfer SSH command fails,
 Command failed with exit code %d: %@,"SSH command error, args: exit code number, command output",1.6,Kommando mislykkedes med afslutningskode %d: %@,Befehl fehlgeschlagen mit Exit-Code %d: %@,命令失败，退出代码 %d：%@,指令失敗，結束碼 %d：%@
 Commit HEAD,action to commit submodule HEAD reference,1.6,Commit HEAD,Commit HEAD,提交 HEAD,提交 HEAD
 Commit History Editing,feature name for rewriting past commits using interactive rebase,1.6,Redigering af commit-historik,Commit-Historik bearbeiten,提交历史编辑,提交歷史編輯
-Commit Submodule,action to commit submodule changes,1.6,Commit Submodule,Commit Submodule,提交子模块,提交子模組
+Commit Submodule,action to commit submodule changes,1.6,Commit Submodule,Commit Submodule,提交子模组,提交子模組
 Commit has already been pushed to %@. You need to rewrite history to Delete Commit.,"warning when deleting a pushed commit, %@ is remote name",1.6,Commit er allerede pushet til %@. Du skal omskrive historikken for at slette commit.,"Commit wurde bereits zu %@ gepusht. Du musst die Historik umschreiben, um den Commit zu löschen.",提交已推送到 %@。你需要重写历史才能删除提交。,提交已推送到 %@。你需要重寫歷史才能刪除提交。
 Commit has already been pushed to %@. You need to rewrite history to Edit Message.,"warning when editing a pushed commit message, %@ is remote name",1.6,Commit er allerede pushet til %@. Du skal omskrive historikken for at redigere beskeden.,"Commit wurde bereits zu %@ gepusht. Du musst die Historik umschreiben, um die Nachricht zu bearbeiten.",提交已推送到 %@。你需要重写历史才能编辑消息。,提交已推送到 %@。你需要重寫歷史才能編輯訊息。
 Commit has already been pushed to %@. You need to rewrite history to Squash Commit.,"warning when squashing a pushed commit, %@ is remote name",1.6,Commit er allerede pushet til %@. Du skal omskrive historikken for at squashe commit.,"Commit wurde bereits zu %@ gepusht. Du musst die Historik umschreiben, um den Commit zu squashen.",提交已推送到 %@。你需要重写历史才能压缩提交。,提交已推送到 %@。你需要重寫歷史才能壓縮提交。
@@ -3093,7 +3107,7 @@ Tippe, um die Installation mit apt-get zu versuchen.","看起来 $SERVER 上未�
 點一下嘗試使用 apt-get 安裝。"
 Keychain error %d,"error message when keychain operation fails, %d is the OS status code",1.6,Nøglering-fejl %d,Schlüsselbund-Fehler %d,钥匙串错误 %d,鑰匙圈錯誤 %d
 LFS: ,prefix added to error messages to identify them as LFS errors,1.6,LFS: ,LFS: ,LFS：,LFS：
-Label reading not supported for this HostingProvider,error when the hosting provider does not support reading issue labels,1.6,Læsning af labels understøttes ikke for denne hosting-udbyder,Lesen von Labels wird für diesen Hosting-Anbieter nicht unterstützt,此托管服务商不支持读取标签,此代管服務商不支援讀取標籤
+Label reading not supported for this HostingProvider,error when the hosting provider does not support reading issue labels,1.6,Læsning af labels understøttes ikke for denne hosting-udbyder,Lesen von Labels wird für diesen Hosting-Anbieter nicht unterstützt,此 HostingProvider 不支持读取标签,此 HostingProvider 不支援讀取標籤
 Light Default,name of the default light syntax highlighting color scheme,1.6,Lys standard,Hell Standard,浅色默认,淺色預設
 Listening to remote connections on port %d,"status message for reverse port forwarding, %d is the remote port number",1.6,Lytter efter fjernforbindelser på port %d,Lauscht auf Remote-Verbindungen auf Port %d,正在监听端口 %d 上的远程连接,正在監聽埠 %d 上的遠端連線
 Local Directory,section caption label for submodule local directory,1.6,Lokal mappe,Lokales Verzeichnis,本地目录,本機目錄
@@ -3123,14 +3137,14 @@ Missing tag name value,error when tag callback lacks name parameter,1.6,Manglend
 Modified files,alert title warning about uncommitted changes when creating a branch,1.6,Ændrede filer,Geänderte Dateien,已修改的文件,已修改的檔案
 Moving items to the trash is not supported.,error when an app tries to trash a Working Copy file provider item,1.6,Flytning af elementer til papirkurven understøttes ikke.,Das Verschieben von Elementen in den Papierkorb wird nicht unterstützt.,不支持将项目移到废纸篓。,不支援將項目移到垃圾桶。
 Multiple files at path %@. Try using zip command instead.,"error when read targets a directory, arg: directory path",1.6,Flere filer ved stien %@. Prøv at bruge zip-kommandoen i stedet.,Mehrere Dateien am Pfad %@. Versuche stattdessen den zip-Befehl zu verwenden.,路径 %@ 下有多个文件。请尝试使用 zip 命令。,路徑 %@ 下有多個檔案。請嘗試使用 zip 指令。
-Multiple repositories matching repo parameter.,error when repo parameter matches more than one repository,1.6,Flere repositories matcher repo-parameteren.,Mehrere Repositories stimmen mit dem Repo-Parameter überein.,多个仓库匹配仓库参数。,有多個版本庫符合 repo 參數。
+Multiple repositories matching repo parameter.,error when repo parameter matches more than one repository,1.6,Flere repositories matcher repo-parameteren.,Mehrere Repositories stimmen mit dem Repo-Parameter überein.,多个仓库匹配 repo 参数。,有多個版本庫符合 repo 參數。
 Name '%@' is already in use.,Shortcuts clone error when a repository with the given name already exists; %@ is the existing name,1.6,Navnet '%@' er allerede i brug.,Der Name '%@' wird bereits verwendet.,名称 “%@” 已被使用。,名稱「%@」已被使用。
 Never connected to SSH host before. Host key not accepted.,error when connecting to an SSH host for the first time,1.6,Aldrig forbundet til SSH-vært før. Værtsnøgle ikke accepteret.,Noch nie mit SSH-Host verbunden. Hostschlüssel nicht akzeptiert.,之前从未连接过此 SSH 主机。主机密钥未被接受。,之前從未連線過此 SSH 主機。主機金鑰未被接受。
 No branch '$BRANCH',Shortcuts merge error when the specified branch does not exist; $BRANCH is replaced with the branch name,1.6,Ingen branch '$BRANCH',Kein Branch '$BRANCH',没有分支 “$BRANCH”,沒有分支「$BRANCH」
 No branch information found in %@,"error when URL does not contain branch info, %@ is the URL or branch name",1.6,Ingen branch-information fundet i %@,Keine Branch-Information in %@ gefunden,在 %@ 中未找到分支信息,在 %@ 中未找到分支資訊
 No branch named %@,"error when checkout branch not found, arg: branch name",1.6,Ingen branch med navnet %@,Kein Branch mit dem Namen %@,没有名为 %@ 的分支,沒有名為 %@ 的分支
 No branch named '%@' and it doesn't follow expected URL structure for branches,"error when branch name or URL cannot be resolved, %@ is the branch name or URL",1.6,Ingen branch med navnet '%@' og den følger ikke forventet URL-struktur for branches,Kein Branch mit dem Namen '%@' und er folgt nicht der erwarteten URL-Struktur für Branches,没有名为 “%@” 的分支，且不符合预期的分支 URL 结构,沒有名為「%@」的分支，且不符合預期的分支 URL 結構
-No cookies found %@.,Error when no cookies could be parsed from input; %@ is the source location like 'in file' or 'on clipboard',1.6,Ingen cookies fundet %@.,Keine Cookies gefunden %@.,未找到 Cookie %@。,未找到 Cookie %@。
+No cookies found %@.,Error when no cookies could be parsed from input; %@ is the source location like 'in file' or 'on clipboard',1.6,Ingen cookies fundet %@.,Keine Cookies gefunden %@.,%@未找到 Cookie。,%@未找到 Cookie。
 No files to commit.,error when commit finds no modified files,1.6,Ingen filer at committe.,Keine Dateien zum Committen.,没有要提交的文件。,沒有要提交的檔案。
 No fonts found in %@,"error when imported font file contains no usable fonts, %@ is filename",1.6,Ingen skrifttyper fundet i %@,Keine Schriftarten in %@ gefunden,在 %@ 中未找到字体,在 %@ 中未找到字型
 No matching references. You can use Pattern=refs/heads/* for all branches and Pattern=* for all references,Shortcuts list-references error when the glob pattern matches no refs,1.6,Ingen matchende referencer. Du kan bruge Pattern=refs/heads/* for alle branches og Pattern=* for alle referencer,Keine passenden Referenzen. Du kannst Pattern=refs/heads/* für alle Branches und Pattern=* für alle Referenzen verwenden,没有匹配的引用。你可以使用 Pattern=refs/heads/* 匹配所有分支，Pattern=* 匹配所有引用,沒有相符的引用。你可以使用 Pattern=refs/heads/* 比對所有分支，使用 Pattern=* 比對所有引用
@@ -3142,9 +3156,9 @@ Deaktiver 'Fejl når intet at committe' for at ændre denne adfærd.","Keine ge�
 
 Deaktiviere 'Fehler wenn nichts zu committen' um dieses Verhalten zu ändern.","没有已修改的文件可提交。
 
-禁用“无内容可提交时报错”可更改此行为。","沒有已修改的檔案可提交。
+禁用“无内容可提交时失败”可更改此行为。","沒有已修改的檔案可提交。
 
-停用「無內容可提交時顯示錯誤」可變更此行為。"
+停用「無內容可提交時失敗」可變更此行為。"
 No more authentication methods.,progress message when all authentication options have been exhausted,1.6,Ingen flere godkendelsesmetoder.,Keine weiteren Authentifizierungsmethoden.,没有更多的认证方式。,沒有更多的認證方式。
 Not available on this device,,1.6,Ikke tilgængelig på denne enhed,Auf diesem Gerät nicht verfügbar,在此设备上不可用,在此裝置上不可用
 Not inside repository,error when a file provider operation targets a path outside any repository,1.6,Ikke inde i repository,Nicht innerhalb eines Repositorys,不在仓库内,不在版本庫內
@@ -3161,9 +3175,9 @@ Change 'What to Commit' to include everything modified in repository or disable 
 
 Ändere 'Was committet wird', um alles Geänderte im Repository einzubeziehen, oder deaktiviere 'Fehler wenn nichts zu committen'.","没有暂存内容可提交。
 
-将“提交内容”更改为包含仓库中所有已修改的内容，或禁用“无内容可提交时报错”。","沒有暫存內容可提交。
+将“提交内容”更改为包含仓库中所有已修改的内容，或禁用“无内容可提交时失败”。","沒有暫存內容可提交。
 
-將「提交內容」變更為包含版本庫中所有已修改的內容，或停用「無內容可提交時顯示錯誤」。"
+將「提交內容」變更為包含版本庫中所有已修改的內容，或停用「無內容可提交時失敗」。"
 ObjectivePGP,storyboard string for ObjectivePGP,1.6,ObjectivePGP,ObjectivePGP,ObjectivePGP,ObjectivePGP
 One Light,name of the One Light syntax highlighting color scheme,1.6,One Light,One Light,One Light,One Light
 Ongoing rebase in branch %@. Tap to complete this.,"banner message about an unfinished rebase, arg: branch name",1.6,Igangværende rebase i branch %@. Tryk for at fuldføre.,"Laufender Rebase in Branch %@. Tippe, um dies abzuschließen.",分支 %@ 中有正在进行的变基。轻触完成。,分支 %@ 中有正在進行的重定基底。點一下完成。
@@ -3200,13 +3214,13 @@ Pull request reading not supported for this HostingProvider,error when hosting p
 Pulled,"past tense of git pull, used in result message",1.6,Pulled,Gepullt,已拉取,已拉取
 Pulling %@ %@,"progress title for downloading and integrating changes; args: repository name, remote server name",1.6,Puller %@ %@,Pulle %@ %@,正在拉取 %@ %@,正在拉取 %@ %@
 Purge,action to delete a cloned submodule's local data,1.6,Rens,Entfernen,清除,清除
-Purge Submodule,button to remove a submodule from device,1.6,Fjern submodule,Submodule entfernen,清除子模块,清除子模組
+Purge Submodule,button to remove a submodule from device,1.6,Fjern submodule,Submodule entfernen,清除子模组,清除子模組
 Push not allowed,Error when the server rejected uploading changes.,1.6,Push ikke tilladt,Push nicht erlaubt,不允许推送,不允許推送
 Pushing %@ %@ → %@,"push progress, args: repo name, local branch, remote branch",1.6,Pusher %@ %@ → %@,Pushe %@ %@ → %@,正在推送 %@ %@ → %@,正在推送 %@ %@ → %@
 Pushing %@ to %@,"progress title for uploading changes; args: repository name, remote server name",1.6,Pusher %@ til %@,Pushe %@ zu %@,正在推送 %@ 到 %@,正在推送 %@ 到 %@
 RSA Key,SSH key type label for RSA keys,1.6,RSA-nøgle,RSA-Schlüssel,RSA 密钥,RSA 金鑰
 Rebase,git operation: reapply commits on top of another base,1.6,Rebase,Rebase,变基,重定基底
-Rebase if needed,merge strategy option for pulling,1.6,Rebase om nødvendigt,Rebase falls nötig,按需变基,按需重定基底
+Rebase if needed,merge strategy option for pulling,1.6,Rebase om nødvendigt,Rebase falls nötig,需要时变基,需要時重定基底
 Rebase support,replaying commits on top of a different starting point,1.6,Rebase-understøttelse,Rebase-Unterstützung,变基支持,重定基底支援
 Receipt needs to be updated for new app version.,license validation error when app receipt is outdated,1.6,Kvittering skal opdateres for ny app-version.,Beleg muss für neue App-Version aktualisiert werden.,收据需要为新版应用更新。,收據需要為新版 App 更新。
 Receiving from %@:%d failed,"error when reading data from SSH port forwarding channel fails, %@ is host and %d is port",1.6,Modtagelse fra %@:%d mislykkedes,Empfangen von %@:%d fehlgeschlagen,从 %@:%d 接收失败,從 %@:%d 接收失敗
@@ -3236,7 +3250,7 @@ Request outside root directory.,error when preview server request tries to acces
 Reset of %@ will lose all changes in working directory.,hard reset warning: all uncommitted file changes will be lost; %@ is branch name,1.6,Reset af %@ vil miste alle ændringer i working directory.,Reset von %@ wird alle Änderungen im Arbeitsverzeichnis verlieren.,重置 %@ 将丢失工作目录中的所有更改。,重設 %@ 將遺失工作目錄中的所有變更。
 Response is too old. Make sure your local clock is accurate.,license validation error when server response timestamp is expired,1.6,Svaret er for gammelt. Sørg for at dit lokale ur er korrekt.,"Antwort ist zu alt. Stelle sicher, dass deine lokale Uhr korrekt ist.",响应已过期。请确保你的本地时钟准确。,回應已過期。請確保你的本機時鐘準確。
 Revert HEAD,action to revert submodule HEAD reference,1.6,Revert HEAD,Revert HEAD,还原 HEAD,還原 HEAD
-Revert Submodule,action to revert submodule changes,1.6,Revert submodule,Revert Submodule,还原子模块,還原子模組
+Revert Submodule,action to revert submodule changes,1.6,Revert submodule,Revert Submodule,还原子模组,還原子模組
 Rules exclude this from sync.,sync action description when file is excluded by rules,1.6,Regler udelukker dette fra synkronisering.,Regeln schließen dies von der Synchronisierung aus.,规则将此排除在同步之外。,規則將此排除在同步之外。
 SFTP error %ld,"SFTP error with numeric error code, %ld is the error code number",1.6,SFTP-fejl %ld,SFTP-Fehler %ld,SFTP 错误 %ld,SFTP 錯誤 %ld
 SSH Commit Signing,feature name for cryptographically signing commits with SSH keys,1.6,SSH commit-signering,SSH-Commit-Signierung,SSH 提交签名,SSH 提交簽名
@@ -3301,15 +3315,15 @@ Status=%d from executing command.,"SSH command error with exit code, %d is the s
 Status=%d: %@,"SSH command error with exit code and output, %d is status code, %@ is command output",1.6,Status=%d: %@,Status=%d: %@,Status=%d: %@,Status=%d: %@
 Stop WebDAV server,quick action title to stop the WebDAV file server,1.6,Stop WebDAV-server,WebDAV-Server stoppen,停止 WebDAV 服务器,停止 WebDAV 伺服器
 Stop using SSH key,button to disconnect an SSH signing key,1.6,Stop brug af SSH-nøgle,SSH-Schlüssel nicht mehr verwenden,停止使用 SSH 密钥,停止使用 SSH 金鑰
-Submodule configuration,feature name for adding and configuring Git submodules,1.6,Submodule-konfiguration,Submodule-Konfiguration,子模块配置,子模組設定
-Submodule support,free feature: working with Git submodules,1.6,Submodule-understøttelse,Submodule-Unterstützung,子模块支持,子模組支援
-Submodules,storyboard string for Submodules,1.6,Submodules,Submodules,子模块,子模組
+Submodule configuration,feature name for adding and configuring Git submodules,1.6,Submodule-konfiguration,Submodule-Konfiguration,子模组配置,子模組設定
+Submodule support,free feature: working with Git submodules,1.6,Submodule-understøttelse,Submodule-Unterstützung,子模组支持,子模組支援
+Submodules,storyboard string for Submodules,1.6,Submodules,Submodules,子模组,子模組
 Sync not needed.,status when already in sync,1.6,Sync ikke nødvendig.,Sync nicht erforderlich.,无需同步。,無需同步。
 Synchronize,storyboard string for Synchronize,1.6,Synkroniser,Synchronisieren,同步,同步
 Synchronize,storyboard string for Synchronize,1.6,Synkroniser,Synchronisieren,同步,同步
 Synchronize,storyboard string for Synchronize,1.6,Synkroniser,Synchronisieren,同步,同步
 Synchronize,storyboard string for Synchronize,1.6,Synkroniser,Synchronisieren,同步,同步
-Tap colored parts of URL to change values and tap cell itself to Copy URLs to clipboard and Paste into another app.,footer hint for callback URL list when drag is not available,1.6,"Tryk på farvede dele af URL for at ændre værdier, og tryk på selve cellen for at kopiere URL til udklipsholder og indsætte i en anden app.","Tippe auf farbige Teile der URL, um Werte zu ändern, und tippe auf die Zelle selbst, um URLs in die Zwischenablage zu kopieren und in eine andere App einzufügen.",轻触 URL 的彩色部分来更改值，轻触单元格本身可将 URL 复制到剪贴板并粘贴到另一个应用中。,點一下 URL 的彩色部分來變更值，點一下儲存格本身可將 URL 複製到剪貼簿並貼上到另一個 App 中。
+Tap colored parts of URL to change values and tap cell itself to Copy URLs to clipboard and Paste into another app.,footer hint for callback URL list when drag is not available,1.6,"Tryk på farvede dele af URL for at ændre værdier, og tryk på selve cellen for at kopiere URL til udklipsholder og indsætte i en anden app.","Tippe auf farbige Teile der URL, um Werte zu ändern, und tippe auf die Zelle selbst, um URLs in die Zwischenablage zu kopieren und in eine andere App einzufügen.",轻触 URL 的彩色部分来更改值，轻触单元格本身可将 URL 复制到剪贴板，以便粘贴到另一个应用中。,點一下 URL 的彩色部分來變更值，點一下儲存格本身可將 URL 複製到剪貼簿，以便貼上到另一個 App 中。
 Tap to edit name or url,prompt to enter a repository name or remote URL,1.6,Tryk for at redigere navn eller URL,Tippe zum Bearbeiten von Name oder URL,轻触以编辑名称或 URL,點一下以編輯名稱或 URL
 Tap to edit remote url,prompt to enter a remote repository URL for cloning,1.6,Tryk for at redigere remote-URL,Tippe zum Bearbeiten der Remote-URL,轻触以编辑远程 URL,點一下以編輯遠端 URL
 Target path for repository is already in use.,error when cloning would overwrite an existing directory,1.6,Målsti for repository er allerede i brug.,Zielpfad für Repository wird bereits verwendet.,仓库的目标路径已被使用。,版本庫的目標路徑已被使用。
@@ -3455,7 +3469,7 @@ Tryk på commits for at skifte valg.","Du kannst ausgewählte Commits amenden, s
 
 Tippe auf Commits, um die Auswahl umzuschalten.","你可以修订、拆分、压缩和移除选中的提交。
 
-轻触提交以切换选择。","你可以修補、拆分、壓縮和移除選中的提交。
+轻触提交以切换选择。","你可以修訂、拆分、壓縮和移除選中的提交。
 
 點一下提交以切換選擇。"
 You can read more about SSH Key configuration in the Users' Guide.,footer text in SSH key list linking to documentation,1.6,Du kan læse mere om SSH-nøglekonfiguration i brugervejledningen.,Du kannst mehr über SSH-Schlüsselkonfiguration im Benutzerhandbuch lesen.,你可以在用户指南中阅读更多关于 SSH 密钥配置的信息。,你可以在使用者指南中閱讀更多關於 SSH 金鑰設定的資訊。
@@ -3501,11 +3515,11 @@ Suche nach einem 64-stelligen Hex-'token' in  ~/.netlify/config.json auf einem R
 
 Verwende dieses Token als Passwort.","你需要提供 Netlify 访问令牌才能访问 Large Media 对象。
 
-在安装了 Netlify CLI 的机器上，在 ~/.netlify/config.json 中查找 由 64 个十六进制字符组成的“token”。
+在安装了 Netlify CLI 的机器上，在 ~/.netlify/config.json 中查找由 64 个十六进制字符组成的“token”。
 
 请使用此令牌作为密码。","你需要提供 Netlify 存取權杖才能存取 Large Media 物件。
 
-在安裝了 Netlify CLI 的機器上，在 ~/.netlify/config.json 中查詢 由 64 個十六進位字元組成的「token」。
+在安裝了 Netlify CLI 的機器上，在 ~/.netlify/config.json 中尋找由 64 個十六進位字元組成的「token」。
 
 請使用此權杖作為密碼。"
 "You picked a public key, but a private key is needed to sign commits.",error when user imports a public key instead of a private key,1.6,"Du valgte en offentlig nøgle, men en privat nøgle er nødvendig for at signere commits.","Du hast einen öffentlichen Schlüssel ausgewählt, aber ein privater Schlüssel wird zum Signieren von Commits benötigt.",你选择了一个公钥，但签名提交需要私钥。,你選擇了一個公開金鑰，但簽名提交需要私鑰。
@@ -3537,13 +3551,13 @@ not a directory,SFTP error: path is not a directory,1.6,ikke en mappe,kein Verze
 not make any changes,upload consequence when nothing needs to be uploaded or updated,1.6,ikke foretage ændringer,keine Änderungen vornehmen,不做任何更改,不做任何變更
 nothing at path %@,"error when zip finds no files, arg: file path",1.6,intet på stien %@,nichts unter Pfad %@,路径 %@ 下无内容,路徑 %@ 下無內容
 oAuth not supported for %@,"error message, %@ is the hosting service name",1.6,oAuth understøttes ikke for %@,oAuth wird nicht unterstützt für %@,%@ 不支持 oAuth,%@ 不支援 oAuth
-one file on server is updated,"upload consequence in help text, passive voice",1.6,én fil på serveren er opdateret,eine Datei auf dem Server wird aktualisiert,服务器上一个文件已更新,伺服器上一個檔案已更新
+one file on server is updated,"upload consequence in help text, passive voice",1.6,én fil på serveren er opdateret,eine Datei auf dem Server wird aktualisiert,服务器上的一个文件会被更新,伺服器上的一個檔案會被更新
 operation unsupported,SFTP error: requested operation not supported by server,1.6,handling ikke understøttet,Aktion nicht unterstützt,操作不支持,操作不支援
 received %@,"fetch result clause, %@ is transfer size (e.g. '1.2 MB')",1.6,modtaget %@,empfangen %@,已接收 %@,已接收 %@
 rewrite required,rebase analysis: branch history needs rewriting,1.6,omskrivning påkrævet,Umschreibung erforderlich,需要重写,需要重寫
 runs the internal WebDAV server,storyboard string for runs the internal WebDAV server,1.6,kører den interne WebDAV-server,betreibt den internen WebDAV-Server,运行内部 WebDAV 服务器,執行內部 WebDAV 伺服器
-submodule ,file type label for submodule entries in changed files list,1.6,submodule ,Submodule ,子模块 ,子模組 
-submodule cloning,action name shown when user cancels submodule clone operation,1.6,submodule cloning,Submodule-Clonen,子模块克隆,子模組拓製
+submodule ,file type label for submodule entries in changed files list,1.6,submodule ,Submodule ,子模组 ,"子模組 "
+submodule cloning,action name shown when user cancels submodule clone operation,1.6,submodule cloning,Submodule-Clonen,子模组克隆,子模組拓製
 sync,short log kind identifier for repository sync,1.6,synkroniser,synchronisieren,同步,同步
 the local directory from %@ is mounted on %@,"describes WebDAV directory mapping; first %@ is device name, second %@ is server hostname",1.6,den lokale mappe fra %@ er monteret på %@,das lokale Verzeichnis von %@ ist auf %@ eingehängt,来自 %@ 的本地目录已挂载到 %@,來自 %@ 的本機目錄已掛載到 %@
 transmitted %@,"push result clause, %@ is transfer size (e.g. '1.2 MB')",1.6,sendt %@,übertragen %@,已传输 %@,已傳輸 %@
@@ -3573,9 +3587,9 @@ Repeat passphrase,placeholder in passphrase confirmation text field during key g
 Unable to show Gerrit dialog.,error when Gerrit review dialog cannot be displayed because no screen is available,1.5,Kan ikke vise Gerrit-dialog.,Gerrit-Dialog kann nicht angezeigt werden.,无法显示 Gerrit 对话框。,無法顯示 Gerrit 對話方塊。
 Use $DIFF where the diff should be inserted.,help text explaining the $DIFF placeholder in the user prompt for commit message generation,1.5,Brug $DIFF der hvor diff'en skal indsættes.,"Verwende $DIFF, wo der Diff eingefügt werden soll.",在需要插入差异的位置使用 $DIFF。,在需要插入差異的位置使用 $DIFF。
 User Prompt,section header for the custom prompt used when generating commit messages,1.5,Brugerprompt,Benutzer-Prompt,用户提示词,使用者提示詞
-Enter passphrase to unlock secret key for %@,"alert message asking user to type passphrase, %@ is the key user ID",1.4,Indtast adgangskode for at låse hemmelig nøgle op for %@,"Passphrase eingeben, um den geheimen Schlüssel für %@ zu entsperren",输入密码短语以解锁 %@ 的私钥,輸入密碼短語以解鎖 %@ 的秘密金鑰
-Export Secret Key,storyboard string for Export Secret Key,1.4,Eksporter privat nøgle,Privaten Schlüssel exportieren,导出私钥,匯出秘密金鑰
-Export Secret Key,storyboard string for Export Secret Key,1.4,Eksporter privat nøgle,Privaten Schlüssel exportieren,导出私钥,匯出秘密金鑰
+Enter passphrase to unlock secret key for %@,"alert message asking user to type passphrase, %@ is the key user ID",1.4,Indtast adgangskode for at låse hemmelig nøgle op for %@,"Passphrase eingeben, um den geheimen Schlüssel für %@ zu entsperren",输入密码短语以解锁 %@ 的私钥,輸入密碼短語以解鎖 %@ 的私鑰
+Export Secret Key,storyboard string for Export Secret Key,1.4,Eksporter privat nøgle,Privaten Schlüssel exportieren,导出私钥,匯出私鑰
+Export Secret Key,storyboard string for Export Secret Key,1.4,Eksporter privat nøgle,Privaten Schlüssel exportieren,导出私钥,匯出私鑰
 Jump,button to confirm jumping to entered line number,1.4,Spring til,Springen,跳转,跳轉
 Network settings,accessibility label for port forwarding button in navigation bar,1.4,Netværksindstillinger,Netzwerkeinstellungen,网络设置,網路設定
 No private keys found.,error when imported key data contains no secret/private keys,1.4,Ingen private nøgler fundet.,Keine privaten Schlüssel gefunden.,未找到私钥。,未找到私鑰。
@@ -3586,8 +3600,8 @@ Preview features will be unlocked,Alert title for secret feature unlock in beta 
 Rebase from %@,"accessibility label for merge button when rebase is preferred, arg: remote name",1.4,Rebase fra %@,Rebase von %@,从 %@ 变基,從 %@ 重定基底
 Reload,"button to reload the SSH key list, only shown in beta builds",1.4,Genindlæs,Neu laden,重新加载,重新載入
 Secure Enclave,navigation bar title for Secure Enclave key detail screen,1.4,Secure Enclave,Secure Enclave,Secure Enclave,Secure Enclave
-Unlock Secret key,Touch ID / Face ID prompt reason when exporting private signing key,1.4,Lås hemmelig nøgle op,Geheimen Schlüssel entsperren,解锁私钥,解鎖秘密金鑰
-Unlock secret key for %@,"biometric authentication prompt to unlock signing key, %@ is the key user ID",1.4,Lås hemmelig nøgle op for %@,Geheimen Schlüssel für %@ entsperren,解锁 %@ 的私钥,解鎖 %@ 的秘密金鑰
+Unlock Secret key,Touch ID / Face ID prompt reason when exporting private signing key,1.4,Lås hemmelig nøgle op,Geheimen Schlüssel entsperren,解锁私钥,解鎖私鑰
+Unlock secret key for %@,"biometric authentication prompt to unlock signing key, %@ is the key user ID",1.4,Lås hemmelig nøgle op for %@,Geheimen Schlüssel für %@ entsperren,解锁 %@ 的私钥,解鎖 %@ 的私鑰
 Use x-callback-url for automation and inter-app communication. Your URL key should be kept secret.,footer explaining x-callback-url purpose and key secrecy,1.4,Brug x-callback-url til automatisering og kommunikation mellem apps. Din URL-nøgle bør holdes hemmelig.,Verwende x-callback-url für Automatisierung und Kommunikation zwischen Apps. Dein URL-Schlüssel sollte geheim gehalten werden.,使用 x-callback-url 进行自动化和应用间通信。你的 URL 密钥应妥善保密。,使用 x-callback-url 進行自動化和 App 間通訊。你的 URL 金鑰應妥善保密。
 %@ clipboard to %@,"activity title: first arg is verb (Write/Append/Prepend), second is file name",1.3,%@ udklipsholder til %@,%@ Zwischenablage nach %@,将剪贴板内容%1$@至 %2$@,將剪貼簿內容%1$@至 %2$@
 %@ in %@,"Handoff activity title for file in repository, args: file path, repository name",1.3,%@ i %@,%@ in %@,%@ 在 %@ 中,%@ 在 %@ 中
@@ -3619,7 +3633,7 @@ Execute command on %@: %@,"activity title: first arg is server hostname, second 
 Export PDF,activity title for exporting file content as PDF,1.3,Eksporter PDF,PDF exportieren,导出 PDF,匯出 PDF
 Export Session…,menu item to export the agent conversation as a Markdown file,1.3,Eksporter session…,Sitzung exportieren…,导出会话…,匯出工作階段…
 Fetch repository,callback title: download latest changes from server without integrating them,1.3,Fetch repository,Repository fetchen,获取仓库,抓取版本庫
-Find,context menu item to search for selected text,1.3,Søg,Suchen,查找,查詢
+Find,context menu item to search for selected text,1.3,Søg,Suchen,查找,尋找
 Font: %@,"menu title showing current font, %@ is font name",1.3,Skrifttype: %@,Schriftart: %@,字体：%@,字型：%@
 Image Mode,menu title for choosing image diff comparison mode,1.3,Billedtilstand,Bildmodus,图像模式,影像模式
 Import Cookie,Submenu title for cookie import options,1.3,Importér cookie,Cookie importieren,导入 Cookie,匯入 Cookie
@@ -3679,7 +3693,7 @@ Rebase erfordert das Umschreiben der Historie. ","
 变基需要重写历史。 ","
 
 重定基底需要重寫歷史。 "
- Submodule,suffix appended to remote action titles like Fetch or Push for submodule remotes,1.2, Submodule, Submodule, 子模块, 子模組
+ Submodule,suffix appended to remote action titles like Fetch or Push for submodule remotes,1.2, Submodule, Submodule, 子模组, 子模組
 "%@
 
 Working Copy workflow needs to be installed in Editorial. Tap to install workflow.","prompt to install Editorial workflow, %@ is the error message",1.2,"%@
@@ -3703,7 +3717,7 @@ Cancel branch editing,error subject when cancelling an interactive rebase edit,1
 Cherry pick resulted in %lu conflicts,warning after cherry pick with merge conflicts; %lu is the number of conflicting files,1.2,Cherry pick resulterede i %lu konflikter,Cherry-Pick führte zu %lu Konflikten,拣选导致了 %lu 个冲突,揀選導致了 %lu 個衝突
 Cherry pick successful,success message after cherry picking a commit without conflicts,1.2,Cherry pick lykkedes,Cherry-Pick erfolgreich,拣选成功,揀選成功
 Commit needs a parent,error during rebase,1.2,Commit kræver en forælder,Commit benötigt einen Eltern-Commit,提交需要一个父提交,提交需要一個父提交
-Enter or pick the URL for the submodule.,instruction when remote URL field is empty,1.2,Indtast eller vælg URL for submodule.,Gib die URL für das Submodule ein oder wähle sie aus.,输入或选择子模块的 URL。,輸入或選擇子模組的 URL。
+Enter or pick the URL for the submodule.,instruction when remote URL field is empty,1.2,Indtast eller vælg URL for submodule.,Gib die URL für das Submodule ein oder wähle sie aus.,输入或选择子模组的 URL。,輸入或選擇子模組的 URL。
 Error,short sync strategy label when a general error occurred,1.2,Fejl,Fehler,错误,錯誤
 Expected exactly one private key,Error when OpenSSH key file contains zero or multiple keys,1.2,Forventede præcis én privat nøgle,Genau ein privater Schlüssel erwartet,预期恰好一个私钥,預期恰好一個私鑰
 Expired sync anchor,error when file provider sync anchor is no longer valid,1.2,Udløbet synkroniseringsanker,Abgelaufener Synchronisierungsanker,同步锚点已过期,同步錨點已過期
@@ -3714,7 +3728,7 @@ HTTP error %d,error message with HTTP status code,1.2,HTTP-fejl %d,HTTP-Fehler %
 History rewriting cannot end up with empty branch,error when interactive rebase would result in a branch with no commits,1.2,Omskrivning af historik kan ikke resultere i tom branch,Umschreiben des Verlaufs darf nicht in einem leeren Branch enden,历史改写不能导致空分支,歷史改寫不能導致空分支
 Incorrect password. Please try again.,error shown when screen lock password is wrong,1.2,Forkert adgangskode. Prøv venligst igen.,Falsches Passwort. Bitte versuche es erneut.,密码不正确。请重试。,密碼不正確。請重試。
 Invalid private key,fallback error when PGP key data cannot be parsed for signing test,1.2,Ugyldig privat nøgle,Ungültiger privater Schlüssel,无效的私钥,無效的私鑰
-Invalid submodule path,error when trying to purge a submodule with an empty path,1.2,Ugyldig submodule-sti,Ungültiger Submodule-Pfad,无效的子模块路径,無效的子模組路徑
+Invalid submodule path,error when trying to purge a submodule with an empty path,1.2,Ugyldig submodule-sti,Ungültiger Submodule-Pfad,无效的子模组路径,無效的子模組路徑
 "It looks like Docker isn't installed on %@.
 
 Tap to try and install it using apt-get.",error when Docker is missing on server; %@ is the server hostname,1.2,"Det ser ud til, at Docker ikke er installeret på %@.
@@ -3737,7 +3751,7 @@ Tippe, um die Installation von davfs2 mit apt-get zu versuchen.","看起来你�
 轻触尝试使用 apt-get 安装 davfs2。","看起來你無法在 %@ 上掛載 WebDAV 共用。
 
 點一下嘗試使用 apt-get 安裝 davfs2。"
-Key derivation function $KDF not supported,"Error with unsupported KDF in OpenSSH key, $KDF is replaced with the KDF name",1.2,Nøgleafledningsfunktion $KDF understøttes ikke,Schlüsselableitungsfunktion $KDF wird nicht unterstützt,不支持密钥派生函数 $KDF,不支援金鑰派生函式 $KDF
+Key derivation function $KDF not supported,"Error with unsupported KDF in OpenSSH key, $KDF is replaced with the KDF name",1.2,Nøgleafledningsfunktion $KDF understøttes ikke,Schlüsselableitungsfunktion $KDF wird nicht unterstützt,不支持密钥派生函数 $KDF,不支援金鑰衍生函式 $KDF
 Key type $TYPE not supported,"Error with unsupported SSH key type, $TYPE is replaced with the key type name",1.2,Nøgletype $TYPE understøttes ikke,Schlüsseltyp $TYPE wird nicht unterstützt,不支持密钥类型 $TYPE,不支援金鑰型別 $TYPE
 Last sync seems to not be fully completed.,error when a previous sync operation is still in progress,1.2,Sidste synkronisering ser ikke ud til at være fuldført.,Letzte Synchronisierung scheint nicht vollständig abgeschlossen zu sein.,上次同步似乎未完全完成。,上次同步似乎未完全完成。
 Missing,upload sync mode: upload only missing files,1.2,Mangler,Fehlend,缺少,缺少
@@ -3748,10 +3762,10 @@ Missing implementation for disconnectSSHKey:controller:callback:,error when the 
 Missing local directory,error when local URL is nil during sync,1.2,Manglende lokal mappe,Fehlendes lokales Verzeichnis,缺少本地目录,缺少本機目錄
 Missing local sync directory.,error when local sync directory cannot be resolved,1.2,Manglende lokal synkroniseringsmappe.,Fehlendes lokales Synchronisierungsverzeichnis.,缺少本地同步目录。,缺少本機同步目錄。
 Missing stash %@,"error when a stash cannot be found by identifier, arg: stash hash",1.2,Manglende stash %@,Fehlender Stash %@,缺少储藏 %@,缺少貯存 %@
-Missing submodule configuration for %@,"error when submodule entry cannot be found in .gitmodules, %@ is the submodule directory name",1.2,Manglende submodule-konfiguration for %@,Fehlende Submodule-Konfiguration für %@,缺少 %@ 的子模块配置,缺少 %@ 的子模組設定
+Missing submodule configuration for %@,"error when submodule entry cannot be found in .gitmodules, %@ is the submodule directory name",1.2,Manglende submodule-konfiguration for %@,Fehlende Submodule-Konfiguration für %@,缺少 %@ 的子模组配置,缺少 %@ 的子模組設定
 No SSH key available,error message when trying to sign text without an SSH key,1.2,Ingen SSH-nøgle tilgængelig,Kein SSH-Schlüssel verfügbar,没有可用的 SSH 密钥,沒有可用的 SSH 金鑰
 No key found.,error when imported data contains no signing key,1.2,Ingen nøgle fundet.,Kein Schlüssel gefunden.,未找到密钥。,未找到金鑰。
-No keys found. You can import keys exported from GPG or the entire secret keyring.,error when imported data has no PGP keys,1.2,Ingen nøgler fundet. Du kan importere nøgler eksporteret fra GPG eller hele den hemmelige nøglering.,Keine Schlüssel gefunden. Du kannst aus GPG exportierte Schlüssel oder den gesamten geheimen Schlüsselbund importieren.,未找到密钥。你可以导入从 GPG 导出的私钥或整个私钥环。,未找到金鑰。你可以匯入從 GPG 匯出的秘密金鑰或整個秘密金鑰環。
+No keys found. You can import keys exported from GPG or the entire secret keyring.,error when imported data has no PGP keys,1.2,Ingen nøgler fundet. Du kan importere nøgler eksporteret fra GPG eller hele den hemmelige nøglering.,Keine Schlüssel gefunden. Du kannst aus GPG exportierte Schlüssel oder den gesamten geheimen Schlüsselbund importieren.,未找到密钥。你可以导入从 GPG 导出的私钥或整个私钥环。,未找到金鑰。你可以匯入從 GPG 匯出的私鑰或整個私鑰環。
 No place to present results for command: %@,"error when no view controller is available to show command output, %@ is the command string",1.2,Intet sted at vise resultater for kommando: %@,"Kein Ort, um Ergebnisse für Befehl anzuzeigen: %@",没有位置显示命令的结果：%@,沒有位置顯示指令的結果：%@
 No stashes available,error shown when trying to unstash but no stashes exist,1.2,Ingen stashes tilgængelige,Keine Stashes verfügbar,没有可用的储藏,沒有可用的貯存
 Nothing to restore from for %@,"error when no backup exists to restore, arg: filename",1.2,Intet at gendanne fra for %@,Nichts zum Wiederherstellen von %@ vorhanden,%@ 没有可恢复的来源,%@ 沒有可恢復的來源
@@ -3766,8 +3780,8 @@ Refusing when Path contains $DIR,Shortcuts write-file error when path contains u
 SSH Key rejected.,error when a single SSH key is not accepted by server,1.2,SSH-nøgle afvist.,SSH-Schlüssel abgelehnt.,SSH 密钥被拒绝。,SSH 金鑰被拒絕。
 Signing not supported for OpenSSH key type %@,"Error when trying to sign with an unsupported key type, %@ is the key type",1.2,Signering understøttes ikke for OpenSSH-nøgletype %@,Signierung wird für OpenSSH-Schlüsseltyp %@ nicht unterstützt,不支持对 OpenSSH 密钥类型 %@ 进行签名,不支援對 OpenSSH 金鑰型別 %@ 進行簽名
 "Signing with private key succeeded, but key user %@ does not match the Git identity & signed commits might not verify.",warning after signing test when key user ID does not match git identity; %@ is the PGP key user ID,1.2,"Signering med privat nøgle lykkedes, men nøglebrugeren %@ matcher ikke Git-identiteten, og signerede commits verificerer muligvis ikke.","Signierung mit privatem Schlüssel erfolgreich, aber der Schlüsselbenutzer %@ stimmt nicht mit der Git-Identität überein und signierte Commits verifizieren möglicherweise nicht.",使用私钥签名成功，但密钥用户 %@ 与 Git 身份不匹配，已签名的提交可能无法验证。,使用私鑰簽名成功，但金鑰使用者 %@ 與 Git 身分不符，已簽名的提交可能無法驗證。
-Submodule changes will be lost beyond recovery. Consider commiting and pushing changes first.,warning before purging a submodule that has uncommitted changes,1.2,Submodule-ændringer vil gå uigenkaldeligt tabt. Overvej at committe og pushe ændringer først.,Submodule-Änderungen gehen unwiderruflich verloren. Erwäge zuerst Änderungen zu committen und zu pushen.,子模块更改将永久丢失且无法恢复。请考虑先提交并推送更改。,子模組變更將永久遺失且無法恢復。請考慮先提交並推送變更。
-Submodule will be configured in %@ and cloned from %@ when you tap Confirm.,"confirmation text, first %@ is directory name, second %@ is remote URL",1.2,Submodule konfigureres i %@ og klones fra %@ når du trykker Bekræft.,"Submodule wird in %@ konfiguriert und von %@ geklont, wenn du auf Bestätigen tippst.",轻触确认后，子模块将在 %@ 中配置并从 %@ 克隆。,點一下確認後，子模組將在 %@ 中設定並從 %@ 拓製。
+Submodule changes will be lost beyond recovery. Consider commiting and pushing changes first.,warning before purging a submodule that has uncommitted changes,1.2,Submodule-ændringer vil gå uigenkaldeligt tabt. Overvej at committe og pushe ændringer først.,Submodule-Änderungen gehen unwiderruflich verloren. Erwäge zuerst Änderungen zu committen und zu pushen.,子模组更改将永久丢失且无法恢复。请考虑先提交并推送更改。,子模組變更將永久遺失且無法恢復。請考慮先提交並推送變更。
+Submodule will be configured in %@ and cloned from %@ when you tap Confirm.,"confirmation text, first %@ is directory name, second %@ is remote URL",1.2,Submodule konfigureres i %@ og klones fra %@ når du trykker Bekræft.,"Submodule wird in %@ konfiguriert und von %@ geklont, wenn du auf Bestätigen tippst.",轻触确认后，子模组将在 %@ 中配置并从 %@ 克隆。,點一下確認後，子模組將在 %@ 中設定並從 %@ 拓製。
 Sync aborted due to excessive errors.,error message,1.2,Sync afbrudt på grund af for mange fejl.,Sync wegen zu vieler Fehler abgebrochen.,因错误过多，同步已中止。,因錯誤過多，同步已中止。
 Sync already in progress.,error message,1.2,Sync er allerede i gang.,Sync wird bereits ausgeführt.,同步已在进行中。,同步已在進行中。
 Sync timed out,error message,1.2,Sync fik timeout,Sync-Zeitüberschreitung,同步超时,同步逾時
@@ -3819,15 +3833,15 @@ Das Synchronisieren von Repositories über Cloud-Speicher kann zu Komplikationen
 透過雲端儲存同步版本庫可能導致 Working Copy 無法處理的問題。你應該與非 Git 管理的目錄進行同步。"
 You will not be able to sign commits with this identity.,confirmation prompt when deleting a signing key,1.2,Du vil ikke kunne signere commits med denne identitet.,Du wirst mit dieser Identität keine Commits signieren können.,你将无法使用此身份签名提交。,你將無法使用此身分簽名提交。
 cmd needs to be either start or stop,error for invalid WebDAV cmd parameter,1.2,cmd skal være enten start eller stop,cmd muss entweder start oder stop sein,cmd 必须是 start 或 stop,cmd 必須是 start 或 stop
-create %ld missing directories,"upload consequence in status message, active voice; %ld is number of directories",1.2,opret %ld manglende mapper,%ld fehlende Verzeichnisse erstellen,创建 %ld 个缺失目录,建立 %ld 個缺少目錄
-create one missing directory,"upload consequence in status message, active voice",1.2,opret én manglende mappe,ein fehlendes Verzeichnis erstellen,创建一个缺失目录,建立一個缺少目錄
+create %ld missing directories,"upload consequence in status message, active voice; %ld is number of directories",1.2,opret %ld manglende mapper,%ld fehlende Verzeichnisse erstellen,创建 %ld 个缺失的目录,建立 %ld 個缺少的目錄
+create one missing directory,"upload consequence in status message, active voice",1.2,opret én manglende mappe,ein fehlendes Verzeichnis erstellen,创建一个缺失的目录,建立一個缺少的目錄
 "mode needs to be either dark, light or toggle",error for invalid color scheme mode parameter,1.2,"mode skal være enten dark, light eller toggle","Mode muss entweder dark, light oder toggle sein",mode 必须是 dark、light 或 toggle,mode 必須是 dark、light 或 toggle
-one missing directory is created,"upload consequence in help text, passive voice",1.2,én manglende mappe er oprettet,ein fehlendes Verzeichnis wird erstellt,已创建一个缺失目录,已建立一個缺少目錄
-one missing file is transferred,"upload consequence in help text, passive voice",1.2,én manglende fil er overført,eine fehlende Datei wird übertragen,已传输一个缺失文件,已傳輸一個缺少檔案
+one missing directory is created,"upload consequence in help text, passive voice",1.2,én manglende mappe er oprettet,ein fehlendes Verzeichnis wird erstellt,已创建一个缺失的目录,已建立一個缺少的目錄
+one missing file is transferred,"upload consequence in help text, passive voice",1.2,én manglende fil er overført,eine fehlende Datei wird übertragen,已传输一个缺失的文件,已傳輸一個缺少的檔案
 rebase,operation name inserted into push error message when pull is configured to rebase,1.2,rebase,Rebase,变基,重定基底
-transfer %ld missing files,"upload consequence in status message, active voice; %ld is number of files",1.2,overfør %ld manglende filer,%ld fehlende Dateien übertragen,传输 %ld 个缺失文件,傳輸 %ld 個缺少檔案
-transfer one missing file,"upload consequence in status message, active voice",1.2,overfør én manglende fil,eine fehlende Datei übertragen,传输一个缺失文件,傳輸一個缺少檔案
-⚠️ Unable to locate submodule in working directory,warning shown when a configured submodule cannot be found on disk,1.2,⚠️ Kan ikke finde submodule i working directory,⚠️ Submodule im Arbeitsverzeichnis nicht gefunden,⚠️ 无法在工作目录中找到子模块,⚠️ 無法在工作目錄中找到子模組
+transfer %ld missing files,"upload consequence in status message, active voice; %ld is number of files",1.2,overfør %ld manglende filer,%ld fehlende Dateien übertragen,传输 %ld 个缺失的文件,傳輸 %ld 個缺少的檔案
+transfer one missing file,"upload consequence in status message, active voice",1.2,overfør én manglende fil,eine fehlende Datei übertragen,传输一个缺失的文件,傳輸一個缺少的檔案
+⚠️ Unable to locate submodule in working directory,warning shown when a configured submodule cannot be found on disk,1.2,⚠️ Kan ikke finde submodule i working directory,⚠️ Submodule im Arbeitsverzeichnis nicht gefunden,⚠️ 无法在工作目录中找到子模组,⚠️ 無法在工作目錄中找到子模組
 "
 
 GitHub Actions triggered by push. Tap to show.",appended to push status when GitHub Actions were triggered,1.1,"
@@ -3957,7 +3971,7 @@ Choose what to do with %@.,share extension action sheet message for a zip file; 
 Chunks to the left end up in the early commit and chunks to the right in the later. Centered chunks are pending your decision.,instruction for split commit mode explaining chunk placement,1.1,Chunks til venstre ender i det tidlige commit og chunks til højre i det senere. Centrerede chunks afventer din beslutning.,Chunks links landen im früheren Commit und Chunks rechts im späteren. Zentrierte Chunks warten auf deine Entscheidung.,左边的块将进入较早的提交，右边的块将进入较晚的提交。居中的块等待你决定。,左邊的塊將進入較早的提交，右邊的塊將進入較晚的提交。居中的塊等待你決定。
 Collapsing will move %ld repositories out of %@.,"Confirmation when collapsing a folder; %ld is number of repositories, %@ is folder name",1.1,Sammenfoldning vil flytte %ld repositories ud af %@.,Zuklappen wird %ld Repositories aus %@ verschieben.,折叠将把 %ld 个仓库移出 %@。,摺疊將把 %ld 個版本庫移出 %@。
 Commit %@ is not head of current branch.,Warning when a commit cannot be amended. %@ is a short commit identifier like 'a1b2c3d'.,1.1,Commit %@ er ikke head af den aktuelle branch.,Commit %@ ist nicht Head des aktuellen Branch.,提交 %@ 不是当前分支的 head。,提交 %@ 不是目前分支的 head。
-Commit is deleted with changes kept in the working directory.,confirmation for soft reset: removes the commit but keeps file modifications,1.1,Commit er slettet med ændringer bevaret i working directory.,"Commit ist gelöscht, Änderungen bleiben im Arbeitsverzeichnis erhalten.",提交已删除，更改保留在工作目录中。,提交已刪除，變更保留在工作目錄中。
+Commit is deleted with changes kept in the working directory.,confirmation for soft reset: removes the commit but keeps file modifications,1.1,Commit er slettet med ændringer bevaret i working directory.,"Commit ist gelöscht, Änderungen bleiben im Arbeitsverzeichnis erhalten.",提交会被删除，更改会保留在工作目录中。,提交會被刪除，變更會保留在工作目錄中。
 Connection made from %@:%d to %@:%d,"status message for port forwarding, first %@:%d is source host:port, second %@:%d is target host:port",1.1,Forbindelse oprettet fra %@:%d til %@:%d,Verbindung hergestellt von %@:%d zu %@:%d,已建立从 %@:%d 到 %@:%d 的连接,已建立從 %@:%d 到 %@:%d 的連線
 Context will be lost,subtitle warning in agent service menu when switching would discard conversation history,1.1,Kontekst vil gå tabt,Kontext geht verloren,上下文将丢失,上下文將遺失
 Create an SSH signature to verify key ownership.,alert message explaining the purpose of SSH text signing,1.1,Opret en SSH-signatur for at bekræfte nøgleejerskab.,"Erstelle eine SSH-Signatur, um den Schlüsselbesitz zu bestätigen.",创建 SSH 签名以验证密钥所有权。,建立 SSH 簽名以驗證金鑰所有權。
@@ -3989,7 +4003,7 @@ Navigate to directory where you want to extract zip file.,share extension instru
 Navigate to directory where you want to save %@.,share extension instruction when saving a directory; %@ is the file type description,1.1,Naviger til mappen hvor du vil gemme %@.,"Navigiere zum Verzeichnis, in dem du %@ speichern möchtest.",导航到你要保存 %@ 的目录。,導航到你要儲存 %@ 的目錄。
 Navigate to directory where you want to write files.,share extension instruction shown when saving multiple files,1.1,Naviger til mappen hvor du vil skrive filer.,"Navigiere zum Verzeichnis, in das du Dateien schreiben möchtest.",导航到你要写入文件的目录。,導航到你要寫入檔案的目錄。
 No existing packs,status message when repository has no pack files to repack,1.1,Ingen eksisterende packs,Keine vorhandenen Packs,没有现有的包,沒有現有的包
-Package,action sheet option to link to a document package,1.1,Pakke,Paket,文档包,文件套件
+Package,action sheet option to link to a document package,1.1,Pakke,Paket,文稿包,文件套件
 Perform actions manually to get matching callback examples.,footer hint encouraging users to perform actions to generate callback URLs,1.1,Udfør handlinger manuelt for at få matchende callback-eksempler.,"Führe Aktionen manuell aus, um passende Callback-Beispiele zu erhalten.",手动执行操作以获取匹配的回调示例。,手動執行操作以取得相符的回呼範例。
 Pick %@ as current repository for this log.,"prompt to pick a repository for the log, arg: repository name",1.1,Vælg %@ som aktuelt repository for denne log.,Wähle %@ als aktuelles Repository für dieses Log.,选取 %@ 作为此日志的当前仓库。,選取 %@ 作為此日誌的目前版本庫。
 Pick base branch to receive commits by pull request.,instruction when pull request mode is active,1.1,Vælg base branch til at modtage commits via pull request.,"Wähle den Basis-Branch, um Commits per Pull Request zu empfangen.",选取接收拉取请求提交的基础分支。,選取要接收 Pull Request 提交的基礎分支。
@@ -4069,7 +4083,7 @@ Text written to %@,"success message after write callback, arg: file path",1.1,Te
 Universal Link copied to clipboard. Tap to open in Safari.,status message after copying universal link,1.1,Universal Link kopieret til udklipsholder. Tryk for at åbne i Safari.,"Universal Link in die Zwischenablage kopiert. Tippe, um ihn in Safari zu öffnen.",Universal Link 已复制到剪贴板。轻触在 Safari 中打开。,Universal Link 已複製到剪貼簿。點一下在 Safari 中開啟。
 Unknown host key,alert title for first-time SSH host connection,1.1,Ukendt værtsnøgle,Unbekannter Host-Schlüssel,未知的主机密钥,未知的主機金鑰
 Warnings,console log filter showing only warning messages,1.1,Advarsler,Warnungen,警告,警告
-Will you link to a folder or a document package?,action sheet message when relinking a working directory,1.1,Vil du linke til en mappe eller en dokumentpakke?,Möchtest du auf einen Ordner oder ein Dokumentpaket verlinken?,你要链接到文件夹还是文档包？,你要連結到資料夾還是文件套件？
+Will you link to a folder or a document package?,action sheet message when relinking a working directory,1.1,Vil du linke til en mappe eller en dokumentpakke?,Möchtest du auf einen Ordner oder ein Dokumentpaket verlinken?,你要链接到文件夹还是文稿包？,你要連結到資料夾還是文件套件？
 You are about to rewrite %@ to move %d commits above %@,"confirmation for reordering multiple commits, %@ is branch name, %d is number of commits, last %@ is target commit hash",1.1,Du er ved at omskrive %@ for at flytte %d commits over %@,"Du bist dabei, %@ umzuschreiben, um %d Commits über %@ zu verschieben",你即将重写 %@ 以将 %d 个提交移动到 %@ 之上,你即將重寫 %@ 以將 %d 個提交移動到 %@ 之上
 You are about to rewrite %@ to move commit %@ above %@,"confirmation for reordering a single commit, first %@ is branch name, second %@ is commit hash being moved, third %@ is target commit hash",1.1,Du er ved at omskrive %@ for at flytte commit %@ over %@,"Du bist dabei, %@ umzuschreiben, um Commit %@ über %@ zu verschieben",你即将重写 %@ 以将提交 %@ 移动到 %@ 之上,你即將重寫 %@ 以將提交 %@ 移動到 %@ 之上
 You have a newer version of Working Copy Enterprise installed and should delete this one.,alert when an older enterprise app version should be removed,1.1,Du har en nyere version af Working Copy Enterprise installeret og bør slette denne.,Du hast eine neuere Version von Working Copy Enterprise installiert und solltest diese löschen.,你已安装了更新版本的 Working Copy Enterprise，应删除此版本。,你已安裝了更新版本的 Working Copy Enterprise，應刪除此版本。
@@ -4097,9 +4111,9 @@ You would loose all commits in '%@' by deleting it.,"warning when branch is disj
 changes to no files,fallback text when no files were changed in commits,1.1,ændringer til ingen filer,Änderungen an keinen Dateien,没有文件更改,沒有檔案變更
 the server,fallback name when no server hostname is configured,1.1,serveren,der Server,服务器,伺服器
 this,fallback name for a presented view controller that has no title,1.1,denne,dies,此项,此項
-256 bit ECDSA,menu item to generate a 256-bit ECDSA SSH key,1.0,256 bit ECDSA,256 Bit ECDSA,256 位 ECDSA,256 位 ECDSA
-256 bit ED25519,menu item to generate a 256-bit ED25519 SSH key,1.0,256 bit ED25519,256 Bit ED25519,256 位 ED25519,256 位 ED25519
-4096 bit RSA,menu item to generate a 4096-bit RSA SSH key,1.0,4096 bit RSA,4096 Bit RSA,4096 位 RSA,4096 位 RSA
+256 bit ECDSA,menu item to generate a 256-bit ECDSA SSH key,1.0,256 bit ECDSA,256 Bit ECDSA,256 位 ECDSA,256 位元 ECDSA
+256 bit ED25519,menu item to generate a 256-bit ED25519 SSH key,1.0,256 bit ED25519,256 Bit ED25519,256 位 ED25519,256 位元 ED25519
+4096 bit RSA,menu item to generate a 4096-bit RSA SSH key,1.0,4096 bit RSA,4096 Bit RSA,4096 位 RSA,4096 位元 RSA
 App receipt had unexpected bundle identifier.,receipt validation failure reason,1.0,App-kvittering havde uventet bundle-id.,App-Quittung hatte unerwartete Bundle-ID.,应用收据包含意外的 Bundle 标识符。,App 收據包含意外的 Bundle 識別符號。
 Archive files,callback title for creating a zip archive of repository files,1.0,Arkivfiler,Archivdateien,归档文件,歸檔檔案
 Beanstalk,short name for Beanstalk hosting provider,1.0,Beanstalk,Beanstalk,Beanstalk,Beanstalk
@@ -4123,7 +4137,7 @@ Public Key,menu item to export the public SSH key,1.0,Offentlig nøgle,Öffentli
 Resolve Pull Request,name of the Pythonista script for resolving pull requests,1.0,Resolve pull request,Pull Request resolven,解决 Pull Request,解決 Pull Request
 Secure Enclave Key,default title for a Secure Enclave key when no comment is set,1.0,Secure Enclave-nøgle,Secure Enclave-Schlüssel,Secure Enclave 密钥,Secure Enclave 金鑰
 Setup Folder Sync,activity title for configuring folder syncing,1.0,Opsæt mappesynkronisering,Ordnersynchronisierung einrichten,设置文件夹同步,設定資料夾同步
-Setup Package Sync,activity title for configuring package syncing,1.0,Opsæt pakkesynkronisering,Paketsynchronisierung einrichten,设置文档包同步,設定文件套件同步
+Setup Package Sync,activity title for configuring package syncing,1.0,Opsæt pakkesynkronisering,Paketsynchronisierung einrichten,设置文稿包同步,設定文件套件同步
 Share Zip Archive,activity title for sharing a directory as a zip archive,1.0,Del zip-arkiv,Zip-Archiv teilen,共享 Zip 归档,分享 Zip 歸檔
 Show Details,context menu action to view SSH key details,1.0,Vis detaljer,Details anzeigen,显示详情,顯示詳細資訊
 Stop WebDAV,activity title for stopping the WebDAV file server,1.0,Stop WebDAV,WebDAV stoppen,停止 WebDAV,停止 WebDAV
@@ -4160,7 +4174,7 @@ Working Copy 工作流程需要安裝到 Editorial 中並啟用 URL Callbacks。
 All modified and untracked files will be stashed.,explanation in stash confirmation dialog,0.8,Alle ændrede og usporede filer vil blive stashet.,Alle geänderten und unverfolgten Dateien werden gestasht.,所有已修改和未跟踪的文件将被储藏。,所有已修改和未追蹤的檔案將被貯存。
 Archive unzipped. Consider committing right away.,share extension prompt shown after a zip archive is extracted to a repository,0.8,Arkiv udpakket. Overvej at committe med det samme.,Archiv entpackt. Erwäge sofort zu committen.,压缩包已解压。建议立即提交。,壓縮檔已解壓縮。建議立即提交。
 Droplet will be configured to allow access with all SSH keys currently configured on your Digital Ocean account. Backups can be enabled from digitalocean.com,instructions shown when creating a new Digital Ocean droplet,0.8,Droplet konfigureres til at tillade adgang med alle SSH-nøgler der er konfigureret på din Digital Ocean-konto. Sikkerhedskopier kan aktiveres fra digitalocean.com,"Das Droplet wird so konfiguriert, dass der Zugriff mit allen SSH-Schlüsseln möglich ist, die aktuell in deinem Digital Ocean-Konto eingerichtet sind. Backups können über digitalocean.com aktiviert werden",Droplet 将配置为允许使用你 Digital Ocean 账户中当前配置的所有 SSH 密钥进行访问。可以从 digitalocean.com 启用备份,Droplet 將設定為允許使用你 Digital Ocean 帳戶中目前設定的所有 SSH 金鑰進行存取。可以從 digitalocean.com 啟用備份
-Enter or pick the Local directory for submodule.,instruction when directory field is empty,0.8,Indtast eller vælg den lokale sti for submodule.,Gib das lokale Verzeichnis für das Submodule ein oder wähle es aus.,输入或选择子模块的本地目录。,輸入或選擇子模組的本機目錄。
+Enter or pick the Local directory for submodule.,instruction when directory field is empty,0.8,Indtast eller vælg den lokale sti for submodule.,Gib das lokale Verzeichnis für das Submodule ein oder wähle es aus.,输入或选择子模组的本地目录。,輸入或選擇子模組的本機目錄。
 Enter passphrase for SSH Key.,alert message prompting user to enter passphrase for encrypted SSH key,0.8,Indtast adgangskode for SSH-nøgle.,Passphrase für SSH-Schlüssel eingeben.,输入 SSH 密钥的密码短语。,輸入 SSH 金鑰的密碼短語。
 "Fast-Forward when possible, otherwise Rebase.",merge strategy description for rebase fallback,0.8,"Fast-forward når det er muligt, ellers rebase.","Fast-Forward wenn möglich, sonst Rebase.",尽可能快进，否则变基。,儘可能快轉，否則重定基底。
 Fast-forward merge,status message: merge completed by moving branch pointer forward,0.8,Fast-forward merge,Fast-Forward-Merge,快进合并,快轉合併
@@ -4168,7 +4182,7 @@ Git history is deleted but working directory is kept in %@.,"delete warning for 
 Merge not needed,status message: branches are already up to date,0.8,Merge ikke nødvendigt,Merge nicht nötig,无需合并,無需合併
 Modifications inside %@ are lost when you purge.,"warning before purging a submodule with local changes, %@ is submodule name",0.8,Ændringer i %@ går tabt når du rydder.,"Änderungen in %@ gehen verloren, wenn du bereinigst.",清除时 %@ 中的修改将丢失。,清除時 %@ 中的修改將遺失。
 Modifications inside %@ are lost when you update.,"warning before updating a submodule with local changes, %@ is submodule name",0.8,Ændringer i %@ går tabt når du opdaterer.,"Änderungen in %@ gehen verloren, wenn du aktualisierst.",更新时 %@ 中的修改将丢失。,更新時 %@ 中的修改將遺失。
-No longer watching changes in %@ as this requires %@ to run in the foreground unless you enable Server Persistence.,"notification when file watching stops in background, first %@ is repository name, second %@ is app name",0.8,Overvåger ikke længere ændringer i %@ da dette kræver at %@ kører i forgrunden medmindre du aktiverer Server Persistence.,"Änderungen in %@ werden nicht mehr überwacht, da dies erfordert, dass %@ im Vordergrund läuft, es sei denn du aktivierst Server Persistence.",不再监视 %@ 中的更改，因为这需要 %@ 在前台运行，除非你启用服务器持久化。,不再監視 %@ 中的變更，因為這需要 %@ 在前景執行，除非你啟用伺服器持久化。
+No longer watching changes in %@ as this requires %@ to run in the foreground unless you enable Server Persistence.,"notification when file watching stops in background, first %@ is repository name, second %@ is app name",0.8,Overvåger ikke længere ændringer i %@ da dette kræver at %@ kører i forgrunden medmindre du aktiverer Server Persistence.,"Änderungen in %@ werden nicht mehr überwacht, da dies erfordert, dass %@ im Vordergrund läuft, es sei denn du aktivierst Server Persistence.",不再监视 %@ 中的更改，因为这需要 %@ 在前台运行，除非你启用服务器持续运行。,不再監視 %@ 中的變更，因為這需要 %@ 在前景執行，除非你啟用伺服器持續執行。
 Open .gitconfig to grant Working Copy access.,prompt asking user to select their .gitconfig file so the app can read it (macOS),0.8,Åbn .gitconfig for at give Working Copy adgang.,"Öffne .gitconfig, um Working Copy Zugriff zu gewähren.",打开 .gitconfig 以授予 Working Copy 访问权限。,開啟 .gitconfig 以提供 Working Copy 存取權限。
 Pick branch with commits you want to include in %@ and rebase on top of.,"instruction when rebase mode is active, arg: current branch name",0.8,Vælg branch med commits du vil inkludere i %@ og rebase oven på.,"Wähle den Branch mit Commits, die du in %@ einbeziehen und darauf rebasen möchtest.",选取包含你想要纳入 %@ 并在其上变基的提交的分支。,選取包含你想要納入 %@ 並在其上重定基底的提交的分支。
 Rebase %ld/%ld,"progress during rebase operation that replays commits, args: current step number, total steps",0.8,Rebase %ld/%ld,Rebase %ld/%ld,变基 %ld/%ld,重定基底 %ld/%ld
@@ -4176,19 +4190,19 @@ Removed %@ configuration,"success message after removing a submodule, %@ is the 
 Repository is removed from Working Copy but kept in %@.,"delete warning for external repository without internal .git folder, %@ is the external location name",0.8,Repository er fjernet fra Working Copy men beholdt i %@.,"Repository wurde aus Working Copy entfernt, aber in %@ behalten.",仓库已从 Working Copy 移除，但保留在 %@ 中。,版本庫已從 Working Copy 移除，但保留在 %@ 中。
 Repository reset and autostash applied.,success message after reverting when a stash was automatically reapplied,0.8,Repository nulstillet og autostash anvendt.,Repository zurückgesetzt und Autostash angewendet.,仓库已重置并已应用自动储藏。,版本庫已重設並已應用自動貯存。
 Restart,notification action button to restart the WebDAV server,0.8,Genstart,Neustart,重新启动,重新啟動
-SSH connection to %@ stopped. It requires %@ to run in the foreground unless you enable Server Persistence.,"notification when SSH stops in background, first %@ is hostname, second %@ is app name",0.8,SSH-forbindelse til %@ stoppede. Det kræver at %@ kører i forgrunden medmindre du aktiverer Server Persistence.,"SSH-Verbindung zu %@ gestoppt. Es erfordert, dass %@ im Vordergrund läuft, es sei denn, du aktivierst Server Persistence.",到 %@ 的 SSH 连接已停止。除非你启用服务器持久化，否则需要 %@ 在前台运行。,到 %@ 的 SSH 連線已停止。除非你啟用伺服器持續執行，否則需要 %@ 在前景執行。
+SSH connection to %@ stopped. It requires %@ to run in the foreground unless you enable Server Persistence.,"notification when SSH stops in background, first %@ is hostname, second %@ is app name",0.8,SSH-forbindelse til %@ stoppede. Det kræver at %@ kører i forgrunden medmindre du aktiverer Server Persistence.,"SSH-Verbindung zu %@ gestoppt. Es erfordert, dass %@ im Vordergrund läuft, es sei denn, du aktivierst Server Persistence.",到 %@ 的 SSH 连接已停止。除非你启用服务器持续运行，否则需要 %@ 在前台运行。,到 %@ 的 SSH 連線已停止。除非你啟用伺服器持續執行，否則需要 %@ 在前景執行。
 Server has been created but no SSH key is configured to authenticate.,warning after server creation when SSH key was not configured,0.8,"Server er oprettet, men ingen SSH-nøgle er konfigureret til godkendelse.","Server wurde erstellt, aber es ist kein SSH-Schlüssel zur Authentifizierung konfiguriert.",服务器已创建，但未配置用于认证的 SSH 密钥。,伺服器已建立，但未設定用於認證的 SSH 金鑰。
 Signing key configured for %@ on GitHub.,success message after uploading signing key to GitHub; %@ is the GitHub username,0.8,Signeringsnøgle konfigureret for %@ på GitHub.,Signierungsschlüssel für %@ auf GitHub konfiguriert.,已在 GitHub 上为 %@ 配置签名密钥。,已在 GitHub 上為 %@ 設定簽名金鑰。
 Signing key for %@ imported.,success message after key import; %@ is the PGP user ID like 'Name <email>',0.8,Signeringsnøgle for %@ importeret.,Signierungsschlüssel für %@ importiert.,已导入 %@ 的签名密钥。,已匯入 %@ 的簽名金鑰。
-Submodule %@ cloned.,"success message after cloning a submodule, %@ is submodule name",0.8,Submodule %@ klonet.,Submodule %@ geklont.,子模块 %@ 已克隆。,子模組 %@ 已拓製。
-Submodule %@ purged from repository.,"success message after purging a submodule, %@ is submodule name",0.8,Submodule %@ fjernet fra repository.,Submodule %@ aus Repository entfernt.,子模块 %@ 已从仓库中清除。,子模組 %@ 已從版本庫中清除。
-Submodule will be removed from device but can be cloned again.,warning before purging a submodule with no data loss,0.8,"Submodule fjernes fra enheden, men kan klones igen.","Submodule wird vom Gerät entfernt, kann aber erneut geklont werden.",子模块将从设备中移除，但可以重新克隆。,子模組將從裝置中移除，但可以重新拓製。
+Submodule %@ cloned.,"success message after cloning a submodule, %@ is submodule name",0.8,Submodule %@ klonet.,Submodule %@ geklont.,子模组 %@ 已克隆。,子模組 %@ 已拓製。
+Submodule %@ purged from repository.,"success message after purging a submodule, %@ is submodule name",0.8,Submodule %@ fjernet fra repository.,Submodule %@ aus Repository entfernt.,子模组 %@ 已从仓库中清除。,子模組 %@ 已從版本庫中清除。
+Submodule will be removed from device but can be cloned again.,warning before purging a submodule with no data loss,0.8,"Submodule fjernes fra enheden, men kan klones igen.","Submodule wird vom Gerät entfernt, kann aber erneut geklont werden.",子模组将从设备中移除，但可以重新克隆。,子模組將從裝置中移除，但可以重新拓製。
 Synchronizing %@ with %@ %@ ago.,"progress, args: repo name, sync target, time",0.8,Synkroniserer %@ med %@ for %@ siden.,Synchronisiere %@ mit %@ vor %@.,正在同步 %@ 与 %@，上次于 %@ 前。,正在同步 %@ 與 %@，上次於 %@ 前。
 Synchronizing %@ with %@ just now.,"progress, args: repo name, sync target",0.8,Synkroniserer %@ med %@ lige nu.,Synchronisiere %@ mit %@ gerade eben.,正在同步 %@ 与 %@，刚刚开始。,正在同步 %@ 與 %@，剛剛開始。
 Synchronizing %@ with %@.,"progress, args: repo name, sync target",0.8,Synkroniserer %@ med %@.,Synchronisiere %@ mit %@.,正在同步 %@ 与 %@。,正在同步 %@ 與 %@。
 Tap to replace the existing '%@/.git' with the one from Working Copy?,confirmation prompt when moving .git externally and one already exists; %@ is the directory name,0.8,Tryk for at erstatte den eksisterende '%@/.git' med den fra Working Copy?,"Tippe, um die vorhandene '%@/.git' durch die von Working Copy zu ersetzen?",轻触以用 Working Copy 中的 .git 替换现有的“%@/.git”？,點一下以用 Working Copy 中的「.git」取代現有的「%@/.git」？
 Updating %@,"progress title while updating or cloning a submodule, %@ is submodule name",0.8,Opdaterer %@,Aktualisiere %@,正在更新 %@,正在更新 %@
-WebDAV Server stopped. It requires %@ to run in the foreground unless you enable Server Persistence.,"notification when WebDAV server stops in background, arg: app name",0.8,WebDAV-server stoppet. Den kræver at %@ kører i forgrunden medmindre du aktiverer serverpersistens.,"WebDAV-Server gestoppt. Er erfordert, dass %@ im Vordergrund läuft, es sei denn, du aktivierst Serverpersistenz.",WebDAV 服务器已停止。除非你启用服务器持久化，否则需要 %@ 在前台运行。,WebDAV 伺服器已停止。除非你啟用伺服器持久化，否則需要 %@ 在前景執行。
+WebDAV Server stopped. It requires %@ to run in the foreground unless you enable Server Persistence.,"notification when WebDAV server stops in background, arg: app name",0.8,WebDAV-server stoppet. Den kræver at %@ kører i forgrunden medmindre du aktiverer serverpersistens.,"WebDAV-Server gestoppt. Er erfordert, dass %@ im Vordergrund läuft, es sei denn, du aktivierst Serverpersistenz.",WebDAV 服务器已停止。除非你启用服务器持续运行，否则需要 %@ 在前台运行。,WebDAV 伺服器已停止。除非你啟用伺服器持續執行，否則需要 %@ 在前景執行。
 WebDAV server stopped.,status message after stopping the WebDAV server,0.8,WebDAV-server stoppet.,WebDAV-Server gestoppt.,WebDAV 服务器已停止。,WebDAV 伺服器已停止。
 When syncing stops you will no longer be able to restore files overwritten or deleted by Sync.,confirmation message when deleting a sync configuration,0.8,Når synkronisering stopper vil du ikke længere kunne gendanne filer overskrevet eller slettet af Sync.,"Wenn die Synchronisierung stoppt, kannst du keine Dateien mehr wiederherstellen, die von Sync überschrieben oder gelöscht wurden.",当同步停止后，你将无法再恢复被同步覆盖或删除的文件。,當同步停止後，你將無法再恢復被同步覆蓋或刪除的檔案。
 "When syncing stops you will no longer be able to restore files overwritten or deleted by Sync.
@@ -4227,7 +4241,7 @@ Unable to get public key from Secure Enclave,error when extracting the public ke
 Unable to launch Pythonista. Perhaps it is not installed.,error when Pythonista app cannot be opened,0.6,Kan ikke starte Pythonista. Måske er den ikke installeret.,Pythonista kann nicht gestartet werden. Möglicherweise ist es nicht installiert.,无法启动 Pythonista。可能尚未安装。,無法啟動 Pythonista。可能尚未安裝。
 Unable to parse chained command,error when chain callback URL is malformed,0.6,Kan ikke fortolke kædet kommando,Verketteter Befehl kann nicht geparst werden,无法解析链式命令,無法解析鏈式指令
 Unable to parse endpoint URL,error when LLM API endpoint URL is malformed,0.6,Kan ikke fortolke endpoint-URL,Endpoint-URL kann nicht geparst werden,无法解析端点 URL,無法解析端點 URL
-Unable to prompt for Gerrit ,error when the Gerrit push dialog cannot be shown,0.6,Kan ikke vise Gerrit-prompt ,Gerrit-Eingabeaufforderung kann nicht angezeigt werden ,无法显示 Gerrit 提示 ,無法顯示 Gerrit 提示 
+Unable to prompt for Gerrit ,error when the Gerrit push dialog cannot be shown,0.6,Kan ikke vise Gerrit-prompt ,Gerrit-Eingabeaufforderung kann nicht angezeigt werden ,无法显示 Gerrit 对话框,無法顯示 Gerrit 對話方塊
 Unexpected Beanstalk response,error message when Beanstalk API returns unexpected data,0.6,Uventet Beanstalk-svar,Unerwartete Beanstalk-Antwort,意外的 Beanstalk 响应,意外的 Beanstalk 回應
 Unexpected BitBucket response.,error when BitBucket API returns data in an unexpected format,0.6,Uventet BitBucket-svar.,Unerwartete BitBucket-Antwort.,意外的 BitBucket 响应。,意外的 BitBucket 回應。
 Unexpected auth magic header: $HEADER,"Error with unexpected OpenSSH magic header, $HEADER is replaced with the actual header value",0.6,Uventet autentificerings-magic-header: $HEADER,Unerwarteter Authentifizierungs-Magic-Header: $HEADER,意外的认证魔数标头：$HEADER,意外的認證魔數標頭：$HEADER
