@@ -1376,7 +1376,7 @@ Local Branch,navigation title for local branch detail,2.4,Lokal branch,Lokaler B
 Local branches,section header for branches that only exist locally,2.4,Lokale branches,Lokale Branches,本地分支,本機分支
 Logs,navigation title for log list,2.4,Logs,Logs,日志,日誌
 Name of branch,placeholder text in branch name input field,2.4,Navn på branch,Name des Branch,分支名称,分支名稱
-New branch name,placeholder in text field when creating a new branch,2.4,Nyt branch-navn,Neuer Branch-Name,新分支名称,新分支名稱稱
+New branch name,placeholder in text field when creating a new branch,2.4,Nyt branch-navn,Neuer Branch-Name,新分支名称,新分支名稱
 No items,placeholder when history pick menu has no choices,2.4,Ingen elementer,Keine Elemente,无项目,無專案
 No subdirectories,placeholder shown when current directory has no subdirectories,2.4,Ingen undermapper,Keine Unterverzeichnisse,没有子目录,沒有子目錄
 Optional passphrase,placeholder in passphrase field when exporting private key,2.4,Valgfri adgangskode,Optionale Passphrase,可选密码短语,可選密碼短語
@@ -1982,7 +1982,7 @@ Empty,choice title shown when a parameter value is disabled/empty,2.0,Tom,Leer,�
 Enable AI in repository settings,,2.0,Aktiver AI i repository-indstillinger,KI in Repository-Einstellungen aktivieren,在仓库设置中启用 AI,在版本庫設定中啟用 AI
 Enable Provider,storyboard string for Enable Provider,2.0,Aktivér udbyder,Anbieter aktivieren,启用服务商,啟用服務商
 Enabled,storyboard string for Enabled,2.0,Aktiveret,Aktiviert,已启用,已啟用
-Endpoint,,2.0,Endpoint,Endpoint,端点,Endpoint
+Endpoint,,2.0,Endpoint,Endpoint,端点,端點
 Ensure,checkout mode: create branch only if it does not exist,2.0,Sørg for,Sicherstellen,确保,確保
 Enter Model Name…,,2.0,Indtast modelnavn…,Modellnamen eingeben …,输入模型名称…,輸入模型名稱…
 Enter hostname for Ollama endpoint.,,2.0,Indtast hostname for Ollama-endpoint.,Hostname für Ollama-Endpoint eingeben.,输入 Ollama 端点的主机名。,輸入 Ollama 端點的主機名稱。
@@ -3001,7 +3001,7 @@ Overvej at ændre serverfeltet til noget i retning af https://dev.azure.com/acco
 
 Überlege, das Serverfeld auf etwas wie https://dev.azure.com/account/ anzupassen","未找到端点。
 
-请考虑将服务器字段调整为类似 https://dev.azure.com/account/ 的格式","未找到 Endpoint。
+请考虑将服务器字段调整为类似 https://dev.azure.com/account/ 的格式","未找到端點。
 
 請考慮將伺服器欄位調整為類似 https://dev.azure.com/account/ 的格式"
 Enter a hostname and header in Name: Value format.,Error when extra header input is invalid,1.6,Angiv et værtsnavn og en header i formatet Navn: Værdi.,Geben Sie einen Hostnamen und einen Header im Format Name: Wert ein.,输入主机名和标头，格式为“名称: 值”。,輸入主機名稱和標頭，格式為「名稱: 值」。
@@ -3434,7 +3434,7 @@ Unable to write to file: %@,"error when writing received data to local file fail
 Unfinished editing of %@ branch. Tap to cancel edits.,"banner message about an unfinished interactive rebase edit, arg: branch name",1.6,Uafsluttet redigering af %@ branch. Tryk for at annullere redigeringer.,"Unvollständige Bearbeitung des %@ Branch. Tippe, um Änderungen abzubrechen.",%@ 分支编辑未完成。轻触以取消编辑。,%@ 分支編輯未完成。點一下以取消編輯。
 Unknown,short sync strategy label for unrecognized strategy,1.6,Ukendt,Unbekannt,未知,未知
 Unknown Sync strategy.,sync action description for unrecognized strategy,1.6,Ukendt synkroniseringsstrategi.,Unbekannte Sync-Strategie.,未知的同步策略。,未知的同步策略。
-Unknown branch name '%@'.,"error when branch name not found in repository, %@ is branch name",1.6,Ukendt branch-navn '%@'.,Unbekannter Branch-Name '%@'.,未知的分支名称“%@”。,未知的分支名稱稱「%@」。
+Unknown branch name '%@'.,"error when branch name not found in repository, %@ is branch name",1.6,Ukendt branch-navn '%@'.,Unbekannter Branch-Name '%@'.,未知的分支名称“%@”。,未知的分支名稱「%@」。
 Unknown hostname %@,"error when DNS lookup fails for a server, %@ is the hostname",1.6,Ukendt værtsnavn %@,Unbekannter Hostname %@,未知的主机名 %@,未知的主機名稱 %@
 Unknown search scope,error when commit search uses an unrecognized scope,1.6,Ukendt søgeområde,Unbekannter Suchbereich,未知的搜索范围,未知的搜尋範圍
 Unsupported command %@: %@,SVG path parsing error: args are command letter and context string,1.6,Kommando ikke understøttet %@: %@,Nicht unterstützter Befehl %@: %@,不支持的命令 %@：%@,不支援的指令 %@：%@
