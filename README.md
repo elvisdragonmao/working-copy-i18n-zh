@@ -12,6 +12,12 @@
 
 不過這幾個東西的格式我知道不太適合你工作，所以可以先寫個腳本把它轉成 JSON 等格式。
 
+## Review tools
+
+* `pnpm review:build` - build `review.html` for translation review.
+* `pnpm review:diff` - compare the `localization.csv` from `6fe111301789e72fb73a45a825a35cb9676f1577` against the working tree and write `localization-diff.html`.
+  * Use `node scripts/build-localization-diff.mjs --base <commit> --output <path>` to change the base commit or output path.
+
 我希望你可以幫我做以下的事，不同事分 commit。
 
 * 寫一個 CI 驗證 localization.csv 的資料格式正確，包括基本格式，語言的變數和原文相符等等

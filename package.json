@@ -3,6 +3,7 @@
   "scripts": {
     "fill:zh-tw": "node scripts/fill-zh-tw.mjs",
     "review:build": "node scripts/build-review.mjs",
+    "review:diff": "node scripts/build-localization-diff.mjs",
     "validate": "node scripts/validate-localization.mjs"
   },
   "devDependencies": {
