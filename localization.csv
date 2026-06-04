@@ -1446,7 +1446,7 @@ Die 'Nothing'-Aktion kann verwendet werden, damit der Kurzbefehl kein Ergebnis e
 
 可以使用“无”操作让快捷指令不产生结果，从而避免更改。","你的檔案被捷徑變更了。
 
-可以使用「Nothing」操作使捷徑不產生結果，從而避免變更。"
+可以使用「無」操作使捷徑不產生結果，從而避免變更。"
 All,storyboard string for All,2.2,Alle,Alle,全部,全部
 Clone,storyboard string for Clone,2.2,Clone,Clone,克隆,拓製
 Clone,storyboard string for Clone,2.2,Clone,Clone,克隆,拓製
