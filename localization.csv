@@ -678,7 +678,7 @@ Tippe, um trotzdem zu committen.","你即将在没有任何文件的情况下提
 Please support development.","toolbar message encouraging support purchase, %d is the number of weeks the app has been used",4.0,"Du har brugt Working Copy i %d uger.
 Støt venligst udviklingen.","Du benutzt Working Copy seit %d Wochen.
 Bitte unterstütze die Entwicklung.","你已使用 Working Copy %d 周。
-请支持开发。","你已使用 Working Copy %d 周。
+请支持开发。","你已使用 Working Copy %d 週。
 請支援開發。"
 "You have used Working Copy for %d years.
 Please support development.","toolbar message encouraging support purchase, %d is the number of years the app has been used",4.0,"Du har brugt Working Copy i %d år.
@@ -3580,7 +3580,7 @@ Dies kann passieren, wenn die .bashrc auf dem Remote-Server Ausgaben erzeugt.","
 
 如果遠端伺服器上的 .bashrc 產生了任何輸出，就可能發生這種情況。"
 Ask about this repository...,placeholder text in the agent prompt input field,1.5,Spørg om dette repository…,Über dieses Repository fragen …,询问关于此仓库的问题…,詢問關於此版本庫的問題…
-Biometric authentication failed,error when Face ID or Touch ID authentication fails for Secure Enclave key,1.5,Biometrisk autentificering mislykkedes,Biometrische Authentifizierung fehlgeschlagen,生物识别验证失败,生物識別驗證失敗
+Biometric authentication failed,error when Face ID or Touch ID authentication fails for Secure Enclave key,1.5,Biometrisk autentificering mislykkedes,Biometrische Authentifizierung fehlgeschlagen,生物识别验证失败,生物辨識驗證失敗
 Gerrit dialog cancelled.,error when user cancels Gerrit review dialog during push,1.5,Gerrit-dialog annulleret.,Gerrit-Dialog abgebrochen.,Gerrit 对话框已取消。,Gerrit 對話方塊已取消。
 Invalid parameters,error when repo or remote is nil for LFS SSH upload,1.5,Ugyldige parametre,Ungültige Parameter,无效的参数,無效的參數
 Repeat passphrase,placeholder in passphrase confirmation text field during key generation,1.5,Gentag adgangskode,Passphrase wiederholen,重复密码短语,重複密碼短語
